@@ -1,2 +1,2 @@
-# datasets
-Useful datasets for teaching
+# Welcome!
+A repository for sharing datasets we use in our classes and keeping track of the topics for which they are useful.
