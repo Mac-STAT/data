@@ -11,5 +11,6 @@ A repository for sharing datasets we use in our classes and keeping track of the
 | Sleep Data | [sleep_wide.csv](sleep_wide.csv) | [sleep_wide_codebook.md](sleep_wide_codebook.md) | reshaping | 112 |
 | State-level SAT Scores | [sat.csv](sat.csv) | [sat_codebook.md](sat_codebook.md) | multi viz, confounding | 112 |
 | Starbucks Data | [starbucks.csv](starbucks.csv) | [starbucks_codebook.md](starbucks_codebook.md) | spatial viz | 112 |
+| US Holiday Data | [US_Holidays.csv](US_Holidays.csv) | [US_Holidays_codebook.md](US_Holidays_codebook.md) | joins, dates | 112 |
 | Weather Data | [weather_3_locations.csv](weather_3_locations.csv) | [weather_3_locations_codebook.md](weather_3_locations_codebook.md) | data viz | 112 |
 
