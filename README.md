@@ -8,6 +8,7 @@ A repository for sharing datasets we use in our classes and keeping track of the
 | Grades and Courses | [grades.csv](grades.csv), [courses.csv](courses.csv) | [grades_courses_codebook.md](grades_courses_codebook.md) | joins | 112 |
 | High Peaks | [high_peaks.csv](high_peaks.csv) | [high_peaks_codebook.md](high_peaks_codebook.md) | data viz | 112 |
 | Macalester Natural Gas Data | [MacNaturalGas.csv](MacNaturalGas.csv) | [MacNaturalGas_codebook.md](MacNaturalGas_codebook.md) | data viz, confounding | 112 |
+| Macalester Registrar Data | [registrar.csv](registrar.csv) | [registrar_codebook.md](registrar_codebook.md) | strings, regex | 112 |
 | Sleep Data | [sleep_wide.csv](sleep_wide.csv) | [sleep_wide_codebook.md](sleep_wide_codebook.md) | reshaping | 112 |
 | State-level SAT Scores | [sat.csv](sat.csv) | [sat_codebook.md](sat_codebook.md) | multi viz, confounding | 112 |
 | Starbucks Data | [starbucks.csv](starbucks.csv) | [starbucks_codebook.md](starbucks_codebook.md) | spatial viz | 112 |
