@@ -5,6 +5,7 @@ A repository for sharing datasets we use in our classes and keeping track of the
 | --- | --- | --- | --- | --- |
 | Election Data - County | [election_2020_county.csv](election_2020_county.csv) | [election_2020_codebook.md](election_2020_codebook.md) | data viz | 112 |
 | Election Data - State | [election_2020_by_state.csv](election_2020_by_state.csv) | [election_2020_codebook2.md](election_2020_codebook2.md) | data viz | 112 |
+| Grades and Courses | [grades.csv](grades.csv), [courses.csv](courses.csv) | [grades_courses_codebook.md](grades_courses_codebook.md) | joins | 112 |
 | High Peaks | [high_peaks.csv](high_peaks.csv) | [high_peaks_codebook.md](high_peaks_codebook.md) | data viz | 112 |
 | Macalester Natural Gas Data | [MacNaturalGas.csv](MacNaturalGas.csv) | [MacNaturalGas_codebook.md](MacNaturalGas_codebook.md) | data viz, confounding | 112 |
 | Sleep Data | [sleep_wide.csv](sleep_wide.csv) | [sleep_wide_codebook.md](sleep_wide_codebook.md) | reshaping | 112 |
