@@ -7,6 +7,7 @@ A repository for sharing datasets we use in our classes and keeping track of the
 | Election Data - State | [election_2020_by_state.csv](election_2020_by_state.csv) | [election_2020_codebook2.md](election_2020_codebook2.md) | data viz | 112 |
 | Grades and Courses | [grades.csv](grades.csv), [courses.csv](courses.csv) | [grades_courses_codebook.md](grades_courses_codebook.md) | joins | 112 |
 | High Peaks | [high_peaks.csv](high_peaks.csv) | [high_peaks_codebook.md](high_peaks_codebook.md) | data viz | 112 |
+| IMDB 5000 Messy | [imdb_5000_messy.csv](imdb_5000_messy.csv) | [imdb_5000_messy_codebook.md](imdb_5000_messy_codebook.md) | data cleaning | 112 |
 | Macalester Natural Gas Data | [MacNaturalGas.csv](MacNaturalGas.csv) | [MacNaturalGas_codebook.md](MacNaturalGas_codebook.md) | data viz, confounding | 112 |
 | Macalester Registrar Data | [registrar.csv](registrar.csv) | [registrar_codebook.md](registrar_codebook.md) | strings, regex | 112 |
 | Sleep Data | [sleep_wide.csv](sleep_wide.csv) | [sleep_wide_codebook.md](sleep_wide_codebook.md) | reshaping | 112 |
