@@ -8,6 +8,7 @@ A repository for sharing datasets we use in our classes and keeping track of the
 | Election Data - State | [election_2020_by_state.csv](election_2020_by_state.csv) | [election_2020_codebook2.md](election_2020_codebook2.md) | data viz | 112 |
 | FEV (Lung Function) and Smoking | [fev.csv](fev.csv) | [fev.doc](http://www.emersonstatistics.com/datasets/fev.doc) | linear regression, transformations, confounding, interaction, DAGs | 155 |
 | Grades and Courses | [grades.csv](grades.csv), [courses.csv](courses.csv) | [grades_courses_codebook.md](grades_courses_codebook.md) | joins | 112 |
+| JHU Course Evaluations | [jhu_evals.csv](jhu_evals.csv) | [jhu_evals_codebook.md](jhu_evals_codebook.md) | data viz | 155 |
 | High Peaks | [high_peaks.csv](high_peaks.csv) | [high_peaks_codebook.md](high_peaks_codebook.md) | data viz | 112 |
 | Home Sales in NY | [homes.csv](homes.csv) | coming soon | data viz | 155 |
 | IMDB 5000 Messy | [imdb_5000_messy.csv](imdb_5000_messy.csv) | [imdb_5000_messy_codebook.md](imdb_5000_messy_codebook.md) | data cleaning | 112 |
@@ -19,5 +20,5 @@ A repository for sharing datasets we use in our classes and keeping track of the
 | Starbucks Data | [starbucks.csv](starbucks.csv) | [starbucks_codebook.md](starbucks_codebook.md) | spatial viz | 112 |
 | Titanic | [titanic.csv](titanic.csv) | coming soon | logistic, prediction, DAGs | 155 |
 | US Holiday Data | [US_Holidays.csv](US_Holidays.csv) | [US_Holidays_codebook.md](US_Holidays_codebook.md) | joins, dates | 112 |
-| Weather Data | [weather_3_locations.csv](weather_3_locations.csv) | [weather_3_locations_codebook.md](weather_3_locations_codebook.md) | data viz | 112 |
+| Weather Data | [weather_3_locations.csv](weather_3_locations.csv) | [weather_3_locations_codebook.md](weather_3_locations_codebook.md) | data viz | 112, 155 |
 
