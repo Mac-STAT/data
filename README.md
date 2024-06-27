@@ -15,6 +15,7 @@ A repository for sharing datasets we use in our classes and keeping track of the
 | Macalester Natural Gas Data | [MacNaturalGas.csv](MacNaturalGas.csv) | [MacNaturalGas_codebook.md](MacNaturalGas_codebook.md) | data viz, confounding | 112 |
 | Macalester Registrar Data | [registrar.csv](registrar.csv) | [registrar_codebook.md](registrar_codebook.md) | strings, regex | 112 |
 | Resume Data | [resume.csv](resume.csv) | [OpenIntro Codebook](https://www.openintro.org/data/index.php?data=resume) | logistic, inference | 155 |
+| SFO Weather Data | [sfo_weather.csv](sfo_weather.csv) | [sfo_weather_codebook.md](sfo_weather_codebook.md) | adv ggplot | 212 |
 | Sleep Data | [sleep_wide.csv](sleep_wide.csv) | [sleep_wide_codebook.md](sleep_wide_codebook.md) | reshaping | 112 |
 | State-level SAT Scores | [sat.csv](sat.csv) | [sat_codebook.md](sat_codebook.md) | multi viz, confounding | 112 |
 | Starbucks Data | [starbucks.csv](starbucks.csv) | [starbucks_codebook.md](starbucks_codebook.md) | spatial viz | 112 |
