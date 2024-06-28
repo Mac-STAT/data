@@ -6,7 +6,7 @@ A repository for sharing datasets we use in our classes and keeping track of the
 | Bikeshare Data | [bikeshare.csv](bikeshare.csv) | coming soon | linear regression | 155|
 | Election Data - County | [election_2020_county.csv](election_2020_county.csv) | [election_2020_codebook.md](election_2020_codebook.md) | data viz | 112 |
 | Election Data - State | [election_2020_by_state.csv](election_2020_by_state.csv) | [election_2020_codebook2.md](election_2020_codebook2.md) | data viz | 112 |
-| FEV (Lung Function) and Smoking | [fev.csv](fev.csv) | [fev.doc](http://www.emersonstatistics.com/datasets/fev.doc) | linear regression, transformations, confounding, interaction, DAGs | 155 |
+| FEV (Lung Function) and Smoking | [fev.csv](fev.csv) | [fev_codebook.md](fev_codebook.md) | linear regression, transformations, confounding, interaction, DAGs | 155 |
 | Grades and Courses | [grades.csv](grades.csv), [courses.csv](courses.csv) | [grades_courses_codebook.md](grades_courses_codebook.md) | joins | 112 |
 | JHU Course Evaluations | [jhu_evals.csv](jhu_evals.csv) | [jhu_evals_codebook.md](jhu_evals_codebook.md) | data viz | 155 |
 | High Peaks | [high_peaks.csv](high_peaks.csv) | [high_peaks_codebook.md](high_peaks_codebook.md) | data viz | 112 |
