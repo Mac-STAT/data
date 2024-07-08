@@ -4,6 +4,7 @@ A repository for sharing datasets we use in our classes and keeping track of the
 
 | Data Set Name                   | File Name                                                | Codebook File                                                                                        | Useful For                                                           | Courses  |
 |---------------|---------------|---------------|---------------|---------------|
+| Big Mac   Data                  | [bigmac.csv](bigmac.csv)                                 | [bigmac_codebook.md](bigmac_codebook.md)                                                             | trasnformation of variables                                          | 155      |
 | Bikeshare Data                  | [bikeshare.csv](bikeshare.csv)                           | coming soon                                                                                          | linear regression                                                    | 155      |
 | College Data                    | [college.csv](college.csv)                               | [college_codebook.md](college_codebook.md)                                                           | scale transformations of variables, interaction, meaningful outliers | 155      |
 | Election Data - County          | [election_2020_county.csv](election_2020_county.csv)     | [election_2020_codebook.md](election_2020_codebook.md)                                               | data viz                                                             | 112      |
