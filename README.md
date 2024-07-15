@@ -4,7 +4,7 @@ A repository for sharing datasets we use in our classes and keeping track of the
 
 | Data Set Name                   | File Name                                                | Codebook File                                                                                        | Useful For                                                           | Courses  |
 |---------------|---------------|---------------|---------------|---------------|
-| Big Mac   Data                  | [bigmac.csv](bigmac.csv)                                 | [bigmac_codebook.md](bigmac_codebook.md)                                                             | trasnformation of variables                                          | 155      |
+| Big Mac   Data                  | [bigmac.csv](bigmac.csv)                                 | [bigmac_codebook.md](bigmac_codebook.md)                                                             | transformation of variables                                          | 155      |
 | Bikeshare Data                  | [bikeshare.csv](bikeshare.csv)                           | coming soon                                                                                          | linear regression                                                    | 155      |
 | College Data                    | [college.csv](college.csv)                               | [college_codebook.md](college_codebook.md)                                                           | scale transformations of variables, interaction, meaningful outliers | 155      |
 | Crash  Data                    | [Crash.csv](Crash.csv)                               | [crash_codebook.md](crash_codebook.md)                                                           | mapping | 212      |
