@@ -1,0 +1,663 @@
+title,artist,popularity,album_name,album_release,genre,danceability,energy,loudness,mode,speechiness,acousticness,instrumentalness,liveness,valence,tempo,duration_ms
+Circles,Post Malone,98,Hollywood's Bleeding,2019-09-06,pop,0.695,0.762,-3.497,1,0.0395,0.192,0.00244,0.0863,0.553,120.042,215280
+Ayy Macarena,Tyga,91,Ayy Macarena,2019-11-13,pop,0.816,0.63,-5.568,1,0.226,0.133,0,0.0692,0.715,96.493,131607
+I Don't Care (with Justin Bieber),Ed Sheeran,90,I Don't Care (with Justin Bieber),2019-05-10,pop,0.798,0.675,-5.041,1,0.0442,0.0912,0,0.0894,0.842,101.956,219947
+Goodbyes (feat. Young Thug),Post Malone,90,Hollywood's Bleeding,2019-09-06,latin,0.548,0.653,-3.875,1,0.081,0.456,0,0.103,0.163,150.068,174853
+Sunflower - Spider-Man: Into the Spider-Verse,Post Malone,88,Spider-Man: Into the Spider-Verse (Soundtrack From & Inspired by the Motion Picture),2018-12-14,pop,0.76,0.479,-5.574,1,0.0466,0.556,0,0.0703,0.913,89.911,158040
+Sunflower - Spider-Man: Into the Spider-Verse,Post Malone,87,Hollywood's Bleeding,2019-09-06,pop,0.755,0.522,-4.368,1,0.0575,0.533,0,0.0685,0.925,89.96,157560
+"thank u, next",Ariana Grande,87,"thank u, next",2019-02-08,pop,0.717,0.653,-5.634,1,0.0658,0.229,0,0.101,0.412,106.966,207320
+Better Now,Post Malone,87,beerbongs & bentleys,2018-04-27,pop,0.68,0.578,-5.804,1,0.04,0.331,0,0.135,0.341,145.038,231267
+You Need To Calm Down,Taylor Swift,86,Lover,2019-08-23,pop,0.771,0.671,-5.617,1,0.0553,0.00929,0,0.0637,0.714,85.026,171360
+Perfect,Ed Sheeran,86,÷ (Deluxe),2017-03-03,latin,0.599,0.448,-6.312,1,0.0232,0.163,0,0.106,0.168,95.05,263400
+Closer (feat. Halsey),The Chainsmokers,85,Closer (feat. Halsey),2016-07-29,pop,0.748,0.524,-5.599,1,0.0338,0.414,0,0.111,0.661,95.01,244960
+Family,The Chainsmokers,85,World War Joy,2019-12-06,pop,0.584,0.607,-6.605,1,0.0356,0.426,0,0.101,0.374,117.817,194827
+Lover (Remix) [feat. Shawn Mendes],Taylor Swift,85,Lover (Remix) [feat. Shawn Mendes],2019-11-13,pop,0.448,0.603,-7.176,1,0.064,0.433,0,0.0862,0.422,205.272,221307
+Takeaway,The Chainsmokers,85,World War Joy,2019-12-06,pop,0.528,0.511,-8.144,1,0.0324,0.126,0,0.101,0.351,100.1,209880
+Mean It,Lauv,85,~how i'm feeling~,2019-11-14,pop,0.746,0.45,-8.543,1,0.0872,0.0407,0,0.172,0.336,95.998,232853
+Fantasía,Ozuna,85,Nibiru,2019-11-29,latin,0.695,0.719,-5.938,1,0.0903,0.227,1.71e-4,0.0884,0.781,180.074,175187
+Wake Me Up,Avicii,84,True,2013-01-01,pop,0.532,0.783,-5.697,1,0.0523,0.0038,0.0012,0.161,0.643,124.08,247427
+I Don't Care (with Justin Bieber),Ed Sheeran,84,No.6 Collaborations Project,2019-07-12,pop,0.798,0.675,-5.041,1,0.0442,0.0912,0,0.0894,0.842,101.956,219947
+"fuck, i'm lonely (with Anne-Marie) - from “13 Reasons Why: Season 3”",Lauv,84,"fuck, i'm lonely (with Anne-Marie) (from “13 Reasons Why: Season 3”)",2019-08-02,pop,0.806,0.558,-6.46,1,0.0683,0.482,0,0.0618,0.678,95.016,198973
+Photograph,Ed Sheeran,84,x (Deluxe Edition),2014-06-21,pop,0.614,0.379,-10.48,1,0.0476,0.607,4.64e-4,0.0986,0.201,107.989,258987
+Congratulations,Post Malone,84,Stoney (Deluxe),2016-12-09,pop,0.63,0.804,-4.183,1,0.0363,0.215,0,0.253,0.492,123.146,220293
+Used To Love (with Dean Lewis),Martin Garrix,83,Used To Love (with Dean Lewis),2019-10-31,pop,0.651,0.693,-4.722,1,0.0375,0.458,0,0.335,0.392,118.97,236765
+I Like Me Better,Lauv,83,I Like Me Better,2017-05-19,pop,0.752,0.505,-7.621,1,0.253,0.535,2.55e-6,0.104,0.419,91.97,197437
+i'm so tired...,Lauv,83,i'm so tired...,2019-01-24,pop,0.599,0.733,-7.058,1,0.203,0.176,0,0.242,0.534,102.211,162583
+One Dance,Drake,83,Views,2016-05-06,pop,0.792,0.625,-5.609,1,0.0536,0.00776,0.00188,0.329,0.37,103.967,173987
+In My Feelings,Drake,83,Scorpion,2018-06-29,pop,0.835,0.626,-5.833,1,0.125,0.0589,6e-5,0.396,0.35,91.03,217925
+The Scientist,Coldplay,83,A Rush of Blood to the Head,2002-08-08,pop,0.56,0.442,-7.224,1,0.0243,0.727,1.71e-5,0.11,0.212,146.448,309600
+Thinking out Loud,Ed Sheeran,83,x (Deluxe Edition),2014-06-21,latin,0.781,0.445,-6.061,1,0.0295,0.474,0,0.184,0.591,78.998,281560
+Psycho (feat. Ty Dolla $ign),Post Malone,83,beerbongs & bentleys,2018-04-27,r&b,0.75,0.56,-8.094,1,0.105,0.546,0,0.111,0.459,140.06,221440
+Sweet Child O' Mine,Guns N' Roses,82,Appetite For Destruction,1987-01-01,pop,0.454,0.91,-7.766,1,0.0446,0.0852,0.0988,0.116,0.63,125.116,354520
+Taste (feat. Offset),Tyga,82,Taste (feat. Offset),2018-05-16,latin,0.884,0.559,-7.442,1,0.12,0.0236,0,0.101,0.342,97.994,232959
+Nonstop,Drake,82,Scorpion,2018-06-29,latin,0.912,0.412,-8.074,1,0.124,0.0164,0.013,0.104,0.422,154.983,238614
+Without You (feat. Sandro Cavazza),Avicii,81,AVĪCI (01),2017-08-10,pop,0.662,0.858,-4.844,1,0.0428,0.00163,0,0.0456,0.295,133.993,181673
+Don't Let Me Down,The Chainsmokers,81,Don't Let Me Down,2016-02-05,pop,0.532,0.869,-5.094,1,0.172,0.157,0.00508,0.136,0.422,159.803,208373
+Feelings,Lauv,81,Feelings,2019-09-19,pop,0.694,0.466,-6.758,1,0.0384,0.0934,0,0.098,0.246,103.018,189613
+Yellow,Coldplay,81,Parachutes,2000-07-10,pop,0.429,0.661,-7.227,1,0.0281,0.00239,1.3e-4,0.234,0.285,173.365,266773
+Fix You,Coldplay,81,X&Y,2005-06-07,pop,0.209,0.418,-8.74,1,0.0338,0.163,0.00195,0.113,0.123,138.265,295533
+Under Pressure - Remastered,Queen,81,Hot Space (2011 Remaster),1982-05-03,rock,0.671,0.712,-7.815,1,0.0476,0.429,0,0.103,0.462,113.805,248440
+Heaven,Avicii,80,TIM,2019-06-06,pop,0.592,0.873,-5.65,1,0.0275,0.0715,0.00982,0.142,0.516,122.011,277262
+The Nights,Avicii,80,The Days / Nights,2014-01-01,pop,0.527,0.835,-5.298,1,0.0433,0.0166,0,0.249,0.654,125.983,176658
+God is a woman,Ariana Grande,80,Sweetener,2018-08-17,pop,0.602,0.658,-5.934,1,0.0558,0.0233,6e-5,0.237,0.268,145.031,197547
+Galway Girl,Ed Sheeran,80,÷ (Deluxe),2017-03-03,pop,0.624,0.876,-3.374,1,0.1,0.0735,0,0.327,0.781,99.943,170827
+Baila Baila Baila - Remix,Ozuna,80,"Baila Baila Baila (Remix) [feat. Farruko, Anuel Aa]",2019-04-25,latin,0.785,0.572,-7.504,1,0.123,0.0598,0,0.218,0.49,100.016,235284
+One Last Time,Ariana Grande,79,My Everything (Deluxe),2014-08-25,pop,0.628,0.593,-5.036,1,0.0323,0.093,1.65e-6,0.096,0.104,125.026,197267
+I Like Me Better,Lauv,79,I met you when I was 18. (the playlist),2018-05-31,pop,0.752,0.505,-7.621,1,0.253,0.535,2.55e-6,0.104,0.419,91.97,197437
+There's No Way (feat. Julia Michaels),Lauv,79,There's No Way (feat. Julia Michaels),2018-09-27,pop,0.755,0.625,-7.114,1,0.0896,0.49,0,0.157,0.374,147.02,174861
+We Will Rock You - Remastered,Queen,79,News Of The World (2011 Remaster),1977-10-28,rock,0.692,0.497,-7.316,1,0.119,0.676,0,0.259,0.475,81.308,122067
+Dreams - 2004 Remaster,Fleetwood Mac,79,Rumours (Super Deluxe),1977-02-04,rock,0.828,0.492,-9.744,1,0.0276,0.0644,0.00428,0.128,0.789,120.151,257800
+Vaina Loca,Ozuna,79,Aura,2018-08-24,latin,0.754,0.805,-4.249,1,0.0752,0.315,0,0.203,0.555,93.982,176133
+Changes,Lauv,79,~how i'm feeling~,2020-01-02,r&b,0.532,0.455,-8.366,1,0.156,0.452,0,0.237,0.204,148.182,160187
+I Forgot That You Existed,Taylor Swift,79,Lover,2019-08-23,r&b,0.664,0.316,-10.345,1,0.519,0.298,2.03e-6,0.0812,0.541,92.875,170640
+Into You,Ariana Grande,79,Dangerous Woman,2016-05-20,edm,0.623,0.734,-5.95,1,0.107,0.0162,1.9e-6,0.145,0.372,107.853,244453
+A Sky Full of Stars,Coldplay,78,Ghost Stories,2014-05-19,pop,0.551,0.636,-7.125,1,0.0281,0.00713,0.00203,0.217,0.153,124.996,268467
+Blank Space,Taylor Swift,78,1989 (Deluxe),2014-01-01,pop,0.76,0.703,-5.412,1,0.054,0.103,0,0.0913,0.57,95.997,231827
+breathin,Ariana Grande,78,Sweetener,2018-08-17,pop,0.568,0.656,-5.413,1,0.0433,0.0211,1.37e-5,0.213,0.364,100.049,198160
+Welcome To The Jungle,Guns N' Roses,78,Appetite For Destruction,1987-01-01,pop,0.446,0.954,-8.069,1,0.0764,0.0232,0.395,0.297,0.332,123.45,272027
+Stay,Post Malone,78,beerbongs & bentleys,2018-04-27,pop,0.507,0.48,-5.418,1,0.0266,0.449,0,0.147,0.35,86.046,204427
+Paradise City,Guns N' Roses,78,Appetite For Destruction,1987-01-01,rock,0.273,0.952,-8.762,1,0.0841,0.0169,0.0112,0.142,0.475,100.269,405640
+Dream On,Aerosmith,78,Aerosmith,1973-01-05,rock,0.307,0.433,-10.057,1,0.029,0.388,9.08e-5,0.332,0.224,160.9,266960
+The Chain - 2004 Remaster,Fleetwood Mac,78,Rumours (Super Deluxe),1977-02-04,rock,0.545,0.67,-8.81,1,0.0496,0.009,8.22e-4,0.0451,0.481,151.553,270213
+Paradise,Coldplay,77,Mylo Xyloto,2011-10-24,pop,0.449,0.585,-6.762,1,0.0268,0.0522,8.49e-5,0.0833,0.203,139.627,278719
+Everyday,Logic,77,Bobby Tarantino II,2018-03-09,pop,0.667,0.741,-4.099,1,0.0378,0.0425,0,0.0761,0.422,149.908,204747
+Behind Barz - Bonus,Drake,77,Top Boy (A Selection of Music Inspired by the Series),2019-09-13,rap,0.854,0.554,-4.684,1,0.172,0.769,1.84e-6,0.0749,0.272,142.069,163121
+Ambitionz Az A Ridah,2Pac,77,All Eyez On Me,1996-02-13,rap,0.801,0.908,-6.554,1,0.221,0.00253,6.55e-4,0.0698,0.805,87.279,278387
+Knockin' On Heaven's Door,Guns N' Roses,77,Use Your Illusion II,1991-09-17,rock,0.496,0.739,-7.193,1,0.0415,0.0211,0.00444,0.106,0.378,132.41,336000
+Perfect Duet (Ed Sheeran & Beyoncé),Ed Sheeran,77,Perfect Duet (Ed Sheeran & Beyoncé),2017-11-30,r&b,0.587,0.299,-7.365,1,0.0263,0.779,0,0.123,0.356,94.992,259550
+Hotline Bling,Drake,77,Views,2016-05-06,edm,0.891,0.625,-7.861,1,0.0558,0.00261,1.76e-4,0.0504,0.548,134.967,267067
+No Sleep (feat. Bonn),Martin Garrix,76,No Sleep (feat. Bonn),2019-02-21,pop,0.44,0.635,-6.385,1,0.0326,0.129,0,0.121,0.327,128.133,207095
+NASA,Ariana Grande,76,"thank u, next",2019-02-08,pop,0.747,0.458,-6.891,1,0.303,0.451,0,0.252,0.47,75.029,182000
+imagine,Ariana Grande,76,"thank u, next",2019-02-08,pop,0.729,0.475,-4.985,1,0.0364,0.378,0,0.12,0.371,62.52,212267
+We Are The Champions - Remastered 2011,Queen,76,News Of The World (2011 Remaster),1977-10-28,rock,0.268,0.459,-6.94,1,0.0346,0.378,0,0.118,0.175,64.177,179200
+Paris,The Chainsmokers,75,Paris,2017-01-13,pop,0.646,0.644,-6.763,1,0.031,0.0243,0,0.0888,0.251,99.999,221520
+Danza Kuduro,Don Omar,75,Meet The Orphans,2010-01-01,pop,0.4,0.915,-4.89,1,0.28,0.0846,0,0.0503,0.878,88.917,198773
+Jumpman,Drake,75,What A Time To Be Alive,2015-09-20,rap,0.852,0.553,-7.286,1,0.187,0.0563,0,0.332,0.656,142.072,205879
+All Eyez On Me,2Pac,75,All Eyez On Me,1996-02-13,rap,0.873,0.719,-5.948,1,0.248,0.03,0,0.333,0.858,93.281,307773
+Paris,$uicideBoy$,75,Now The Moon's Rising,2015-11-20,rap,0.849,0.648,-6.188,1,0.0832,0.0725,0.00592,0.0984,0.196,106.075,111020
+Patek,Ozuna,75,Nibiru,2019-11-29,rap,0.839,0.554,-6.124,1,0.181,0.418,0,0.0923,0.727,139.952,249733
+"I Don't Want to Miss a Thing - From ""Armageddon"" Soundtrack",Aerosmith,75,Armageddon - The Album,1998-06-23,rock,0.383,0.662,-5.162,1,0.0333,0.165,0,0.248,0.138,121.154,298760
+Heroes - 2017 Remaster,David Bowie,75,"""Heroes"" (2017 Remastered Version)",1977,rock,0.49,0.758,-6.491,1,0.0297,6.71e-4,0.484,0.092,0.435,112.114,371413
+Se Preparó,Ozuna,75,Odisea,2017-08-25,latin,0.739,0.821,-4.233,1,0.0852,0.222,9.6e-6,0.311,0.693,171.077,188080
+Adventure of a Lifetime,Coldplay,74,A Head Full of Dreams,2015-12-04,pop,0.638,0.924,-3.887,1,0.0359,0.00205,1.73e-4,0.149,0.529,111.995,263787
+We Are Never Ever Getting Back Together,Taylor Swift,74,Red (Big Machine Radio Release Special),2012-10-21,pop,0.628,0.676,-5.911,1,0.0916,0.00957,2.65e-5,0.121,0.75,85.984,193147
+Behind Barz - Bonus,Drake,74,Behind Barz (Bonus),2019-09-13,rap,0.854,0.554,-4.684,1,0.172,0.769,1.84e-6,0.0749,0.272,142.069,163121
+Portland,Drake,74,More Life,2017-03-18,rap,0.925,0.443,-8.216,1,0.264,0.0172,0,0.276,0.35,136.078,236615
+El Farsante - Remix,Ozuna,74,El Farsante (Remix),2018-01-30,rap,0.737,0.742,-2.875,1,0.0441,0.218,0,0.316,0.386,119.966,258000
+Crazy Little Thing Called Love - Remastered 2011,Queen,74,The Game (2011 Remaster),1980-06-27,rock,0.599,0.761,-6.887,1,0.0421,0.713,4.74e-6,0.349,0.712,77.015,163373
+Go Your Own Way - 2004 Remaster,Fleetwood Mac,74,Rumours,1977-02-04,rock,0.583,0.947,-5.12,1,0.0378,0.0185,0.00109,0.0679,0.803,135.448,223613
+"I Don't Want to Miss a Thing - From the Touchstone film, ""Armageddon""",Aerosmith,74,I Don't Want To Miss A Thing,1998-08-18,rock,0.39,0.649,-5.163,1,0.0345,0.172,0,0.216,0.144,121.16,299760
+Don't Cry (Original),Guns N' Roses,74,Use Your Illusion I,1991-01-01,rock,0.456,0.59,-8.638,1,0.0327,0.00182,0.00379,0.104,0.243,124.635,283733
+Rebel Rebel - 2016 Remaster,David Bowie,74,Diamond Dogs (2016 Remastered Version),1974-05-24,rock,0.635,0.686,-15.648,1,0.053,0.209,0.0176,0.282,0.464,125.988,274747
+Best Part of Me (feat. YEBBA),Ed Sheeran,74,Best Part of Me (feat. YEBBA),2019-07-05,r&b,0.565,0.242,-8.367,1,0.0318,0.762,9.3e-6,0.285,0.237,81.657,243267
+Roses,The Chainsmokers,73,Roses,2015-06-16,pop,0.713,0.802,-7.055,1,0.0561,0.0435,0.00377,0.309,0.343,100.001,226739
+ghostin,Ariana Grande,73,"thank u, next",2019-02-08,pop,0.287,0.364,-8.295,1,0.0306,0.418,1.8e-5,0.185,0.11,103.777,271467
+Lonely Together (feat. Rita Ora),Avicii,73,AVĪCI (01),2017-08-10,pop,0.655,0.666,-5.309,1,0.0612,0.134,2.12e-5,0.0683,0.272,102.977,181812
+SWISH,Tyga,73,SWISH,2018-07-25,rap,0.884,0.541,-5.608,1,0.221,0.0831,0,0.118,0.274,105.009,194936
+The Motto,Drake,73,Take Care (Deluxe),2011-11-15,rap,0.766,0.442,-8.558,1,0.356,1.07e-4,6.12e-5,0.111,0.39,201.8,181573
+2nd Hand,$uicideBoy$,73,KILL YOURSELF Part XII: The Dark Glacier Saga,2017-05-23,rap,0.935,0.429,-6.697,1,0.118,0.0308,0,0.102,0.0769,139.987,123481
+Go Your Own Way - 2004 Remaster,Fleetwood Mac,73,Rumours (Super Deluxe),1977-02-04,rock,0.586,0.941,-5.139,1,0.0375,0.0167,7.76e-4,0.068,0.831,135.448,223613
+Sweet Emotion,Aerosmith,73,Toys In The Attic,1975-04-08,rock,0.38,0.76,-10.961,1,0.0378,0.00298,0.0294,0.104,0.491,99.437,274133
+Muito Calor,Ozuna,73,Muito Calor,2019-07-11,latin,0.814,0.863,-2.885,1,0.0589,0.116,2.26e-4,0.0736,0.597,98.048,185147
+Cross Me (feat. Chance the Rapper & PnB Rock),Ed Sheeran,73,No.6 Collaborations Project,2019-07-12,r&b,0.746,0.787,-6.373,1,0.12,0.214,0,0.0669,0.607,95.005,206187
+MONOPOLY (with Victoria Monét),Ariana Grande,72,MONOPOLY,2019-04-01,pop,0.892,0.507,-8.282,1,0.378,0.704,3.14e-5,0.109,0.695,143.96,158587
+Changes,2Pac,72,The Best of 2Pac - Pt. 1: Thug,2007-01-01,rap,0.865,0.657,-6.722,1,0.076,0.0404,0,0.14,0.316,111.115,268960
+Eres Top,Ozuna,72,Nibiru,2019-11-29,rap,0.823,0.622,-5.706,1,0.0491,0.0105,2.69e-6,0.0453,0.602,100.022,204853
+Walk This Way,Aerosmith,72,Toys In The Attic,1975-04-08,rock,0.653,0.73,-10.613,1,0.043,0.0114,1.03e-5,0.0754,0.894,108.705,220400
+Dile Que Tu Me Quieres,Ozuna,72,Odisea,2017-08-25,latin,0.773,0.757,-4.959,1,0.0526,0.0864,3.73e-6,0.0727,0.858,88.006,226520
+The Story Never Ends,Lauv,72,I met you when I was 18. (the playlist),2018-05-31,r&b,0.614,0.126,-9.403,1,0.0376,0.911,0,0.148,0.351,119.945,229029
+These Are The Times (feat. JRM),Martin Garrix,71,These Are The Times (feat. JRM),2019-07-18,pop,0.687,0.707,-6.19,1,0.0328,0.0536,9.29e-5,0.16,0.607,127.033,188656
+"Hey Mama (feat. Nicki Minaj, Bebe Rexha & Afrojack)",David Guetta,71,Listen,2014-11-21,pop,0.596,0.73,-4.091,1,0.151,0.24,0,0.325,0.525,85.979,192560
+Tú Foto,Ozuna,71,Odisea,2017-08-25,latin,0.748,0.565,-5.895,1,0.0476,0.164,0.00169,0.103,0.812,175.92,193227
+Fades Away - Tribute Concert Version,Avicii,71,Fades Away (feat. MishCatt) [Tribute Concert Version],2019-12-05,edm,0.595,0.549,-7.733,1,0.104,0.132,1.45e-5,0.0873,0.165,134.493,172559
+"fuck, i'm lonely (with Anne-Marie) - from “13 Reasons Why: Season 3”",Lauv,70,~how i'm feeling~,2019-11-14,pop,0.806,0.558,-6.46,1,0.0683,0.482,0,0.0618,0.678,95.016,198973
+sweetener,Ariana Grande,70,Sweetener,2018-08-17,pop,0.721,0.459,-6.408,1,0.032,0.248,0,0.212,0.46,119.914,208493
+All We Know,The Chainsmokers,70,All We Know,2016-09-29,pop,0.662,0.586,-8.821,1,0.0307,0.097,0.00272,0.115,0.296,90,194080
+In My Place,Coldplay,70,A Rush of Blood to the Head,2002-08-08,pop,0.425,0.587,-5.453,1,0.0278,0.0565,5.16e-6,0.298,0.194,144.642,226680
+OCD (with Dwn2earth),Logic,70,OCD (with Dwn2earth),2019-10-25,rap,0.66,0.76,-2.794,1,0.197,0.294,0.03,0.252,0.229,81.952,291707
+Do For Love,2Pac,70,R U Still Down? [Remember Me],1997-01-01,rap,0.874,0.63,-3.585,1,0.298,0.0578,0.00479,0.0582,0.717,95,281600
+Gyalchester,Drake,70,More Life,2017-03-18,rap,0.877,0.391,-8.196,1,0.063,0.0317,5.02e-4,0.0945,0.122,131.018,189230
+We Will Rock You - Remastered,Queen,70,News Of The World (Deluxe Remastered Version),1977-10-28,rock,0.693,0.497,-7.316,1,0.119,0.679,0,0.258,0.473,81.308,122067
+Haute (feat. J Balvin & Chris Brown),Tyga,70,Haute (feat. J Balvin & Chris Brown),2019-06-05,latin,0.946,0.723,-3.692,1,0.114,0.0778,0,0.0608,0.349,102.956,160877
+Devuelveme,Ozuna,70,Aura,2018-08-24,latin,0.744,0.769,-4.112,1,0.156,0.554,6.96e-6,0.102,0.784,175.999,188907
+Danza Kuduro,Don Omar,70,Meet The Orphans,2010-01-01,latin,0.699,0.917,-4.897,1,0.115,0.078,0,0.065,0.889,130.04,198787
+Jungle,Drake,70,If You're Reading This It's Too Late,2015-02-12,r&b,0.69,0.235,-8.651,1,0.0541,0.618,1.44e-4,0.107,0.378,99.906,320400
+Signs,Drake,70,Signs,2017-06-23,r&b,0.794,0.735,-4.204,1,0.054,0.108,0.00578,0.112,0.223,107.374,234373
+Feelings,Lauv,69,~how i'm feeling~,2019-11-14,pop,0.694,0.466,-6.758,1,0.0384,0.0934,0,0.098,0.246,103.018,189613
+Where Them Girls At (feat. Nicki Minaj & Flo Rida),David Guetta,69,Nothing but the Beat (Ultimate Edition),2012-12-07,pop,0.666,0.876,-3.078,1,0.0414,0.055,0,0.259,0.552,129.884,194840
+Everybody,Logic,69,Everybody,2017-05-05,rap,0.885,0.94,-5.908,1,0.0909,0.158,0,0.0675,0.77,110.005,162347
+Girls Have Fun (feat. G-Eazy & Rich The Kid),Tyga,69,Girls Have Fun (feat. G-Eazy & Rich The Kid),2019-01-23,rap,0.888,0.74,-5.363,1,0.238,0.00586,0,0.218,0.664,100.003,175711
+La Célula Que Explota,Caifanes,69,El Diablito,1990-06-19,rock,0.425,0.479,-12.22,1,0.0419,0.44,1.09e-4,0.378,0.279,123.217,215867
+Somebody To Love - 2011 Mix,Queen,69,A Day At The Races (Deluxe Remastered Version),1976-12-10,rock,0.497,0.693,-7.024,1,0.0565,0.19,0,0.215,0.358,111.539,296493
+Gypsy,Fleetwood Mac,69,Greatest Hits,1988-11-21,rock,0.622,0.54,-13.99,1,0.0261,0.017,0.00771,0.265,0.847,130.879,264907
+Somebody To Love - 2011 Mix,Queen,69,Bohemian Rhapsody (The Original Soundtrack),2018-10-19,rock,0.466,0.698,-6.967,1,0.0629,0.164,0,0.127,0.349,109.772,295733
+Luz Apaga,Ozuna,69,Luz Apaga,2018-11-16,latin,0.611,0.791,-3.558,1,0.173,0.19,3.02e-6,0.12,0.658,192.07,245000
+No Sleep (feat. Bonn) - DubVision Remix,Martin Garrix,69,2019 Remixed,2019-12-31,edm,0.584,0.79,-6.128,1,0.0589,0.0455,0,0.213,0.291,127.972,239062
+"Azukita (Steve Aoki, Daddy Yankee, Play-N-Skillz & Elvis Crespo) (feat. Elvis Crespo)",Steve Aoki,69,"Azukita (Steve Aoki, Daddy Yankee, Play-N-Skillz & Elvis Crespo) (feat. Elvis Crespo)",2018-02-02,edm,0.715,0.942,-2.889,1,0.107,0.00175,4.61e-4,0.0581,0.818,130.019,226162
+22,Taylor Swift,68,Red (Big Machine Radio Release Special),2012-10-21,pop,0.661,0.729,-6.561,1,0.0376,0.00215,0.0013,0.0477,0.668,103.987,232120
+One Dance,Drake,68,Views,2016-05-13,pop,0.792,0.625,-5.609,1,0.0536,0.00776,0.00188,0.329,0.37,103.967,173987
+Enemies,Lauv,68,I met you when I was 18. (the playlist),2018-05-31,pop,0.696,0.693,-4.64,1,0.044,0.175,0,0.122,0.601,126.025,194755
+O Pana!,$uicideBoy$,68,Eternal Grey,2016-09-11,rap,0.8,0.505,-6.54,1,0.115,0.0206,2.05e-5,0.198,0.179,114.972,128418
+Hasta Que Salga el Sol,Ozuna,68,Hasta Que Salga el Sol,2019-11-07,latin,0.857,0.823,-4.22,1,0.0516,0.0206,7.7e-4,0.0593,0.57,96.048,188600
+Shake It Off,Taylor Swift,68,1989,2014-10-27,latin,0.648,0.785,-5.414,1,0.165,0.0561,0,0.148,0.943,160.02,219200
+Jaded,Drake,68,Scorpion,2018-06-29,r&b,0.766,0.271,-5.697,1,0.0412,0.037,0,0.175,0.0371,116.02,262453
+End Game,Taylor Swift,68,reputation,2017-11-10,r&b,0.649,0.589,-6.237,1,0.0558,0.00845,0,0.108,0.151,159.073,244827
+Beautiful People (feat. Khalid) - Jack Wins Remix,Ed Sheeran,67,Beautiful People (feat. Khalid) [Jack Wins Remix],2019-07-11,pop,0.675,0.919,-5.385,1,0.127,0.0799,0,0.143,0.585,124.982,163049
+Takeaway (feat. Lennon Stella),The Chainsmokers,67,World War Joy...Takeaway,2019-07-24,pop,0.294,0.505,-8.106,1,0.042,0.12,0,0.0977,0.357,85.332,209893
+The Days,Avicii,67,The Days / Nights,2014-01-01,pop,0.59,0.724,-3.278,1,0.0439,0.04,4.07e-5,0.142,0.526,127.059,278480
+Gorgeous,Taylor Swift,67,reputation (Big Machine Radio Release Special),2017-11-08,pop,0.8,0.535,-6.684,1,0.135,0.0713,9.48e-6,0.213,0.451,92.027,209680
+Thinking out Loud,Ed Sheeran,67,x (Wembley Edition),2013,pop,0.781,0.445,-6.061,1,0.0295,0.474,0,0.184,0.591,78.998,281560
+She Wolf (Falling to Pieces) (feat. Sia),David Guetta,67,Nothing but the Beat (Ultimate Edition),2012-12-07,pop,0.492,0.857,-2.634,1,0.0655,0.0841,7.82e-6,0.344,0.393,129.973,222500
+You Make Me,Avicii,67,True,2013-01-01,pop,0.586,0.727,-4.799,1,0.039,0.00247,0.0107,0.152,0.496,124.99,233347
+Without You (feat. Usher),David Guetta,67,Nothing but the Beat (Ultimate Edition),2012-12-07,pop,0.608,0.614,-3.727,1,0.0285,0.227,4.06e-6,0.157,0.402,127.884,208133
+Haute (feat. J Balvin & Chris Brown),Tyga,67,Legendary,2019-06-07,rap,0.946,0.723,-3.692,1,0.114,0.0778,0,0.0608,0.349,102.956,160877
+Patience,Guns N' Roses,67,G N' R Lies,1988-01-01,rock,0.457,0.266,-14.465,1,0.0313,0.711,2.61e-4,0.124,0.372,120.459,354400
+Fat Bottomed Girls - 2011 Remaster,Queen,67,Jazz (2011 Remaster),1978-11-10,rock,0.332,0.683,-7.679,1,0.0491,0.0322,6.51e-6,0.342,0.419,88.522,255600
+No Dejes Que...,Caifanes,67,El Silencio,1992-06-08,rock,0.613,0.898,-7.593,1,0.0368,0.429,1.29e-6,0.272,0.763,134.033,279160
+Don't Stop - 2004 Remaster,Fleetwood Mac,67,Rumours (Super Deluxe),1977-02-04,rock,0.672,0.72,-7.781,1,0.035,0.0373,9.38e-6,0.0371,0.828,118.731,193347
+Killer Queen - 2011 Mix,Queen,67,Sheer Heart Attack (Deluxe Remastered Version),1974-11-08,rock,0.535,0.65,-6.328,1,0.0554,0.379,0,0.14,0.61,117.188,179600
+Guaya Guaya,Don Omar,67,The Last Don II,2015-06-16,latin,0.788,0.873,-2.322,1,0.117,0.00607,5.2e-4,0.0908,0.703,91.981,193613
+Dale Don Dale,Don Omar,67,The Last Don,2003-01-01,latin,0.831,0.818,-7.827,1,0.0825,0.0242,3.36e-4,0.0892,0.807,95.023,212413
+Tattoos Together,Lauv,67,~how i'm feeling~,2020-01-16,r&b,0.862,0.4,-7.486,1,0.0736,0.00575,7.49e-6,0.123,0.596,122.963,186613
+I Don't Care (with Justin Bieber) - Loud Luxury Remix,Ed Sheeran,66,I Don't Care (with Justin Bieber) [Loud Luxury Remix],2019-06-14,pop,0.748,0.916,-2.634,1,0.0583,0.102,0,0.0653,0.518,122.036,194754
+South of the Border (feat. Camila Cabello & Cardi B) - Andy Jarvis Remix,Ed Sheeran,66,South of the Border (feat. Camila Cabello & Cardi B) [Andy Jarvis Remix],2019-12-11,pop,0.805,0.835,-4.603,1,0.0896,0.13,5.03e-6,0.365,0.722,125.028,188230
+Push My Luck,The Chainsmokers,66,World War Joy...Push My Luck,2019-11-08,pop,0.584,0.643,-6.415,1,0.0395,0.288,0,0.186,0.53,90.036,181844
+For A Better Day,Avicii,66,Stories,2015-10-02,pop,0.639,0.843,-3.393,1,0.0334,0.0386,0.0829,0.108,0.317,135.002,206067
+How Do You Want It,2Pac,66,All Eyez On Me,1996-02-13,rap,0.763,0.84,-3.704,1,0.0929,0.0346,0,0.0601,0.748,92.477,287547
+Memories (feat. Kid Cudi),David Guetta,66,Memories (feat. Kid Cudi),2010-02-12,rap,0.546,0.899,-3.937,1,0.233,0.00158,6.08e-6,0.229,0.47,130.003,210840
+LTE,$uicideBoy$,66,YUNGDEATHLILLIFE,2015-05-08,rap,0.781,0.493,-7.649,1,0.0522,0.0717,0.586,0.123,0.0383,106.011,133747
+Fat Bottomed Girls - Remastered 2011,Queen,66,Jazz (Deluxe Remastered Version),1978-11-10,rock,0.337,0.684,-7.674,1,0.0495,0.0319,6.57e-6,0.342,0.404,88.772,255600
+Changes - 2015 Remaster,David Bowie,66,Hunky Dory (2015 Remastered Version),1971-12-17,rock,0.547,0.308,-11.75,1,0.0377,0.505,0,0.109,0.41,114.719,217747
+Beautiful People (feat. Khalid) - NOTD Remix,Ed Sheeran,66,Beautiful People (feat. Khalid) [NOTD Remix],2019-07-11,latin,0.702,0.794,-5.913,1,0.0562,0.00715,4.56e-5,0.11,0.37,103.972,162081
+Legendary (feat. Gunna),Tyga,66,Legendary,2019-06-07,r&b,0.894,0.492,-4.692,1,0.104,0.0295,1.22e-6,0.14,0.397,100.041,152532
+How Bout Now,Drake,66,Care Package,2019-08-02,r&b,0.789,0.404,-8.364,1,0.23,0.205,0,0.219,0.472,122.062,235566
+Don't Look Down,Martin Garrix,66,Don't Look Down,2015-03-17,edm,0.575,0.831,-5.972,1,0.0356,0.00406,4.49e-4,0.111,0.377,127.991,223140
+South of the Border (feat. Camila Cabello & Cardi B) - Sam Feldt Remix,Ed Sheeran,65,South of the Border (feat. Camila Cabello & Cardi B) [Sam Feldt Remix],2019-10-04,pop,0.789,0.858,-4.388,1,0.0404,0.22,4.58e-5,0.335,0.491,110.012,173455
+Something Real,Armin van Buuren,65,Something Real,2019-07-12,pop,0.575,0.808,-4.578,1,0.0439,0.0446,0,0.0693,0.232,127.922,179531
+This Is What It Feels Like,Armin van Buuren,65,Intense,2013-05-03,pop,0.552,0.831,-5.217,1,0.0298,0.0391,2.93e-6,0.0632,0.144,129.889,204360
+Young,The Chainsmokers,65,Memories...Do Not Open,2017-04-07,pop,0.615,0.564,-6.384,1,0.0291,0.0105,0,0.148,0.454,103.006,224773
+Rolling Stoned,Upchurch,65,Bad Mutha Fucka,2016-12-09,rap,0.738,0.514,-11.831,1,0.0767,0.188,0,0.3,0.201,143.932,218333
+Hit 'Em Up - Single Version,2Pac,65,Greatest Hits,1998-01-01,rap,0.916,0.844,-3.967,1,0.236,0.0394,0,0.0778,0.586,95.19,312627
+Can't C Me,2Pac,65,All Eyez On Me,1996-02-13,rap,0.797,0.852,-2.234,1,0.172,0.0432,3.97e-6,0.409,0.674,95.416,330760
+All About U,2Pac,65,All Eyez On Me,1996-02-13,rap,0.859,0.792,-4.007,1,0.141,0.065,0,0.3,0.766,103.201,276813
+Magazine,$uicideBoy$,65,Radical $uicide,2016-07-22,rap,0.881,0.903,-0.955,1,0.0813,0.267,0.00253,0.109,0.272,119.994,131500
+Champion Of Death,$uicideBoy$,65,Radical $uicide,2016-07-22,rap,0.817,0.911,-2.153,1,0.0455,0.187,0.00173,0.42,0.34,119.989,116000
+Walk This Way,Aerosmith,65,Aerosmith's Greatest Hits,1980-11-11,rock,0.629,0.785,-10.761,1,0.0471,0.0249,9.45e-6,0.0522,0.869,108.531,211027
+Always in My Head,Coldplay,65,Ghost Stories,2014-05-19,rock,0.499,0.502,-9.307,1,0.0254,0.0128,0.687,0.068,0.0397,97.544,216627
+You're My Best Friend - Remastered 2011,Queen,65,A Night At The Opera (2011 Remaster),1975-11-21,rock,0.51,0.76,-6.995,1,0.0411,0.148,0.0116,0.0706,0.55,118.829,170787
+Don't Stop - 2004 Remaster,Fleetwood Mac,65,Rumours,1977-02-04,rock,0.671,0.71,-7.724,1,0.0356,0.0393,1.12e-5,0.0387,0.834,118.745,193347
+Te Quiero Pa´Mi,Don Omar,65,King Of Kings 10th Anniversary (Remastered),2016-11-11,latin,0.759,0.812,-3.95,1,0.0593,0.122,4.51e-5,0.192,0.661,88.995,211627
+Wildest Dreams,Taylor Swift,65,1989,2014-10-27,latin,0.553,0.664,-7.417,1,0.0741,0.0709,0.0056,0.106,0.467,140.06,220440
+Don’t Call Me Angel (Charlie’s Angels) (with Miley Cyrus & Lana Del Rey),Ariana Grande,65,Don’t Call Me Angel (Charlie’s Angels),2019-09-13,r&b,0.643,0.721,-5.248,1,0.0449,0.00268,6.51e-6,0.0898,0.317,102.914,190107
+Let's Dance - 2002 Remaster,David Bowie,65,Let's Dance,1983,r&b,0.654,0.641,-9.771,1,0.0482,0.00535,0.00321,0.209,0.794,114.696,247600
+Don't Let Me Down - Illenium Remix,The Chainsmokers,64,Don't Let Me Down (Remixes),2016-05-27,pop,0.428,0.656,-3.712,1,0.075,0.0751,0.181,0.15,0.355,79.648,218933
+Bang My Head (feat. Sia & Fetty Wap),David Guetta,64,Listen Again,2015-11-27,pop,0.599,0.869,-3.697,1,0.0789,0.0525,0.00719,0.103,0.593,108.061,193333
+Alright,Logic,64,Under Pressure (Deluxe),2014-10-21,rap,0.807,0.693,-5.056,1,0.0481,0.0504,7.75e-6,0.0762,0.142,127.035,218280
+Indica Badu,Logic,64,Bobby Tarantino II,2018-03-09,rap,0.742,0.72,-2.876,1,0.116,0.0402,8.46e-4,0.0839,0.97,77.011,260320
+Rack City,Tyga,64,Careless World: Rise Of The Last King,2012-01-01,rap,0.929,0.339,-10.881,1,0.371,0.0373,1.96e-5,0.187,0.273,98.986,203200
+KMT,Drake,64,More Life,2017-03-18,rap,0.875,0.6,-6.818,1,0.0435,0.0189,0.0143,0.132,0.0906,119.987,162638
+Too Many,Tyga,64,Legendary,2019-06-07,rap,0.794,0.661,-4.188,1,0.263,0.0488,0,0.214,0.359,99.977,145293
+Pasado y Presente,Ozuna,64,Aura,2018-08-24,rap,0.882,0.695,-2.866,1,0.0535,0.129,0.00109,0.0906,0.97,127.988,221387
+Supuestamente,Ozuna,64,Aura,2018-08-24,rap,0.746,0.682,-4.426,1,0.0705,0.235,0,0.0911,0.805,173.903,198587
+Midnight,Coldplay,64,Ghost Stories,2014-05-19,rock,0.548,0.475,-12.42,1,0.0355,0.615,0.808,0.0944,0.0349,126.976,294667
+Bicycle Race - Remastered 2011,Queen,64,Jazz (2011 Remaster),1978-11-10,rock,0.463,0.671,-6.438,1,0.0683,0.0626,0,0.0947,0.633,84.28,180813
+Mátenme Porque Me Muero,Caifanes,64,Caifanes,1988-05-15,rock,0.439,0.864,-5.866,1,0.0437,0.283,2.01e-5,0.198,0.481,169.228,213360
+The Jean Genie - 2013 Remaster,David Bowie,64,Aladdin Sane (2013 Remastered Version),1973-04-13,rock,0.58,0.571,-9.116,1,0.0321,0.378,5.13e-6,0.358,0.818,128.15,248013
+Noches de Aventura,Ozuna,64,Odisea,2017-08-25,latin,0.763,0.753,-4.554,1,0.152,0.218,0,0.0691,0.641,183.938,236707
+Taboo,Don Omar,64,Meet The Orphans,2010-01-01,latin,0.43,0.886,-5.811,1,0.0828,0.0449,0,0.0879,0.808,187.38,292160
+Quiero Mas,Ozuna,64,Aura,2018-08-24,latin,0.768,0.821,-4.7,1,0.0437,0.0256,3.17e-6,0.165,0.516,94.011,244293
+Ice Cream Man,Tyga,64,Fuk Wat They Talkin Bout,2015-08-24,r&b,0.902,0.67,-4.074,1,0.19,0.167,0,0.107,0.39,144.07,186672
+When Love Takes Over (feat. Kelly Rowland),David Guetta,64,When Love Takes Over,2009-04-17,edm,0.658,0.863,-4.64,1,0.0255,0.0144,1.93e-4,0.2,0.496,129.972,189000
+Roses,The Chainsmokers,63,Bouquet,2015-10-23,pop,0.718,0.808,-7.652,1,0.0473,0.0299,0.00414,0.225,0.309,100.033,225813
+Over,Drake,63,Thank Me Later,2010-01-01,rap,0.35,0.845,-5.614,1,0.2,0.0107,0,0.123,0.45,99.643,233560
+Dip,Tyga,63,Legendary (Deluxe Edition),2019-08-23,rap,0.885,0.543,-6.338,1,0.2,0.0311,0,0.154,0.43,99.026,195992
+ICONIC (ft. Jaden Smith),Logic,63,YSIV,2018-09-28,rap,0.388,0.777,-5.55,1,0.241,0.00575,0,0.288,0.192,175.933,298133
+Black SpiderMan,Logic,63,Everybody,2017-05-05,rap,0.622,0.867,-5.298,1,0.0893,0.111,1.04e-4,0.346,0.339,140.011,331267
+California Love - Original Version,2Pac,63,Greatest Hits,1998-01-01,rap,0.763,0.85,-3.052,1,0.0417,0.0304,1.21e-6,0.371,0.761,91.519,284907
+O,Coldplay,63,Ghost Stories,2014-05-19,rock,0.23,0.216,-14.727,1,0.0376,0.911,0.829,0.0934,0.0618,92.022,323480
+La Negra Tomasa - Bilongo - Versión Tropical,Caifanes,63,Caifanes,1988-05-15,rock,0.53,0.683,-7.13,1,0.0313,0.234,0.311,0.274,0.694,174.441,472400
+The Chain - 2004 Remaster,Fleetwood Mac,63,Rumours,1977-02-04,rock,0.522,0.755,-6.95,1,0.0524,0.0517,6.63e-5,0.0781,0.637,151.796,269813
+Go To War,Hardwell,63,Go To War,2019-11-22,edm,0.553,0.827,-5.381,1,0.0482,0.00188,0,0.304,0.153,132.077,167500
+Jump,David Guetta,63,Jump,2019-10-03,edm,0.775,0.941,-3.016,1,0.182,0.00106,0.0174,0.0781,0.362,127.997,214219
+Mean,Taylor Swift,62,Speak Now,2010-01-01,pop,0.57,0.747,-3.978,1,0.0426,0.445,0,0.219,0.808,164.004,237747
+Closer,The Chainsmokers,62,Collage EP,2016-11-04,pop,0.736,0.541,-5.597,1,0.0297,0.415,0,0.11,0.662,94.962,245507
+Chasing Fire,Lauv,62,Chasing Fire,2018-03-29,pop,0.709,0.562,-4.864,1,0.0724,0.0449,0,0.217,0.386,125.965,205267
+Fade Away,Logic,62,The Incredible True Story,2015-11-13,rap,0.709,0.787,-2.377,1,0.235,0.27,0.00114,0.296,0.607,75.986,287400
+2 Of Amerikaz Most Wanted,2Pac,62,All Eyez On Me,1996-02-13,rap,0.856,0.904,-4.804,1,0.139,0.0253,3.16e-5,0.0537,0.855,99.247,246533
+Uptown (feat. Bun B & Lil Wayne),Drake,62,So Far Gone,2019-02-15,rap,0.416,0.824,-3.075,1,0.343,0.00391,0,0.104,0.417,85.433,382262
+Changes,2Pac,62,Greatest Hits,1998-01-01,rap,0.865,0.665,-6.289,1,0.073,0.0453,0,0.224,0.331,111.113,268827
+Ink,Coldplay,62,Ghost Stories,2014-05-19,rock,0.688,0.706,-7.31,1,0.0324,0.0661,0.125,0.118,0.689,112.019,228373
+Save Me - Remastered 2011,Queen,62,The Game (2011 Remaster),1980-06-27,rock,0.507,0.452,-6.8,1,0.0269,0.359,0,0.109,0.322,81.632,229920
+Call You Mine,The Chainsmokers,62,World War Joy...Takeaway,2019-07-24,latin,0.591,0.702,-5.59,1,0.0289,0.225,0,0.414,0.501,104.003,217653
+Thing For You - David Guetta Remix,David Guetta,62,Thing For You (David Guetta Remix),2019-08-30,edm,0.44,0.867,-4.402,1,0.061,0.552,9.45e-6,0.115,0.452,123.43,203226
+Takeaway - Andrew Rayel Remix,The Chainsmokers,62,Takeaway - The Remixes,2019-11-01,edm,0.469,0.83,-3.301,1,0.0727,1.87e-4,0,0.0875,0.162,126.835,180000
+Mr. Navigator,Armin van Buuren,62,Mr. Navigator,2019-09-13,edm,0.759,0.948,-5.465,1,0.114,0.0212,0.336,0.366,0.181,134.085,152239
+Bad Blood,Taylor Swift,62,1989,2014-10-27,edm,0.652,0.802,-6.114,1,0.181,0.0871,6.45e-6,0.148,0.295,170.157,211933
+Our Song,Taylor Swift,61,Taylor Swift (Big Machine Radio Release Special),2006-10-23,pop,0.667,0.659,-4.932,1,0.0298,0.113,0,0.325,0.575,89.128,203440
+How You Love Me (feat. Conor Maynard & Snoop Dogg),Hardwell,61,How You Love Me (feat. Conor Maynard & Snoop Dogg),2018-12-07,pop,0.775,0.723,-4.095,1,0.0468,0.282,3.71e-4,0.126,0.756,104.991,194286
+Together,Martin Garrix,61,Seven,2016-10-28,pop,0.509,0.729,-4.773,1,0.0343,0.0732,2.73e-5,0.233,0.196,127.871,221274
+Till The End,Logic,61,Under Pressure (Deluxe),2014-10-21,rap,0.587,0.726,-6.263,1,0.214,0.216,0,0.0868,0.248,151.882,312360
+Contra,Logic,61,Bobby Tarantino II,2018-03-09,rap,0.804,0.823,-5.837,1,0.0488,0.104,0,0.2,0.616,126.007,217147
+Slip On A Banana Clip,$uicideBoy$,61,DIRTIERNASTIER$UICIDE,2017-02-21,rap,0.755,0.788,-4.572,1,0.216,0.0355,0,0.311,0.465,140.055,137195
+Nightrain,Guns N' Roses,61,Appetite For Destruction,1987-01-01,rock,0.4,0.992,-6.995,1,0.0725,0.107,0.0113,0.179,0.243,149.41,266173
+Aquí No Es Así,Caifanes,61,El Nervio Del Volcan,1994,rock,0.616,0.766,-11.095,1,0.0321,0.0268,1.05e-6,0.329,0.883,105.764,294267
+Dream On,Aerosmith,61,The Essential Aerosmith,2011-09-13,rock,0.412,0.528,-6.613,1,0.0259,0.298,5.03e-5,0.332,0.175,79.962,265093
+You're My Best Friend - Remastered 2011,Queen,61,A Night At The Opera (Deluxe Remastered Version),1975-11-21,rock,0.518,0.761,-7.025,1,0.0452,0.158,0.00765,0.0715,0.576,118.738,170800
+Dreams Money Can Buy,Drake,61,Care Package,2019-08-02,r&b,0.423,0.587,-6.635,1,0.529,0.765,0,0.114,0.33,180.331,253803
+Drop To The Floor,Hardwell,61,Hardwell presents Revealed Vol. 10,2019-08-30,edm,0.769,0.995,-0.57,1,0.265,0.0322,0,0.279,0.237,127.97,185625
+Who Do You Love - R3HAB Remix,The Chainsmokers,61,Who Do You Love (R3HAB Remix),2019-03-22,edm,0.529,0.698,-6.87,1,0.0456,0.2,0,0.185,0.357,142.012,152120
+Call You Mine - Keanu Silva Remix,The Chainsmokers,60,Call You Mine - The Remixes,2019-07-19,pop,0.718,0.93,-3.778,1,0.102,0.0287,9.43e-6,0.204,0.277,121.956,169093
+Million Voices,Armin van Buuren,60,Balance,2019-10-25,pop,0.466,0.869,-4.275,1,0.0529,0.0142,0.00241,0.115,0.185,126.113,187150
+Kanye,The Chainsmokers,60,Kanye,2014-08-05,pop,0.599,0.619,-6.575,1,0.0523,0.002,1.49e-6,0.117,0.121,128.041,229947
+100 Miles and Running (ft. Wale & John Lindahl),Logic,60,YSIV,2018-09-28,rap,0.835,0.929,-3.595,1,0.0653,0.579,1.28e-6,0.38,0.96,119.047,353453
+Overnight,Logic,60,Bobby Tarantino II,2018-03-09,rap,0.861,0.745,-6.77,1,0.0608,0.00138,1.87e-5,0.141,0.889,150.002,217560
+Can't Have Everything,Drake,60,More Life,2017-03-18,rap,0.856,0.572,-8.429,1,0.373,0.0136,1.55e-6,0.121,0.454,82.445,228438
+Faded,Tyga,60,Careless World: Rise Of The Last King,2012-01-01,rap,0.831,0.667,-8.438,1,0.188,0.0103,0,0.35,0.339,95.073,206667
+Life Goes On,2Pac,60,All Eyez On Me,1996-02-13,rap,0.693,0.843,-5.463,1,0.253,0.117,0,0.343,0.529,158.465,301600
+It's So Easy,Guns N' Roses,60,Appetite For Destruction,1987-01-01,rock,0.375,0.973,-10.098,1,0.128,0.0134,9.52e-6,0.0947,0.218,150.636,201360
+Play The Game - Remastered 2011,Queen,60,The Game (2011 Remaster),1980-06-27,rock,0.242,0.7,-5.772,1,0.0346,0.341,0,0.122,0.273,156.706,212533
+Cool Cat - Remastered 2011,Queen,60,Hot Space (2011 Remaster),1982-05-03,rock,0.818,0.4,-9.927,1,0.11,0.302,0.00241,0.18,0.838,73.76,209107
+Back In the Saddle,Aerosmith,60,Rocks,1976-05-14,rock,0.426,0.903,-9.661,1,0.0389,0.00578,0.00945,0.0945,0.762,122.201,280360
+'39 - 2011 Mix,Queen,60,A Night At The Opera (Deluxe Edition 2011 Remaster),1975-11-21,rock,0.524,0.571,-9.686,1,0.0273,0.0271,0,0.111,0.373,101.626,210800
+Con los Años Que Me Quedan,Gloria Estefan,60,Mi Tierra,1993-06-03,latin,0.552,0.303,-10.579,1,0.0429,0.772,0,0.119,0.336,85.921,276600
+Conga,Gloria Estefan,60,Exitos de gloria estefan,1990-09-25,latin,0.791,0.805,-10.202,1,0.0464,0.16,0.0583,0.0563,0.882,122.219,255107
+Fantasía,Ozuna,60,Fantasía,2019-11-28,latin,0.692,0.727,-5.586,1,0.094,0.208,1.38e-4,0.0995,0.786,180.079,175187
+Dutty Love,Don Omar,60,Don Omar Presents MTO2: New Generation,2012-01-01,latin,0.742,0.873,-3.373,1,0.082,0.232,1.17e-5,0.114,0.899,90.004,285333
+Hooka,Don Omar,60,Meet The Orphans,2010-01-01,latin,0.73,0.863,-5.082,1,0.154,0.0373,0,0.491,0.818,170.014,237973
+Everybody Dies,Logic,59,YSIV,2018-09-28,rap,0.784,0.922,-3.92,1,0.152,0.141,3.48e-6,0.377,0.836,94.082,250213
+Take It Back,Logic,59,Everybody,2017-05-05,rap,0.837,0.84,-4.293,1,0.239,0.0629,0,0.329,0.692,135.004,400013
+Super Mario World,Logic,59,Bobby Tarantino,2016-07-01,rap,0.862,0.662,-7.19,1,0.209,0.0548,0,0.0993,0.394,131.964,177680
+I Am The Greatest,Logic,59,The Incredible True Story,2015-11-13,rap,0.801,0.815,-4.81,1,0.148,0.042,4.42e-6,0.0741,0.37,90.017,202920
+The Old Days (feat. Justin Adams),Upchurch,59,Bad Mutha Fucka,2016-12-09,rap,0.625,0.538,-9.805,1,0.0317,0.00819,0,0.361,0.222,130.07,234462
+Only,Jelly Roll,59,Addiction Kills,2017-04-21,rap,0.695,0.745,-4.566,1,0.0292,0.0124,0,0.0863,0.484,105.01,198116
+Picture Me Rollin',2Pac,59,All Eyez On Me,1996-02-13,rap,0.832,0.757,-4.908,1,0.135,0.029,0,0.463,0.449,95.905,314720
+A Death In The Ocean Would Be Beautiful,$uicideBoy$,59,My Liver Will Handle What My Heart Can't,2015-09-21,rap,0.81,0.524,-6.705,1,0.0441,0.0444,0.714,0.105,0.155,122.016,118236
+Mr. Brownstone,Guns N' Roses,59,Appetite For Destruction,1987-01-01,rock,0.487,0.94,-9.284,1,0.0384,0.0254,1.69e-6,0.305,0.576,106.092,225707
+Spread Your Wings - 2011 Mix,Queen,59,News Of The World (2011 Remaster),1977-10-28,rock,0.395,0.656,-6.462,1,0.0329,0.29,2.72e-5,0.0624,0.487,174.782,274227
+Los Dioses Ocultos,Caifanes,59,El Diablito,1990-06-19,rock,0.368,0.592,-11.042,1,0.0331,0.574,0.00144,0.0674,0.398,127.593,282133
+Nubes,Caifanes,59,El Silencio,1992-06-08,rock,0.721,0.85,-8.214,1,0.0331,0.19,0.00386,0.078,0.873,142.082,274000
+Under Pressure - Remastered,Queen,59,Greatest Hits II,1991-10-28,rock,0.663,0.712,-7.268,1,0.0479,0.524,0,0.0804,0.527,113.439,236520
+Little Lies,Fleetwood Mac,59,Greatest Hits,1988-11-21,rock,0.63,0.688,-9.816,1,0.0266,0.124,4.78e-5,0.158,0.893,124.825,218040
+Too Good,Drake,59,Views,2016-05-13,latin,0.793,0.653,-7.839,1,0.103,0.0484,4.91e-5,0.1,0.393,117.993,263373
+Without You (feat. Usher),David Guetta,59,Nothing but the Beat 2.0,2011-08-26,latin,0.608,0.614,-3.727,1,0.0285,0.227,4.06e-6,0.157,0.402,127.884,208133
+Pizza,Martin Garrix,59,Pizza,2017-08-25,edm,0.381,0.712,-6.9,1,0.0355,4.08e-4,0.589,0.183,0.0378,127.967,255103
+Cross Me (feat. Chance the Rapper & PnB Rock) - M-22 Remix,Ed Sheeran,58,Cross Me (feat. Chance the Rapper & PnB Rock) [M-22 Remix],2019-06-21,pop,0.679,0.923,-6.5,1,0.181,0.146,4.92e-6,0.124,0.752,121.984,207894
+Do You Mean (feat. Ty Dolla $ign & bülow) - Myon Remix,The Chainsmokers,58,Do You Mean - The Remixes (feat. Ty Dolla $ign & bülow),2019-05-24,pop,0.62,0.889,-3.785,1,0.0352,0.0163,1.86e-5,0.395,0.422,110.018,205093
+Call You Mine - Asketa & Natan Chaim Remix,The Chainsmokers,58,Call You Mine - The Remixes,2019-07-19,pop,0.577,0.844,-3.364,1,0.0406,0.00407,6.13e-6,0.499,0.283,115.066,183653
+Something Real,Armin van Buuren,58,Balance,2019-10-25,pop,0.575,0.808,-4.578,1,0.0439,0.0446,0,0.0693,0.232,127.922,179531
+"fuck, i’m lonely (with Anne-Marie) - Ofenbach Remix",Lauv,58,"fuck, i’m lonely (with Anne-Marie) (Ofenbach Remix)",2019-08-30,pop,0.763,0.674,-5.146,1,0.0378,0.0106,3.58e-6,0.0321,0.759,105.027,178512
+Can I Kick It,Logic,58,Supermarket (Soundtrack),2019-03-26,rap,0.789,0.774,-4.415,1,0.0614,0.609,0.00122,0.298,0.488,100.077,201547
+Same Asshole,Jelly Roll,58,Crosses and Crossroads,2019-04-15,rap,0.702,0.741,-6.987,1,0.104,0.0131,0,0.0645,0.468,152.021,206286
+True Love,Coldplay,58,Ghost Stories,2014-05-19,rock,0.482,0.574,-7.963,1,0.028,0.00382,0.08,0.123,0.184,119.994,246000
+Suffragette City - 2012 Remaster,David Bowie,58,The Rise And Fall Of Ziggy Stardust And The Spiders From Mars (2012 Remastered Version),1972-06-06,rock,0.455,0.884,-9.159,1,0.0385,0.364,0,0.277,0.784,142.655,208413
+Galway Girl - Martin Jensen Remix,Ed Sheeran,58,Galway Girl (Martin Jensen Remix),2017-04-07,latin,0.726,0.748,-4.576,1,0.0438,0.0245,0,0.141,0.731,100.055,196044
+Perdido En Tus Ojos,Don Omar,58,The Last Don II,2015-06-16,latin,0.684,0.882,-4.546,1,0.0312,0.169,1.95e-6,0.226,0.787,95.986,234080
+The Underground,Hardwell,58,The Underground,2018-01-22,edm,0.497,0.944,-3.701,1,0.0451,1.86e-4,0.333,0.483,0.318,150.024,179200
+Wild Wild Son,Armin van Buuren,57,Wild Wild Son,2018-10-12,pop,0.446,0.573,-5.081,1,0.0279,0.0416,0,0.108,0.167,135.96,213707
+Ordinary Day (ft. Hailee Steinfeld),Logic,57,YSIV,2018-09-28,rap,0.748,0.894,-6.67,1,0.0748,0.0224,0,0.143,0.839,157.988,188400
+Another's Arms,Coldplay,57,Ghost Stories,2014-05-19,rock,0.518,0.572,-9.037,1,0.0291,0.00715,0.256,0.139,0.347,160.005,234413
+Go Your Own Way,Fleetwood Mac,57,Greatest Hits,1988-11-21,rock,0.597,0.812,-12.062,1,0.0315,0.0219,0.00106,0.102,0.823,135.68,218400
+Zumba,Don Omar,57,Don Omar Presents MTO2: New Generation,2012-01-01,latin,0.729,0.894,-3.494,1,0.0397,0.00205,0.021,0.128,0.832,124.992,263973
+Hasta Abajo,Don Omar,57,Meet The Orphans,2010-01-01,latin,0.697,0.919,-3.867,1,0.0792,0.432,0.0206,0.0882,0.683,179.988,232227
+Jodeci Freestyle (feat. J. Cole),Drake,57,Care Package,2019-08-02,r&b,0.498,0.844,-2.834,1,0.268,0.0111,0,0.102,0.282,88.435,254022
+Game Over,Martin Garrix,57,Game Over,2018-04-20,edm,0.606,0.941,-3.203,1,0.0895,0.00401,0.136,0.398,0.396,128.018,155645
+Bigroom Never Dies,Hardwell,57,Bigroom Never Dies,2018-07-13,edm,0.715,0.948,-4.887,1,0.0532,7.32e-4,0.0206,0.315,0.165,129.969,175846
+Until You Were Gone,The Chainsmokers,57,Until You Were Gone,2015-09-18,edm,0.577,0.698,-4.773,1,0.0451,0.0541,0,0.131,0.324,128.061,215625
+Something Just Like This - Alesso Remix,The Chainsmokers,56,Something Just Like This (Remix Pack),2017-04-28,pop,0.672,0.73,-5.99,1,0.0472,0.24,4.17e-4,0.122,0.568,120.008,252933
+One Day (ft. Ryan Tedder),Logic,56,YSIV,2018-09-28,rap,0.546,0.871,-5.81,1,0.148,0.139,8.28e-5,0.104,0.303,189.723,198107
+My Prerogative,Bobby Brown,56,Don't Be Cruel,1988-01-01,rap,0.753,0.62,-10.544,1,0.0524,0.0657,0,0.27,0.676,110.172,291560
+Train Tracks (feat. Struggle),Jelly Roll,56,Sobriety Sucks,2016-05-13,rap,0.701,0.717,-5.66,1,0.0508,0.261,0,0.166,0.529,87.978,209969
+Phantom Menace,$uicideBoy$,56,I Want To Die In New Orleans,2018-09-07,rap,0.697,0.844,-5.008,1,0.29,0.384,2.04e-5,0.0557,0.263,146.056,141971
+Every Little Step,Bobby Brown,56,Don't Be Cruel,1988-01-01,rock,0.79,0.653,-11.511,1,0.0397,0.00717,0,0.0386,0.94,99.826,237240
+No Te Vayas,Don Omar,56,No Te Vayas,2019-11-22,latin,0.759,0.692,-6.759,1,0.0382,0.171,3.77e-5,0.0864,0.652,93.95,238733
+Lonely Together (feat. Rita Ora),Avicii,56,AVĪCI (01),2017-08-09,edm,0.655,0.666,-5.309,1,0.0612,0.134,2.12e-5,0.0683,0.272,102.977,181812
+This Is What It Feels Like,Armin van Buuren,56,This Is What It Feels Like,2013-04-05,edm,0.552,0.831,-5.217,1,0.0298,0.0391,2.93e-6,0.0632,0.144,129.889,204360
+Sims,Lauv,55,~how i'm feeling~,2019-10-03,pop,0.529,0.398,-8.238,1,0.388,0.643,0,0.0637,0.567,99.714,155075
+I Can Only Imagine (feat. Chris Brown & Lil Wayne),David Guetta,55,Nothing but the Beat (Ultimate Edition),2012-12-07,pop,0.67,0.939,-2.06,1,0.0427,0.0463,1.1e-6,0.335,0.264,127.946,209533
+California Love (remix),2Pac,55,All Eyez On Me,1996-02-13,rap,0.635,0.843,-4.197,1,0.0767,0.00654,0,0.495,0.657,91.634,385880
+1 of 1,Tyga,55,1 of 1 - Single,2016-06-17,rap,0.681,0.567,-7.353,1,0.382,0.174,0,0.0653,0.698,73.009,207714
+T.R.U. (Totally Rotten Underground),$uicideBoy$,55,My Liver Will Handle What My Heart Can't,2015-09-21,rap,0.694,0.711,-5.525,1,0.221,0.0397,0,0.112,0.283,138.049,127524
+Oceans,Coldplay,55,Ghost Stories,2014-05-19,rock,0.194,0.132,-15.783,1,0.0349,0.919,0.182,0.159,0.04,74.848,321680
+Killer Queen - 2011 Mix,Queen,55,Bohemian Rhapsody (The Original Soundtrack),2018-10-19,rock,0.526,0.64,-6.374,1,0.0472,0.365,1.3e-6,0.0958,0.622,117.132,179356
+Somebody To Love - 2011 Mix,Queen,55,Bohemian Rhapsody (The Original Soundtrack),2018-10-19,rock,0.466,0.698,-6.967,1,0.0629,0.164,0,0.127,0.349,109.772,295733
+I Don't Want to Know - 2004 Remaster,Fleetwood Mac,55,Rumours (Super Deluxe),1977-02-04,rock,0.722,0.697,-7.03,1,0.0278,0.0633,0.0103,0.0675,0.942,139.348,196853
+Better Now,Post Malone,55,beerbongs & bentleys,2018-04-27,latin,0.686,0.579,-5.813,1,0.0442,0.334,0,0.135,0.352,145.051,231267
+Cowboy,Upchurch,54,Supernatural,2018-08-19,rap,0.813,0.483,-12.74,1,0.0367,0.118,0.00291,0.379,0.0396,120.046,230568
+Cowboys,Jelly Roll,54,Waylon & Willie,2017-11-03,rap,0.691,0.668,-7.352,1,0.0851,0.172,0,0.36,0.483,74.985,192969
+Smoking Section,Jelly Roll,54,Therapeutic Music 5,2015-12-04,rap,0.655,0.539,-11.133,1,0.0512,0.229,3.6e-6,0.104,0.238,85.07,248947
+California,Jelly Roll,54,Sobriety Sucks,2016-05-13,rap,0.708,0.748,-6.483,1,0.0518,0.202,0,0.0994,0.525,139.915,265039
+Heartz Of Men,2Pac,54,All Eyez On Me,1996-02-13,rap,0.794,0.773,-6.065,1,0.166,0.00286,2.72e-4,0.326,0.553,92.465,283373
+2 Of Amerikaz Most Wanted,2Pac,54,Greatest Hits,1998-01-01,rap,0.853,0.876,-3.415,1,0.131,0.0426,0.00202,0.0548,0.845,99.236,246667
+Exodus,$uicideBoy$,54,High Tide In The Snake's Nest,2015-06-15,rap,0.607,0.749,-4.497,1,0.0728,0.00641,7.66e-5,0.234,0.18,121.829,126224
+Spaceman - Carnage Festival Trap Remix,Hardwell,54,Spaceman (Carnage Festival Trap Remix),2012-12-29,rap,0.712,0.497,-8.976,1,0.0777,0.0235,0.768,0.101,0.238,139.987,234160
+Sexy Robotica,Don Omar,54,iDon,2009-01-01,latin,0.741,0.867,-5.138,1,0.0334,4.43e-4,5.6e-6,0.449,0.561,112.011,233987
+You Need To Calm Down - Clean Bandit Remix,Taylor Swift,54,You Need To Calm Down (Clean Bandit Remix),2019-08-20,edm,0.726,0.88,-4.137,1,0.0581,0.072,4.62e-4,0.0906,0.739,95.037,152773
+Stay (Don't Go Away) [feat. Raye] - Nicky Romero Remix,David Guetta,54,Stay (Don't Go Away) [feat. Raye] [Nicky Romero Remix],2019-06-14,edm,0.593,0.907,-7.782,1,0.0477,0.00569,6.37e-4,0.161,0.233,124.986,177889
+Happier - Tiësto’s AFTR:HRS Remix,Ed Sheeran,53,Happier (Tiësto’s AFTR:HRS Remix),2018-06-01,pop,0.684,0.823,-4.881,1,0.0296,0.00576,7.42e-6,0.201,0.384,117.993,216000
+Steer Clear,Upchurch,53,River Rat,2018-12-21,rap,0.809,0.661,-7.142,1,0.105,0.0195,0,0.457,0.392,114.986,171575
+Shattered Amethyst,$uicideBoy$,53,My Liver Will Handle What My Heart Can't,2015-09-21,rap,0.806,0.702,-6.643,1,0.0688,0.274,0.138,0.323,0.182,105.975,126874
+Double Talkin' Jive,Guns N' Roses,53,Use Your Illusion I,1991-01-01,rock,0.35,0.974,-9.55,1,0.133,0.00146,0.446,0.0378,0.119,98.354,202040
+Love Of My Life - Remastered 2011,Queen,53,A Night At The Opera (2011 Remaster),1975-11-21,rock,0.329,0.179,-11.589,1,0.0299,0.933,5.04e-6,0.115,0.255,154.175,217387
+Antes de Que Nos Olviden,Caifanes,53,El Diablito,1990-06-19,rock,0.655,0.495,-13.391,1,0.0311,0.393,0.00819,0.12,0.196,119.669,287027
+Como Me Duele Perderte,Gloria Estefan,53,Alma Caribeña,2000-04-10,latin,0.765,0.459,-10.173,1,0.0319,0.476,0,0.171,0.763,139.908,267973
+Te Recordaré Bailando,Don Omar,53,The Last Don II,2015-06-16,latin,0.718,0.888,-4.778,1,0.0441,0.0241,2.54e-6,0.0565,0.727,91.998,213240
+The Language,Drake,53,Nothing Was The Same (Deluxe),2013-01-01,r&b,0.823,0.662,-8.426,1,0.318,0.0118,0,0.0805,0.533,120.117,224040
+Roni,Bobby Brown,53,Don't Be Cruel,1988-01-01,r&b,0.72,0.704,-11.815,1,0.0375,0.0132,1.13e-4,0.054,0.92,146.701,358333
+Photograph - Felix Jaehn Remix,Ed Sheeran,53,Photograph (Felix Jaehn Remix),2015-06-18,edm,0.726,0.697,-6.257,1,0.0404,0.0997,0.00733,0.0823,0.54,120.004,202586
+She Wolf (Falling to Pieces) (feat. Sia),David Guetta,53,Nothing but the Beat 2.0,2011-08-26,edm,0.492,0.857,-2.634,1,0.0655,0.0841,7.82e-6,0.344,0.393,129.973,222500
+Latency,Martin Garrix,53,Latency,2018-10-16,edm,0.66,0.937,-1.098,1,0.18,0.0328,0.0683,0.497,0.449,128.112,204375
+I Wanna Rave,Steve Aoki,53,I Wanna Rave,2019-10-25,edm,0.699,0.917,-3.978,1,0.0545,0.0146,0.5,0.101,0.787,159.992,144750
+Let It Be Me,Steve Aoki,52,Let It Be Me,2019-09-06,pop,0.661,0.758,-5.299,1,0.0864,0.0797,0,0.106,0.387,114.098,224061
+Photograph,Ed Sheeran,52,x (Wembley Edition),2013,pop,0.614,0.379,-10.48,1,0.0476,0.607,4.64e-4,0.0986,0.201,107.989,258987
+Tonight,Upchurch,52,King of Dixie,2017-10-18,rap,0.513,0.581,-10.494,1,0.036,0.0259,0.0595,0.251,0.041,179.99,216085
+Molly,Tyga,52,Hotel California (Deluxe),2013-01-01,rap,0.831,0.783,-6.719,1,0.0527,0.079,1.27e-6,0.35,0.771,140.046,218440
+Dust N' Bones,Guns N' Roses,52,Use Your Illusion I,1991-01-01,rock,0.445,0.922,-6.665,1,0.0443,0.0189,0.00244,0.181,0.449,129.502,298160
+Miedo,Caifanes,52,El Nervio Del Volcan,1994,rock,0.576,0.859,-8.22,1,0.034,0.0126,8e-4,0.341,0.711,130.011,218173
+Lost!,Coldplay,52,Viva La Vida or Death and All His Friends,2008-05-26,rock,0.359,0.779,-7.52,1,0.0412,0.0057,0.837,0.379,0.582,86.951,236213
+Walk This Way,Aerosmith,52,The Essential Aerosmith,2011-09-13,rock,0.64,0.865,-6.049,1,0.0601,0.00449,2.7e-5,0.0647,0.858,108.876,219733
+Don't Wanna Lose You,Gloria Estefan,52,Cuts Both Ways,1989-07-06,latin,0.547,0.356,-14.127,1,0.0244,0.413,1.56e-6,0.128,0.467,82.19,249568
+You Belong With Me,Taylor Swift,52,Fearless (International Version),2008-11-11,latin,0.688,0.775,-4.436,1,0.0381,0.151,1.98e-5,0.104,0.469,129.969,230507
+Dreamer - Nicky Romero Remix,Martin Garrix,52,Dreamer (Remixes Vol. 1),2018-12-07,edm,0.435,0.751,-4.999,1,0.0599,0.128,0,0.253,0.346,124.332,224762
+Breach (Walk Alone),Martin Garrix,52,BYLAW EP,2018-10-19,edm,0.738,0.953,-4.781,1,0.216,0.0388,0.0146,0.214,0.483,128.069,178125
+Summer Air (feat. Trevor Guthrie),Hardwell,51,Summer Air (feat. Trevor Guthrie),2019-05-31,pop,0.632,0.574,-8.584,1,0.053,0.0942,0,0.215,0.557,125.989,201905
+Goodbyes (Feat. Young Thug),Post Malone,51,Goodbyes (Feat. Young Thug),2019-07-05,pop,0.58,0.653,-3.818,1,0.0745,0.447,0,0.111,0.175,150.231,174960
+A Sky Full of Stars - Robin Schulz Edit,Coldplay,51,Prayer,2014-09-16,pop,0.638,0.847,-5.648,1,0.0338,0.00405,0.0419,0.4,0.333,123.042,195160
+America,Logic,51,Everybody,2017-05-05,rap,0.839,0.888,-4.181,1,0.116,0.13,3.76e-4,0.116,0.6,115.005,331347
+Can't Go Home,Jelly Roll,51,Waylon & Willie 2,2018-03-23,rap,0.69,0.732,-5.989,1,0.096,0.109,0,0.104,0.317,119.893,229939
+Cuéntame Tu Vida,Caifanes,51,Caifanes,1988-05-15,rock,0.577,0.843,-5.833,1,0.0332,0.25,5.93e-5,0.0509,0.527,124.94,263333
+Para Que No Digas Que No Pienso en Ti,Caifanes,51,El Silencio,1992-06-08,rock,0.71,0.741,-10.726,1,0.0746,0.141,0,0.0825,0.922,139.948,235227
+Wepa,Gloria Estefan,51,Miss Little Havana (Latin America/Iberia Version),2011-01-01,latin,0.79,0.749,-6.504,1,0.297,0.0277,0,0.113,0.7,144.933,242000
+Sandunga,Don Omar,51,The Last Don II,2015-06-16,latin,0.857,0.855,-5.108,1,0.134,0.0939,1.04e-4,0.0443,0.798,95.02,181333
+Te Quiero Pa´Mi,Don Omar,51,Te Quiero Pa´Mi,2016-11-11,latin,0.765,0.816,-3.99,1,0.0595,0.124,8.06e-5,0.197,0.624,89.005,212027
+Pop Style,Drake,51,Views,2016-05-13,latin,0.713,0.462,-10.027,1,0.123,0.192,2.16e-6,0.105,0.0595,133.054,212947
+Million Voices,Armin van Buuren,51,Million Voices,2019-10-25,edm,0.466,0.869,-4.275,1,0.0529,0.0142,0.00241,0.115,0.185,126.113,187150
+Closer - R3hab Remix,The Chainsmokers,51,Closer (Remixes),2016-09-23,edm,0.775,0.559,-5.89,1,0.0417,0.081,0,0.219,0.408,100.042,161120
+Beach House - Ashworth Remix,The Chainsmokers,51,Beach House (Ashworth Remix),2018-12-08,edm,0.772,0.707,-7.031,1,0.0507,0.0521,3.96e-6,0.0719,0.403,112.032,204453
+Troublesome '96,2Pac,50,Greatest Hits,1998-01-01,rap,0.865,0.924,-3.489,1,0.226,0.145,4.43e-5,0.383,0.557,97.523,277267
+Killer Queen - 2011 Mix,Queen,50,Sheer Heart Attack (2011 Remaster),1974-11-08,rock,0.535,0.651,-6.326,1,0.0544,0.391,0,0.133,0.612,117.218,179600
+Detrás de Ti,Caifanes,50,El Diablito,1990-06-19,rock,0.576,0.708,-10.319,1,0.0401,0.0729,5.81e-4,0.0756,0.718,140.703,219267
+Hang On to Yourself - 2012 Remaster,David Bowie,50,The Rise And Fall Of Ziggy Stardust And The Spiders From Mars (2012 Remastered Version),1972-06-06,rock,0.476,0.788,-10.654,1,0.0322,0.0241,0.0377,0.358,0.936,89.552,159958
+The A Team - Acoustic,Ed Sheeran,50,The A Team,2011-06-10,latin,0.649,0.264,-9.899,1,0.28,0.727,0,0.292,0.424,121.815,241186
+Cuéntale - Remastered 2016,Don Omar,50,King Of Kings 10th Anniversary (Remastered),2016-11-11,latin,0.578,0.94,-2.751,1,0.188,0.121,2.61e-4,0.258,0.609,89.805,261307
+Every Little Step,Bobby Brown,50,Don't Be Cruel,1988-06-20,r&b,0.781,0.638,-12.305,1,0.0401,0.00911,0,0.0357,0.909,100.231,236240
+...Ready For It? - BloodPop® Remix,Taylor Swift,50,...Ready For It? (BloodPop® Remix),2017-12-01,edm,0.582,0.835,-4.899,1,0.222,0.133,0,0.102,0.496,160.09,189509
+In The Name Of Love - The Him Remix,Martin Garrix,50,In The Name Of Love Remixes,2016-11-11,edm,0.642,0.864,-3.657,1,0.0379,0.0455,1.98e-6,0.081,0.564,125.088,209280
+Back 2 U (feat. WALK THE MOON),Steve Aoki,50,Back 2 U (feat. WALK THE MOON),2016-05-19,edm,0.635,0.875,-6.221,1,0.0512,0.021,7.94e-6,0.139,0.545,126.034,275977
+Wake Me Up,Avicii,50,Wake Me Up,2013-07-30,edm,0.516,0.806,-5.133,1,0.0538,0.00389,6.74e-4,0.115,0.577,124.118,249693
+Circles,Post Malone,49,Circles,2019-08-30,pop,0.704,0.758,-3.537,1,0.0402,0.233,0.00144,0.0924,0.534,120.003,214907
+Marlboros & White Widow,$uicideBoy$,49,Dark Side Of The Clouds,2016-02-03,rap,0.738,0.596,-7.222,1,0.149,0.00416,5.08e-5,0.15,0.255,118.922,181577
+Nightmare Choir (I Been Asleep Too Long),$uicideBoy$,49,KILL YOURSELF Part XI: The Kingdom Come Saga,2017-05-22,rap,0.777,0.902,-3.915,1,0.349,0.0905,0,0.275,0.462,129.985,134844
+Goosebumps,$uicideBoy$,49,Radical $uicide,2016-07-22,rap,0.89,0.74,-4.303,1,0.223,0.318,1.17e-5,0.244,0.436,130.012,112500
+Attitude,Guns N' Roses,49,The Spaghetti Incident?,1993-01-01,rock,0.34,0.984,-2.533,1,0.0938,2.49e-4,0,0.331,0.613,187.766,87000
+New Rose,Guns N' Roses,49,The Spaghetti Incident?,1993-01-01,rock,0.331,0.965,-2.918,1,0.143,1.12e-4,9.85e-5,0.312,0.342,176.988,158360
+Hair Of The Dog,Guns N' Roses,49,The Spaghetti Incident?,1993-01-01,rock,0.517,0.97,-2.932,1,0.0853,0.00559,0.0343,0.0581,0.601,134.336,234907
+Aviéntame,Caifanes,49,El Nervio Del Volcan,1994,rock,0.545,0.916,-9.175,1,0.0442,0.00308,1.38e-4,0.0494,0.653,130.16,273440
+Gypsy - 2018 Remaster,Fleetwood Mac,49,50 Years - Don't Stop,2018-11-16,rock,0.615,0.689,-9.602,1,0.0297,0.0442,0.00704,0.278,0.736,131.824,263867
+Thinking out Loud - Alex Adair Remix,Ed Sheeran,49,Thinking Out Loud (Alex Adair Remix),2014-11-07,latin,0.828,0.745,-6.717,1,0.152,0.21,0.00113,0.087,0.517,117.008,182185
+Dile,Don Omar,49,Reggaeton Hitmakers Tropical Blend,2006-01-01,latin,0.822,0.744,-6.096,1,0.0938,0.173,7.08e-5,0.0692,0.748,94.039,206987
+Guaya Guaya,Don Omar,49,Guaya Guaya,2014-08-12,latin,0.689,0.872,-2.116,1,0.243,0.00661,1.96e-4,0.136,0.687,183.942,194013
+Hasta Que Salga El Sol,Don Omar,49,Don Omar Presents MTO2: New Generation,2012-01-01,latin,0.355,0.958,-4.029,1,0.349,0.0235,7.2e-4,0.331,0.885,190.313,245040
+Encanto,Don Omar,49,Encanto,2017-03-24,latin,0.744,0.871,-5.123,1,0.0499,0.145,5.03e-4,0.0752,0.902,172.03,195400
+Circles,Post Malone,49,Hollywood's Bleeding,2019-09-06,r&b,0.695,0.762,-3.497,1,0.0395,0.192,0.00244,0.0863,0.553,120.042,215280
+Don't Be Cruel,Bobby Brown,49,Don't Be Cruel,1988-01-01,r&b,0.775,0.719,-12.189,1,0.0567,1.32e-4,3.14e-5,0.2,0.712,102.392,408307
+Latency,Martin Garrix,49,BYLAW EP,2018-10-19,edm,0.66,0.937,-1.098,1,0.18,0.0328,0.0683,0.497,0.449,128.112,204375
+WIEE,Martin Garrix,49,WIEE,2016-10-15,edm,0.52,0.835,-7.775,1,0.0544,0.278,0.863,0.0711,0.373,127.955,203452
+Together,Martin Garrix,49,Together,2016-10-20,edm,0.509,0.729,-4.773,1,0.0343,0.0732,2.73e-5,0.233,0.196,127.871,221274
+Closer - R3hab Remix,The Chainsmokers,49,Closer (Remixes),2016-09-23,edm,0.775,0.559,-5.89,1,0.0417,0.081,0,0.219,0.408,100.042,161120
+The Nights - Felix Jaehn Remix,Avicii,48,The Days / Nights,2014-01-01,pop,0.672,0.834,-4.726,1,0.0305,0.00769,2.16e-6,0.0586,0.511,123.054,200016
+Saint-Tropez,Post Malone,48,Hollywood's Bleeding,2019-09-06,rap,0.617,0.684,-3.618,1,0.0439,0.0545,0,0.104,0.295,132.113,150867
+Keep Ya Head Up,2Pac,48,Greatest Hits,1998-01-01,rap,0.591,0.739,-6.451,1,0.429,0.141,0,0.48,0.613,172.414,263600
+The Sacred,$uicideBoy$,48,Grey Sheep II,2016-05-25,rap,0.855,0.621,-7.482,1,0.0614,0.173,0.0748,0.0951,0.352,105.054,128052
+Used To Love Her,Guns N' Roses,48,G N' R Lies,1988-01-01,rock,0.615,0.831,-9.394,1,0.0311,0.426,7.26e-5,0.184,0.914,135.114,191360
+Piedra,Caifanes,48,El Silencio,1992-06-08,rock,0.643,0.816,-8.535,1,0.0476,0.0357,7.28e-5,0.218,0.616,115.061,276067
+Hasta Morir,Caifanes,48,El Silencio,1992-06-08,rock,0.687,0.345,-14.115,1,0.0507,0.223,1.13e-4,0.0763,0.284,81.735,224840
+Last Child,Aerosmith,48,Aerosmith's Greatest Hits,1980-11-11,rock,0.599,0.613,-9.978,1,0.0344,0.163,1.66e-6,0.047,0.767,84.22,206707
+Mi Buen Amor,Gloria Estefan,48,Mi Tierra,1993-06-03,latin,0.614,0.388,-10.141,1,0.0375,0.413,0,0.409,0.595,119.935,227600
+No Sigue Modas Aka Ella No Sigue Modas,Don Omar,48,Don Omar Presents MTO2: New Generation,2012-01-01,latin,0.704,0.868,-4.558,1,0.0854,0.0101,1.56e-4,0.0258,0.842,127.994,232000
+Do You Mean (feat. Ty Dolla $ign & bülow),The Chainsmokers,48,World War Joy...Takeaway,2019-07-24,r&b,0.6,0.666,-9.827,1,0.0394,0.102,0,0.118,0.566,99.989,193176
+Muthaf**ka Up,Tyga,47,Careless World: Rise Of The Last King,2012-01-01,rap,0.59,0.542,-7.849,1,0.329,0.00152,0,0.364,0.48,122.482,233680
+Closer - T-Mass Remix,The Chainsmokers,47,Closer (Remixes),2016-09-23,rap,0.7,0.821,-4.338,1,0.0444,0.115,0,0.0796,0.608,94.952,247520
+Black Leather,Guns N' Roses,47,The Spaghetti Incident?,1993-01-01,rock,0.466,0.991,-3.272,1,0.142,0.00551,0.174,0.354,0.205,137.595,248493
+Seaside Rendezvous - Remastered 2011,Queen,47,A Night At The Opera (2011 Remaster),1975-11-21,rock,0.459,0.699,-5.496,1,0.117,0.36,0,0.294,0.798,167.491,134120
+Can't Stay Away from You,Gloria Estefan,47,Anything For You,1987-06-09,latin,0.577,0.295,-15.424,1,0.0454,0.571,7.86e-5,0.0695,0.586,155.467,238293
+My Prerogative,Bobby Brown,47,Don't Be Cruel,1988-06-20,r&b,0.758,0.596,-11.406,1,0.0504,0.0605,0,0.288,0.645,110.608,288800
+Without You - Otto Knows Remix,Avicii,47,Without You (Remixes),2017-10-13,edm,0.536,0.837,-4.877,1,0.0461,9.51e-4,0.00587,0.0729,0.455,131.082,213493
+Everytime We Touch (with Steve Angello & Sebastian Ingrosso),David Guetta,47,Pop Life,2007-06-15,edm,0.707,0.471,-7.667,1,0.0354,0.0086,0.00839,0.179,0.355,125.014,220640
+Home We'll Go (Take My Hand),Steve Aoki,47,Neon Future II,2015-05-11,edm,0.605,0.903,-4.543,1,0.0637,0.188,0.00814,0.0989,0.55,120.041,307653
+God is a woman,Ariana Grande,46,Sweetener,2018-08-17,pop,0.602,0.658,-5.947,1,0.055,0.0233,5.78e-5,0.229,0.28,145.084,197547
+Enemies (feat. DaBaby),Post Malone,46,Hollywood's Bleeding,2019-09-06,rap,0.542,0.674,-4.169,1,0.21,0.0588,0,0.0955,0.667,76.388,196760
+Everybody,Logic,46,Everybody,2017-03-31,rap,0.885,0.936,-5.879,1,0.0894,0.148,0,0.0703,0.763,110.011,162373
+Livin' in a Country Song,Upchurch,46,King of Dixie,2017-10-18,rap,0.58,0.705,-9.425,1,0.0374,0.0144,2.72e-5,0.213,0.629,160.986,223552
+I Don't Give A Fuck,2Pac,46,2Pacalypse Now,1991-11-12,rap,0.893,0.721,-12.266,1,0.305,0.32,0,0.0969,0.801,94.58,260173
+Death On Two Legs (Dedicated To...) - Remastered 2011,Queen,46,A Night At The Opera (2011 Remaster),1975-11-21,rock,0.373,0.691,-6.219,1,0.0554,0.362,4.03e-5,0.133,0.499,124.767,223920
+'39 - 2011 Mix,Queen,46,A Night At The Opera (2011 Remaster),1975-11-21,rock,0.524,0.571,-9.686,1,0.0273,0.0271,0,0.111,0.373,101.626,210800
+Jealousy - Remastered 2011,Queen,46,Jazz (2011 Remaster),1978-11-10,rock,0.574,0.478,-9.842,1,0.031,0.211,0,0.243,0.211,80.8,193147
+De Noche Todos los Gatos Son Pardos,Caifanes,46,El Diablito,1990-06-19,rock,0.375,0.618,-11.751,1,0.0455,0.193,0.00109,0.317,0.152,192.409,259400
+On Our Own,Bobby Brown,46,Ghostbusters II,1989-06-16,r&b,0.659,0.899,-6.207,1,0.0423,0.0035,0,0.0629,0.562,101.802,294413
+Retrograde,Hardwell,46,Hardwell presents Revealed Vol. 10,2019-08-30,edm,0.634,0.979,-2.585,1,0.0471,0.00315,0.87,0.187,0.0377,128.021,251250
+Lazing On A Sunday Afternoon - Remastered 2011,Queen,45,A Night At The Opera (2011 Remaster),1975-11-21,rock,0.645,0.557,-9.108,1,0.0535,0.4,0.00183,0.0845,0.703,131.885,67400
+God Save The Queen - Remastered 2011,Queen,45,A Night At The Opera (2011 Remaster),1975-11-21,rock,0.17,0.293,-15.308,1,0.0369,0.754,0.857,0.279,0.24,117.483,75333
+My Melancholy Blues - Remastered 2011,Queen,45,News Of The World (2011 Remaster),1977-10-28,rock,0.469,0.202,-14.369,1,0.0333,0.67,0,0.193,0.102,110.937,211333
+Make It,Aerosmith,45,Aerosmith,1973-01-05,rock,0.553,0.685,-10.981,1,0.0275,0.0151,0.149,0.19,0.57,137.898,218960
+Oye,Gloria Estefan,45,Gloria!,1998-04-20,latin,0.689,0.885,-5.043,1,0.069,0.00268,1.1e-4,0.37,0.762,130.102,279627
+Words Get in the Way,Gloria Estefan,45,Greatest Hits,1985,latin,0.674,0.515,-9.117,1,0.0284,0.303,3.37e-5,0.107,0.565,155.843,205640
+Alone,Armin van Buuren,45,Intense,2013-05-03,edm,0.553,0.861,-6.526,1,0.039,0.00592,0.00144,0.107,0.375,127.966,244067
+Don't Give Up On Me - Club Mix,Armin van Buuren,45,Don't Give Up On Me (Club Mix / Trance Mix),2019-04-05,edm,0.603,0.849,-6.234,1,0.162,0.0536,8.27e-5,0.454,0.534,128.015,227695
+I'm Not Sorry,Hardwell,45,I'm Not Sorry,2019-03-08,edm,0.649,0.82,-3.812,1,0.0558,0.121,0,0.0771,0.349,128.096,186094
+Can't Go Home (feat. Adam Lambert) - Radio Edit,Steve Aoki,45,Can't Go Home (feat. Adam Lambert) [Radio Edit],2016-03-25,edm,0.662,0.797,-5.209,1,0.0951,0.0182,2.26e-5,0.279,0.673,123.947,183577
+On The Road (feat. Meek Mill & Lil Baby),Post Malone,44,Hollywood's Bleeding,2019-09-06,rap,0.442,0.737,-5.046,1,0.109,0.0589,0,0.102,0.21,112.93,218320
+Lord Knows (feat. Justin Adams),Upchurch,44,"Project X, Vol. 1",2018-01-30,rap,0.768,0.766,-3.697,1,0.0891,0.334,0,0.115,0.676,129.985,192923
+Good Company - Remastered 2011,Queen,44,A Night At The Opera (2011 Remaster),1975-11-21,rock,0.488,0.409,-11.254,1,0.0431,0.799,1.87e-5,0.322,0.542,183.614,203440
+Somebody To Love - 2011 Mix,Queen,44,A Day At The Races (2011 Remaster),1976-12-10,rock,0.406,0.698,-7.024,1,0.0624,0.186,0,0.233,0.333,109.266,296480
+Dragon Attack - Remastered 2011,Queen,44,The Game (2011 Remaster),1980-06-27,rock,0.7,0.867,-5.482,1,0.149,0.139,0.00275,0.266,0.557,88.19,258773
+Don't Try Suicide - Remastered 2011,Queen,44,The Game (2011 Remaster),1980-06-27,rock,0.796,0.486,-7.543,1,0.2,0.338,0,0.0314,0.646,135.249,232120
+Body Language - Remastered 2011,Queen,44,Hot Space (2011 Remaster),1982-05-03,rock,0.828,0.538,-9.593,1,0.0654,0.0395,0.00906,0.102,0.367,132.633,271600
+I Love It When You Cry (Moxoki) - Boehm Remix,Steve Aoki,44,Ultra Summer 2 (The Best In Deep and Tropical House),2015-06-29,latin,0.701,0.675,-5.956,1,0.0394,0.021,0.00301,0.249,0.439,119.993,322500
+Get on Your Feet,Gloria Estefan,44,Cuts Both Ways,1989-07-11,latin,0.724,0.779,-10.036,1,0.037,0.102,0.00152,0.129,0.93,123.934,218133
+Abriendo Puertas,Gloria Estefan,44,Abriendo Puertas,1995-08-03,latin,0.821,0.858,-6.04,1,0.0453,0.515,0,0.245,0.967,97.297,232893
+Lifting You Higher (ASOT 900 Anthem) - Blasterjaxx Remix,Armin van Buuren,44,Lifting You Higher (ASOT 900 Anthem) [Blasterjaxx Remix],2019-02-22,edm,0.544,0.903,-5.965,1,0.0453,0.00215,0.842,0.312,0.0999,130.031,187798
+Lonely Together - (feat. Rita Ora) Dj Licious Remix,Avicii,44,Lonely Together (Remixes),2017-11-17,edm,0.544,0.64,-6.011,1,0.0652,0.0102,2.06e-4,0.376,0.396,120.147,184960
+Make It Right,Armin van Buuren,43,Make It Right,2016-11-11,pop,0.517,0.722,-5.126,1,0.0297,0.0397,7.69e-6,0.45,0.474,127.936,199512
+The Nights - Avicii By Avicii,Avicii,43,The Nights (Avicii By Avicii),2014-12-31,pop,0.711,0.521,-5.104,1,0.0697,0.0872,2.79e-5,0.0807,0.34,125.995,264133
+Red White and Blue Jeans,Upchurch,43,Bad Mutha Fucka,2016-12-09,rap,0.548,0.921,-4.54,1,0.085,0.128,0,0.144,0.761,168.27,274718
+Death Before Dishonor,Jelly Roll,43,Waylon & Willie,2017-11-03,rap,0.657,0.695,-6.976,1,0.164,0.0506,0,0.19,0.328,75.039,198635
+Las Palabras De Amor (The Words Of Love) - Remastered 2011,Queen,43,Hot Space (2011 Remaster),1982-05-03,rock,0.395,0.558,-7.643,1,0.0282,0.102,1.09e-6,0.0704,0.132,81.605,271640
+Heroes - Single Version [Remastered],David Bowie,43,Legacy (Deluxe Edition),2016-11-11,rock,0.502,0.681,-8.263,1,0.0276,0.016,0.107,0.102,0.584,112.16,213813
+Starman - Single Mix,David Bowie,43,Legacy (Deluxe Edition),2016-11-11,rock,0.307,0.429,-11.054,1,0.0333,0.211,0,0.391,0.582,199.787,254720
+All We Know - Oliver Heldens Remix,The Chainsmokers,43,All We Know (Oliver Heldens Remix),2016-12-16,latin,0.711,0.8,-5.852,1,0.0303,0.00158,0.0513,0.314,0.43,124.009,184253
+Here We Are,Gloria Estefan,43,Cuts Both Ways,1989-07-06,latin,0.694,0.467,-14.437,1,0.0329,0.639,1.61e-5,0.0847,0.63,142.132,288763
+Unlove You (feat. Ne-Yo) - Club Mix,Armin van Buuren,43,Unlove You (feat. Ne-Yo) [Club Mix],2019-12-06,edm,0.498,0.916,-3.97,1,0.088,0.0054,8.07e-5,0.111,0.302,127.786,161953
+Calavera,Hardwell,43,Calavera,2016-04-11,edm,0.689,0.913,-2.944,1,0.0362,0.00612,0.0552,0.0562,0.076,127.974,200625
+Buzz Won't Last,Upchurch,42,"Project X, Vol. 1",2018-01-30,rap,0.581,0.872,-6.182,1,0.0404,0.00733,0,0.11,0.787,75.035,179200
+Animal,Upchurch,42,Creeker 2,2019-04-20,rap,0.548,0.728,-5.417,1,0.0362,0.0687,0,0.185,0.499,130.045,152341
+Hillbilly Psycho,Upchurch,42,Creeker 2,2019-04-20,rap,0.466,0.739,-6.782,1,0.0943,0.0131,0,0.351,0.28,148.15,250219
+Legend of the South,Upchurch,42,Creeker 2,2019-04-20,rap,0.709,0.875,-5.479,1,0.0544,0.0816,0,0.119,0.462,102.044,220293
+Keep Yourself Alive - 2011 Mix,Queen,42,Queen (2011 Remaster),1973-07-13,rock,0.442,0.736,-9.546,1,0.0744,0.257,7.31e-5,0.157,0.597,134.21,227467
+Doing Alright - Remastered 2011,Queen,42,Queen (2011 Remaster),1973-07-13,rock,0.339,0.286,-12.334,1,0.0344,0.752,2.71e-5,0.085,0.192,93.013,249213
+Need Your Loving Tonight - Remastered 2011,Queen,42,The Game (2011 Remaster),1980-06-27,rock,0.604,0.876,-3.879,1,0.0393,0.326,0,0.242,0.804,137.821,169200
+Sail Away Sweet Sister - Remastered 2011,Queen,42,The Game (2011 Remaster),1980-06-27,rock,0.512,0.5,-6.937,1,0.0282,0.828,0,0.0907,0.196,80.075,213427
+There For You - Dzeko Remix,Martin Garrix,42,There For You: The Remixes,2017-08-18,edm,0.61,0.907,-5.224,1,0.154,0.0207,3.82e-5,0.165,0.515,126.235,159048
+Something Just Like This - R3hab Remix,The Chainsmokers,42,Something Just Like This (Remix Pack),2017-04-28,edm,0.705,0.585,-6.848,1,0.0366,0.296,1.9e-4,0.097,0.348,102.019,162880
+Mad World - Radio Edit,Hardwell,42,Mad World,2015-10-16,edm,0.472,0.876,-3.238,1,0.0348,0.00625,2.85e-6,0.244,0.253,128.12,210703
+Fade Into Darkness - Vocal Radio Mix,Avicii,42,Fade Into Darkness,2011-07-16,edm,0.556,0.885,-4.045,1,0.0321,0.00786,1.95e-6,0.138,0.771,125.997,198139
+Radio Jam,Upchurch,41,King of Dixie,2017-10-18,rap,0.564,0.608,-9.804,1,0.0394,0.307,0,0.0407,0.283,80.027,199467
+40 Mill,Tyga,41,40 Mill - Single,2014-10-14,rap,0.733,0.883,-4.46,1,0.294,0.0299,1.15e-6,0.343,0.519,111.023,185946
+Dreamer's Ball - Remastered 2011,Queen,41,Jazz (2011 Remaster),1978-11-10,rock,0.607,0.369,-7.616,1,0.0346,0.831,0,0.419,0.406,91.684,210147
+Rock It (Prime Jive) - Remastered 2011,Queen,41,The Game (2011 Remaster),1980-06-27,rock,0.47,0.915,-5.698,1,0.0612,0.323,0,0.064,0.634,160.3,273013
+Fat Bottomed Girls,Queen,41,Greatest Hits,1981-10-26,rock,0.327,0.645,-10.159,1,0.0439,0.0466,2.98e-5,0.307,0.43,89.328,255667
+Cuts Both Ways,Gloria Estefan,41,Cuts Both Ways,1989-07-06,latin,0.38,0.309,-12.6,1,0.0329,0.649,0,0.0733,0.299,83.718,193608
+Just Hold On - DVBBS Remix,Steve Aoki,41,Just Hold On (Remixes),2017-03-24,edm,0.614,0.839,-3.05,1,0.0429,0.0324,0,0.131,0.351,110.009,216000
+Animals - Victor Niglio & Martin Garrix Festival Trap Remix,Martin Garrix,41,Animals (The Remixes Pt. 1),2014-01-27,edm,0.661,0.869,-4.314,1,0.0388,0.00445,0.851,0.0343,0.374,139.99,198466
+Just One Last Time (feat. Taped Rai),David Guetta,41,Nothing but the Beat 2.0,2011-08-26,edm,0.532,0.814,-2.507,1,0.0579,0.0206,0,0.124,0.208,128.022,227107
+Summer Air (feat. Trevor Guthrie),Hardwell,40,Summer Air (feat. Trevor Guthrie),2019-05-31,pop,0.632,0.574,-8.584,1,0.053,0.0942,0,0.215,0.557,125.989,201905
+sweetener,Ariana Grande,40,Sweetener,2018-08-17,pop,0.722,0.461,-6.428,1,0.0319,0.256,0,0.214,0.464,119.91,208493
+no tears left to cry,Ariana Grande,40,Sweetener,2018-08-17,pop,0.701,0.713,-5.507,1,0.0547,0.04,3.14e-6,0.267,0.361,121.934,205920
+Loveless (feat. Robert James),Upchurch,40,King of Dixie,2017-10-18,rap,0.606,0.549,-11.261,1,0.167,0.00237,0,0.198,0.524,176.051,308245
+Phantom of the Pines,Upchurch,40,Creeker,2018-02-12,rap,0.448,0.846,-6.087,1,0.0537,9.59e-4,0,0.39,0.391,144.852,168368
+New Orleans,Jelly Roll,40,Waylon & Willie III,2018-11-16,rap,0.751,0.658,-6.664,1,0.146,0.0474,0,0.291,0.261,116.966,238068
+Alcoholic Shrink,Upchurch,40,Creeker 2,2019-04-20,rap,0.666,0.751,-5.849,1,0.0405,0.00667,0,0.196,0.46,124.029,214763
+Dirty Elvis,Upchurch,40,Creeker 2,2019-04-20,rap,0.67,0.818,-7.373,1,0.0315,0.00609,0,0.0754,0.552,130.036,152080
+Shaka Zulu,Tyga,40,The Gold Album: 18th Dynasty,2015-06-30,rap,0.845,0.705,-3.239,1,0.197,0.331,0,0.14,0.287,86.989,253793
+"All Dead, All Dead - Remastered 2011",Queen,40,News Of The World (2011 Remaster),1977-10-28,rock,0.491,0.0765,-14.57,1,0.0416,0.787,3.06e-4,0.114,0.305,113.728,189587
+If You Can't Beat Them - Remastered 2011,Queen,40,Jazz (2011 Remaster),1978-11-10,rock,0.427,0.774,-5.434,1,0.0681,0.0021,0.00607,0.358,0.665,140.444,255187
+In Only Seven Days - Remastered 2011,Queen,40,Jazz (2011 Remaster),1978-11-10,rock,0.517,0.469,-7.148,1,0.0306,0.427,1.96e-6,0.128,0.409,115.076,149253
+Back Chat - Remastered 2011,Queen,40,Hot Space (2011 Remaster),1982-05-03,rock,0.787,0.844,-6.423,1,0.0637,0.122,9.19e-5,0.372,0.71,118.959,275093
+Sentimental Lady - 2018 Remaster,Fleetwood Mac,40,50 Years - Don't Stop,2018-11-16,rock,0.438,0.56,-8.756,1,0.0379,0.576,6.7e-5,0.139,0.567,74.564,182587
+Si Voy a Perderte,Gloria Estefan,40,Exitos de gloria estefan,1990-09-16,latin,0.576,0.34,-12.999,1,0.0255,0.519,0,0.0861,0.431,82.226,246840
+Anything for You,Gloria Estefan,40,Greatest Hits,1985,latin,0.55,0.534,-10.326,1,0.0397,0.523,1.42e-6,0.0585,0.194,143.73,241627
+Tus Ojos,Gloria Estefan,40,Mi Tierra,1993-06-03,latin,0.653,0.661,-8.399,1,0.0336,0.346,0,0.0569,0.782,98.354,250867
+Roni,Bobby Brown,40,Don't Be Cruel,1988-06-20,r&b,0.706,0.681,-12.543,1,0.0391,0.0137,2.84e-5,0.0777,0.887,147.297,355200
+Metropolis,David Guetta,40,Nothing but the Beat (Ultimate Edition),2012-12-07,edm,0.691,0.982,-2.894,1,0.13,0.00301,0.195,0.244,0.364,128.03,330013
+Paris - VINAI Remix,The Chainsmokers,40,Paris (Remixes),2017-02-17,edm,0.532,0.822,-3.309,1,0.0432,0.0648,0,0.356,0.335,99.962,218787
+Call You Mine,The Chainsmokers,39,World War Joy,2019-05-31,pop,0.591,0.702,-5.59,1,0.0289,0.225,0,0.414,0.501,104.003,217653
+goodnight n go,Ariana Grande,39,Sweetener,2018-08-17,pop,0.694,0.453,-7.069,1,0.0397,0.0213,0,0.0795,0.24,110.909,189507
+Be That Way,Jelly Roll,39,Waylon & Willie,2017-11-03,rap,0.674,0.67,-6.457,1,0.061,0.204,0,0.289,0.371,143.948,246938
+Forever Fame,Upchurch,39,Creeker 2,2019-04-20,rap,0.491,0.648,-5.645,1,0.0287,0.0225,0,0.122,0.309,179.932,141269
+Good Old-Fashioned Lover Boy - 2011 Mix,Queen,39,A Day At The Races (2011 Remaster),1976-12-10,rock,0.543,0.461,-6.724,1,0.0302,0.577,0,0.0563,0.385,96.803,173173
+Sheer Heart Attack - Remastered 2011,Queen,39,News Of The World (2011 Remaster),1977-10-28,rock,0.155,0.938,-4.624,1,0.126,0.00543,0.00262,0.359,0.383,184.469,207600
+Who Needs You - Remastered 2011,Queen,39,News Of The World (2011 Remaster),1977-10-28,rock,0.863,0.381,-12.823,1,0.0528,0.261,2.77e-4,0.202,0.906,120.645,186853
+Sweet Emotion - Single Version,Aerosmith,39,Aerosmith's Greatest Hits,1980-11-11,rock,0.473,0.787,-9.898,1,0.0317,0.0131,8.76e-4,0.0913,0.603,99.893,192733
+No Te Olvidaré,Gloria Estefan,39,Exitos de gloria estefan,1990-09-16,latin,0.605,0.445,-12.482,1,0.0426,0.59,0,0.0492,0.256,143.908,242467
+Tres Gotas De Agua Bendita,Gloria Estefan,39,La Reina Y Sus Amigos,2009-11-16,latin,0.778,0.793,-4.013,1,0.0482,0.0936,0,0.0508,0.888,110.127,255747
+Every Little Step,Bobby Brown,39,Step Up: All In (Original Motion Picture Soundtrack),2014-07-25,r&b,0.571,0.9,-5.957,1,0.0392,0.0111,8.65e-6,0.0622,0.93,98.138,239163
+How You Love Me (feat. Conor Maynard & Snoop Dogg) - Thomas Gold Remix,Hardwell,39,How You Love Me (feat. Conor Maynard & Snoop Dogg) [The Remixes],2019-02-22,edm,0.612,0.951,-3.351,1,0.0572,0.0702,1.12e-4,0.0647,0.657,125.991,179130
+Countdown - Original Mix,Hardwell,39,Countdown,2013-10-21,edm,0.769,0.977,-2.703,1,0.0969,0.0688,0.89,0.0778,0.207,128.005,278438
+Follow Me (feat. Jason Derulo),Hardwell,38,United We Are,2015-01-20,pop,0.519,0.814,-2.884,1,0.0547,0.0114,0,0.0676,0.381,127.968,199849
+Proud,Jelly Roll,38,Waylon & Willie,2017-11-03,rap,0.748,0.679,-7.219,1,0.0384,0.492,8.47e-6,0.142,0.255,129.952,273483
+Seven Seas Of Rhye - Remastered 2011,Queen,38,Queen II (2011 Remaster),1974-03-08,rock,0.317,0.896,-6.089,1,0.104,0.122,0.0168,0.253,0.421,126.894,168973
+It's Late - Remastered 2011,Queen,38,News Of The World (2011 Remaster),1977-10-28,rock,0.293,0.691,-5.245,1,0.0575,0.19,4e-6,0.0899,0.513,182.256,386360
+More Of That Jazz - Remastered 2011,Queen,38,Jazz (2011 Remaster),1978-11-10,rock,0.354,0.717,-5.787,1,0.0656,0.0338,3.93e-5,0.0936,0.514,174.069,256653
+Staying Power - Remastered 2011,Queen,38,Hot Space (2011 Remaster),1982-05-03,rock,0.823,0.855,-6.105,1,0.109,0.134,0,0.0801,0.491,115.353,252133
+Same Old Song and Dance,Aerosmith,38,Aerosmith's Greatest Hits,1980-11-11,rock,0.51,0.74,-8.427,1,0.0385,0.199,0,0.391,0.608,132.689,182560
+Oye Mi Canto - Single Version,Gloria Estefan,38,Oye Mi Canto...Los Éxitos,1989,latin,0.715,0.84,-6.617,1,0.0527,0.151,0.00239,0.096,0.924,119.588,247707
+RX,Don Omar,38,Meet The Orphans,2010-01-01,latin,0.646,0.867,-4.468,1,0.27,0.103,0,0.163,0.892,88.241,225333
+I'm Not Sorry,Hardwell,38,I'm Not Sorry,2019-03-08,edm,0.649,0.82,-3.812,1,0.0558,0.121,0,0.0771,0.349,128.096,186094
+Wizard,Martin Garrix,38,Wizard,2013-12-16,edm,0.578,0.915,-4.98,1,0.068,0.00706,0.775,0.489,0.186,127.933,281260
+Bigroom Never Dies - Mix Cut,Hardwell,38,Hardwell presents Revealed Vol. 9,2018-10-12,edm,0.688,0.967,-4.747,1,0.0531,5.2e-4,0.0632,0.305,0.225,129.969,169846
+Until You Were Gone - Reez Remix,The Chainsmokers,38,Until You Were Gone (Remixes),2015-12-18,edm,0.509,0.733,-6.127,1,0.0569,0.064,2.2e-6,0.358,0.316,128.021,216267
+Freedom,David Guetta,38,7,2018-09-14,edm,0.456,0.802,-7.173,1,0.0962,0.00266,0.37,0.122,0.0616,116.497,235160
+Loyal To The Game - DJ Quik Remix (Explicit),2Pac,37,Loyal To The Game,2004-01-01,rap,0.762,0.64,-6.412,1,0.32,0.24,0,0.0918,0.548,75.357,260853
+Pop It,Tyga,37,#BitchImTheShit,2014-11-22,rap,0.913,0.449,-9.439,1,0.0794,0.183,1.23e-5,0.0861,0.0865,97.527,176065
+Ghost Story,Coldplay,37,A Sky Full of Stars,2014-06-29,rock,0.595,0.638,-7.941,1,0.0307,0.104,8.21e-4,0.0699,0.51,122.005,257373
+Tie Your Mother Down - Remastered 2011,Queen,37,A Day At The Races (2011 Remaster),1976-12-10,rock,0.331,0.887,-5.588,1,0.0648,0.114,1.03e-4,0.367,0.196,135.035,287427
+Fun It - Remastered 2011,Queen,37,Jazz (2011 Remaster),1978-11-10,rock,0.832,0.614,-6.846,1,0.296,0.121,0.00897,0.0808,0.834,113.88,208827
+Leaving Home Ain't Easy - Remastered 2011,Queen,37,Jazz (2011 Remaster),1978-11-10,rock,0.518,0.454,-9.208,1,0.028,0.0531,0,0.112,0.216,107.689,195040
+Life Is Real (Song For Lennon) - Remastered 2011,Queen,37,Hot Space (2011 Remaster),1982-05-03,rock,0.571,0.447,-8.303,1,0.0246,0.613,0,0.07,0.345,80.699,211360
+1-2-3 - Single Version,Gloria Estefan,37,The Very Best Of Gloria Estefan (English Version),1984,latin,0.756,0.855,-6.7,1,0.0687,0.102,2.48e-5,0.0185,0.699,126.423,215880
+Feels (feat. Young Thug & J Hus),Ed Sheeran,37,Feels (feat. Young Thug & J Hus),2019-07-11,r&b,0.665,0.68,-4.899,1,0.29,0.112,0,0.096,0.69,91.67,150787
+Don't Stop the Madness,Hardwell,37,United We Are,2015-01-23,edm,0.686,0.903,-4.604,1,0.171,7.88e-4,0.00247,0.2,0.0391,129.995,225231
+Born to Get Wild (feat. will.i.am),Steve Aoki,37,Neon Future I,2014-09-29,edm,0.657,0.887,-3.598,1,0.168,0.118,0,0.383,0.218,128.009,285000
+pete davidson,Ariana Grande,36,Sweetener,2018-08-17,pop,0.654,0.312,-10.212,1,0.0508,0.429,8.59e-6,0.19,0.304,119.9,73813
+Side Effects - Nolan van Lith Remix,The Chainsmokers,36,Side Effects - Remixes,2018-07-25,rap,0.548,0.939,-4.024,1,0.0977,0.275,2.79e-6,0.0561,0.516,145.082,184160
+Now I'm Here - Remastered 2011,Queen,36,Sheer Heart Attack (2011 Remaster),1974-11-08,rock,0.492,0.759,-6.938,1,0.0511,0.0321,0.00224,0.0988,0.522,132.547,252933
+Stone Cold Crazy - Remastered 2011,Queen,36,Sheer Heart Attack (2011 Remaster),1974-11-08,rock,0.429,0.922,-6.649,1,0.0924,0.0235,0.00138,0.0954,0.439,120.361,133813
+"Get Down, Make Love - Remastered 2011",Queen,36,News Of The World (2011 Remaster),1977-10-28,rock,0.446,0.713,-4.825,1,0.268,0.41,0,0.212,0.369,143.229,230120
+Dancer - Remastered 2011,Queen,36,Hot Space (2011 Remaster),1982-05-03,rock,0.74,0.476,-6.112,1,0.0344,0.045,1.01e-5,0.0494,0.511,100.09,230120
+Rebel Rebel - 1997 Remaster,David Bowie,36,The Best Of David Bowie 1969-74,1997-10-27,rock,0.672,0.963,-4.168,1,0.0507,0.00205,0,0.291,0.621,126.549,265653
+Everlasting Love,Gloria Estefan,36,The Very Best Of Gloria Estefan (English Version),1984,latin,0.708,0.817,-6.689,1,0.0383,0.156,0,0.111,0.853,128.871,240720
+On Our Own - With Rap,Bobby Brown,36,The Best Of Bobby Brown 20th Century Masters The Millennium Collection,2005-01-01,r&b,0.693,0.81,-6.129,1,0.0412,0.0076,0,0.0461,0.532,102.494,271507
+Animals,Martin Garrix,36,Gold Skies,2014-07-01,edm,0.676,0.865,-6.381,1,0.0389,0.00105,0.648,0.382,0.0372,128.006,303773
+Turbulence - Radio Edit,Steve Aoki,36,Wonderland,2012,edm,0.694,0.947,-1.721,1,0.081,0.00625,0.256,0.117,0.288,130.024,228010
+Let It Be Me - Sondr Remix,Steve Aoki,35,Let It Be Me (Remixes),2019-10-18,pop,0.467,0.821,-5.466,1,0.0934,0.00791,4.41e-4,0.131,0.232,122.676,185366
+raindrops (an angel cried),Ariana Grande,35,Sweetener,2018-08-17,pop,0.336,0.231,-6.217,1,0.0493,0.943,0,0.183,0.431,168.724,37640
+Colors (feat. Andreas Moe),Hardwell,35,United We Are,2015-01-20,pop,0.597,0.842,-3.424,1,0.0352,0.0135,6.38e-6,0.158,0.484,127.924,240938
+No Worries,Jelly Roll,35,Crosses and Crossroads,2019-04-15,rap,0.724,0.516,-8.646,1,0.177,0.185,6.27e-4,0.313,0.277,139.927,160571
+Poor Man's Mansion,Jelly Roll,35,Waylon & Willie III,2018-11-16,rap,0.576,0.748,-6.774,1,0.225,0.321,0,0.145,0.49,89.615,150290
+Under Pressure - Remastered,Queen,35,Queen 40 Limited Edition Collector's Box Set Vol. 2,2011-01-01,rock,0.671,0.711,-7.813,1,0.0478,0.422,0,0.104,0.466,113.809,248440
+Liar - Remastered 2011,Queen,35,Queen (2011 Remaster),1973-07-13,rock,0.217,0.784,-7.202,1,0.153,0.00252,0.0775,0.195,0.27,79.181,383907
+The Fairy Feller's Master-Stroke - Remastered 2011,Queen,35,Queen II (2011 Remaster),1974-03-08,rock,0.441,0.897,-8.628,1,0.0909,0.248,0.0113,0.121,0.696,159.15,160987
+Nevermore - Remastered 2011,Queen,35,Queen II (2011 Remaster),1974-03-08,rock,0.366,0.398,-11.527,1,0.0367,0.873,2.9e-6,0.13,0.181,117.705,78667
+You Take My Breath Away - Remastered 2011,Queen,35,A Day At The Races (2011 Remaster),1976-12-10,rock,0.234,0.213,-15.166,1,0.0465,0.952,6.71e-5,0.264,0.0787,187.166,306480
+The Millionaire Waltz - Remastered 2011,Queen,35,A Day At The Races (2011 Remaster),1976-12-10,rock,0.323,0.338,-7.625,1,0.0327,0.617,9.48e-6,0.129,0.37,93.231,295333
+Sleeping On The Sidewalk - Remastered 2011,Queen,35,News Of The World (2011 Remaster),1977-10-28,rock,0.619,0.767,-7.811,1,0.027,0.466,2.79e-4,0.387,0.644,129.947,186080
+Action This Day - Remastered 2011,Queen,35,Hot Space (2011 Remaster),1982-05-03,rock,0.727,0.478,-6.121,1,0.0403,0.0564,2.62e-4,0.0801,0.909,166.364,214813
+Put Out The Fire - Remastered 2011,Queen,35,Hot Space (2011 Remaster),1982-05-03,rock,0.545,0.855,-5.869,1,0.0599,0.222,0,0.184,0.467,91.796,198240
+Calling All Girls - Remastered 2011,Queen,35,Hot Space (2011 Remaster),1982-05-03,rock,0.613,0.718,-6.749,1,0.0346,0.0484,1.1e-4,0.0661,0.619,138.43,231853
+Maldad,Steve Aoki,35,Maldad,2020-01-17,latin,0.674,0.808,-4.168,1,0.103,0.00182,7.7e-5,0.259,0.66,104.863,168159
+Dr. Beat,Gloria Estefan,35,Exitos de gloria estefan,1990-09-25,latin,0.909,0.679,-10.875,1,0.0537,0.237,0.0402,0.12,0.871,117.517,262093
+Don't Be Cruel,Bobby Brown,35,Don't Be Cruel,1988-06-20,r&b,0.771,0.662,-13.227,1,0.056,1.99e-4,1.23e-5,0.279,0.511,102.824,445573
+Inside Out - DubVision Remix,The Chainsmokers,35,Inside Out (DubVision Remix),2016-07-15,edm,0.719,0.799,-4.805,1,0.0551,0.0186,3.94e-5,0.29,0.266,125.993,299547
+I'm Not Sorry,Hardwell,34,I'm Not Sorry,2019-03-08,pop,0.65,0.819,-3.811,1,0.0551,0.117,0,0.0772,0.351,128.09,186094
+Take it Slow,Jelly Roll,34,Waylon & Willie III,2018-11-16,rap,0.706,0.821,-6.554,1,0.119,0.0345,0,0.219,0.528,99.997,187116
+The Night Comes Down - Remastered 2011,Queen,34,Queen (2011 Remaster),1973-07-13,rock,0.406,0.57,-12.374,1,0.0633,0.692,0.00219,0.396,0.642,142.792,263027
+Son And Daughter - Remastered 2011,Queen,34,Queen (2011 Remaster),1973-07-13,rock,0.328,0.723,-7.842,1,0.0434,0.13,0.0857,0.369,0.749,144.832,199533
+Seven Seas Of Rhye - Remastered 2011,Queen,34,Queen (2011 Remaster),1973-07-13,rock,0.245,0.458,-13.372,1,0.0409,0.718,0.963,0.154,0.0447,64.517,76573
+Father To Son - Remastered 2011,Queen,34,Queen II (2011 Remaster),1974-03-08,rock,0.155,0.646,-11.086,1,0.0541,0.208,6.78e-5,0.188,0.213,155.32,373853
+In The Lap Of The Gods... Revisited - Remastered 2011,Queen,34,Sheer Heart Attack (2011 Remaster),1974-11-08,rock,0.41,0.575,-8.609,1,0.0368,0.408,0,0.291,0.503,132.074,226813
+You And I - Remastered 2011,Queen,34,A Day At The Races (2011 Remaster),1976-12-10,rock,0.526,0.869,-5.78,1,0.0599,0.0796,0.00268,0.43,0.535,134.375,206147
+Janie's Got A Gun - Single Version,Aerosmith,34,Tough Love: Best Of The Ballads,2011-01-01,rock,0.622,0.829,-4.76,1,0.0296,0.0721,2.86e-4,0.179,0.415,115.491,328560
+I See Your Smile,Gloria Estefan,34,Greatest Hits,1985,latin,0.403,0.457,-8.984,1,0.0272,0.237,0,0.185,0.231,79.187,274133
+Tu Fotografia,Gloria Estefan,34,Unwrapped,2003-08-27,latin,0.578,0.497,-8.082,1,0.0407,0.55,0,0.204,0.515,139.687,228307
+It's Too Late,Gloria Estefan,34,"Hold Me, Thrill Me, Kiss Me",1994-10-14,latin,0.775,0.504,-9.479,1,0.0278,0.163,3.37e-5,0.0892,0.82,99.9,237627
+Summer Air - DubVision Remix,Hardwell,34,Summer Air (DubVision Remix),2019-09-20,edm,0.575,0.814,-6.406,1,0.0393,0.012,1.61e-5,0.269,0.407,126.026,196190
+Jesus - Remastered 2011,Queen,33,Queen (2011 Remaster),1973-07-13,rock,0.367,0.747,-7.065,1,0.172,0.137,1.49e-6,0.181,0.583,115.08,224173
+Procession - Remastered 2011,Queen,33,Queen II (2011 Remaster),1974-03-08,rock,0.415,0.0725,-23.459,1,0.032,0.699,0.0472,0.137,0.435,58.883,73133
+Some Day One Day - Remastered 2011,Queen,33,Queen II (2011 Remaster),1974-03-08,rock,0.337,0.573,-13.872,1,0.0364,0.265,0.0151,0.0792,0.699,117.597,262200
+The Loser In The End - Remastered 2011,Queen,33,Queen II (2011 Remaster),1974-03-08,rock,0.386,0.813,-8.035,1,0.157,0.0346,2.68e-6,0.152,0.677,145.113,241187
+Funny How Love Is - Remastered 2011,Queen,33,Queen II (2011 Remaster),1974-03-08,rock,0.444,0.945,-8.388,1,0.081,0.00318,7.85e-5,0.346,0.392,145.482,169760
+In The Lap Of The Gods - Remastered 2011,Queen,33,Sheer Heart Attack (2011 Remaster),1974-11-08,rock,0.326,0.551,-6.43,1,0.0323,0.551,2.94e-4,0.348,0.23,80.539,202613
+Teo Torriatte (Let Us Cling Together) - 2011 Mix,Queen,33,A Day At The Races (2011 Remaster),1976-12-10,rock,0.274,0.239,-10.202,1,0.0291,0.647,6.53e-6,0.101,0.122,141.854,355653
+Coming Out of the Dark,Gloria Estefan,33,Into The Light,1991-01-23,latin,0.64,0.425,-11.932,1,0.0426,0.643,0,0.168,0.477,131.865,243227
+No Será Fácil,Gloria Estefan,33,Exitos de gloria estefan,1990-09-25,latin,0.361,0.204,-14.904,1,0.0414,0.679,0,0.159,0.157,135.427,278400
+"Hold Me, Thrill Me, Kiss Me",Gloria Estefan,33,"Hold Me, Thrill Me, Kiss Me",1994,latin,0.626,0.553,-7.022,1,0.026,0.279,0,0.113,0.477,109.403,202333
+This Is What It Feels Like - W&W Radio Edit,Armin van Buuren,33,This Is What It Feels Like (W&W Remix),2013-05-03,edm,0.55,0.816,-6.559,1,0.0415,0.0014,0.00117,0.277,0.296,129.923,206505
+Anything More (feat. Era Istrefi) - Will Sparks Remix,Steve Aoki,33,Neon Future III (Remixes),2019-02-15,edm,0.409,0.847,-3.47,1,0.0499,0.00167,0.00598,0.186,0.034,124.301,186672
+Just Hold On - Two Friends Remix,Steve Aoki,33,Just Hold On (Remixes),2017-03-24,edm,0.635,0.689,-7.286,1,0.0352,0.0451,1.88e-6,0.0894,0.329,102.002,230221
+Don't Stop The The Madness **Hardwell Exclusive** [Mix Cut] - Original Mix,Hardwell,33,Hardwell On Air - Best Of December 2014,2015-01-20,edm,0.676,0.91,-4.476,1,0.278,0.00103,0.00419,0.341,0.0729,129.983,221654
+O - Reprise,Coldplay,32,A Sky Full of Stars,2014-06-29,rock,0.201,0.327,-11.975,1,0.0285,0.869,0.846,0.117,0.0945,107.019,97360
+Dear Friends - Remastered 2011,Queen,32,Sheer Heart Attack (2011 Remaster),1974-11-08,rock,0.317,0.0455,-16.092,1,0.0344,0.88,0,0.172,0.571,107.711,67573
+Misfire - Remastered 2011,Queen,32,Sheer Heart Attack (2011 Remaster),1974-11-08,rock,0.614,0.84,-7.006,1,0.03,0.0808,0.0307,0.431,0.961,126.343,109653
+Bring Back That Leroy Brown - Remastered 2011,Queen,32,Sheer Heart Attack (2011 Remaster),1974-11-08,rock,0.702,0.641,-5.594,1,0.0879,0.399,0,0.0763,0.863,118.486,135307
+Long Away - Remastered 2011,Queen,32,A Day At The Races (2011 Remaster),1976-12-10,rock,0.494,0.742,-6.458,1,0.0399,0.188,1.18e-6,0.263,0.317,116.738,213413
+Ziggy Stardust - 1997 Remaster,David Bowie,32,The Best Of David Bowie 1969-74,1997-10-27,rock,0.467,0.513,-14.531,1,0.0825,0.0277,2.66e-6,0.229,0.448,80.966,198747
+Tradición,Gloria Estefan,32,Mi Tierra,1993-06-03,r&b,0.571,0.698,-6.786,1,0.109,0.0839,0.00319,0.127,0.909,132.215,320027
+Don't Be Cruel - Radio Edit,Bobby Brown,32,The Definitive Collection,2006-01-01,r&b,0.73,0.897,-7.228,1,0.041,2.25e-4,3.2e-6,0.0487,0.679,101.823,294467
+Every Little Step - Remix,Bobby Brown,32,Dance...Ya Know It!,1989-10-26,r&b,0.676,0.758,-10.397,1,0.069,2.18e-4,7.54e-4,0.0291,0.679,102.727,281533
+Sunday Morning,Jelly Roll,31,Whiskey Sessions II,2019-04-05,rap,0.662,0.829,-6.327,1,0.269,0.0271,0,0.097,0.538,170.062,209236
+Drowse - Remastered 2011,Queen,31,A Day At The Races (2011 Remaster),1976-12-10,rock,0.439,0.561,-10.151,1,0.0338,0.178,6.94e-6,0.106,0.432,145.415,223293
+Heat,David Bowie,31,The Next Day,2013-03-08,rock,0.373,0.473,-9.367,1,0.0268,0.385,0.0324,0.0744,0.113,103.984,265253
+Scared To Be Lonely - LOOPERS Remix,Martin Garrix,31,Scared To Be Lonely Remixes Vol. 2,2017-03-24,edm,0.61,0.934,-3.984,1,0.16,0.0024,0.00345,0.396,0.512,128.01,251274
+She Makes Me (Stormtrooper In Stilettos) - Remastered 2011,Queen,30,Sheer Heart Attack (2011 Remaster),1974-11-08,rock,0.461,0.533,-7.677,1,0.0257,0.17,2.1e-4,0.119,0.371,77.031,249200
+Cryin',Aerosmith,30,Tough Love: Best Of The Ballads,2011-01-01,rock,0.449,0.833,-3.687,1,0.0326,2.18e-4,0.00572,0.368,0.518,105.895,308640
+I'll Be Good To You,Bobby Brown,30,Don't Be Cruel,1988-01-01,r&b,0.802,0.515,-9.488,1,0.0442,0.128,7.27e-6,0.0589,0.649,107.811,265760
+Animals - Oliver Heldens Remix,Martin Garrix,30,Animals,2013-01-01,edm,0.669,0.949,-5.1,1,0.0452,0.0225,0.901,0.188,0.513,128.015,262813
+ME! (feat. Brendon Urie of Panic! At The Disco),Taylor Swift,29,ME!,2019-04-26,pop,0.614,0.839,-4.143,1,0.0702,0.0291,0,0.112,0.657,182.123,193040
+Drowning Tonight,Jelly Roll,29,Whiskey Sessions II,2019-04-05,rap,0.647,0.647,-6.549,1,0.131,0.379,0,0.103,0.437,168.317,188248
+A Bailar,Gloria Estefan,29,90 Millas,2007-08-06,latin,0.758,0.827,-4.116,1,0.0462,0.478,0,0.192,0.964,100.024,222307
+Baldadig,Hardwell,29,Baldadig,2016-12-12,latin,0.673,0.939,-2.332,1,0.142,0.0128,1.06e-4,0.32,0.186,128.004,176241
+Dare You - Radio Edit,Hardwell,29,Dare You,2013-11-15,edm,0.457,0.89,-4.304,1,0.0461,0.0165,0,0.0964,0.19,127.877,218438
+Everybody Hates Me - Steerner Remix,The Chainsmokers,29,Everybody Hates Me - Remixes,2018-03-30,edm,0.453,0.863,-6.239,1,0.0957,0.0672,0,0.107,0.499,154.872,176667
+Three Triangles (Losing My Religion) - Original Club Mix,Hardwell,29,Three Triangles (Losing My Religion),2013-07-01,edm,0.731,0.806,-4.995,1,0.0748,0.00736,0.105,0.084,0.15,127.993,438760
+"thank u, next",Ariana Grande,28,"thank u, next",2018-11-03,pop,0.724,0.647,-5.642,1,0.0658,0.28,0,0.102,0.435,106.96,207333
+Whatcha Waiting For,Jelly Roll,28,Whiskey Sessions II,2019-04-05,rap,0.734,0.527,-7.05,1,0.102,0.0155,0,0.141,0.338,82.978,167579
+Modern Love - 1999 Remaster,David Bowie,28,Let's Dance (1999 Remaster),1983-04-14,rock,0.315,0.889,-8.192,1,0.041,3.76e-4,0.00241,0.133,0.961,181.329,288467
+Everybody Is In The Place - Radio Edit,Hardwell,28,Everybody Is In The Place (Radio Edit),2014-04-18,edm,0.609,0.989,-3.51,1,0.0867,4.34e-4,0.219,0.0715,0.0358,130.046,171697
+Without You (feat. Sandro Cavazza),Avicii,27,AVĪCI (01),2017-08-10,pop,0.652,0.855,-4.832,1,0.0441,0.00179,0,0.0404,0.279,134.009,181673
+Golden Years - Single Version [Remastered],David Bowie,27,Legacy (Deluxe Edition),2016-11-11,rock,0.722,0.677,-10.683,1,0.0413,0.368,1.26e-6,0.074,0.903,108.531,207573
+Everywhere,Fleetwood Mac,27,Tango In The Night,1987-04-13,rock,0.69,0.54,-10.516,1,0.0317,0.218,0.00657,0.115,0.764,114.846,222733
+EIFORYA - Original Mix,Armin van Buuren,27,EIFORYA,2014-04-14,edm,0.663,0.862,-4.56,1,0.0935,0.0549,0.647,0.116,0.231,132.06,363636
+Dare You (feat. Matthew Koma) - Radio Edit,Hardwell,27,Dare You (Radio Edit) (feat. Matthew Koma),2013-12-10,edm,0.456,0.89,-4.304,1,0.0463,0.0169,0,0.0901,0.165,127.894,218440
+Go Your Own Way,Fleetwood Mac,26,Rumours,1977-02-04,rock,0.597,0.812,-12.062,1,0.0315,0.0219,0.00106,0.102,0.823,135.68,218400
+Tie Your Mother Down - Remastered 2011,Queen,26,A Day At The Races,1976-12-10,rock,0.327,0.886,-5.6,1,0.0722,0.094,1.95e-4,0.35,0.16,134.991,286693
+My Prerogative,Bobby Brown,26,Gold,2009-01-01,r&b,0.689,0.804,-5.589,1,0.0853,0.0796,0,0.238,0.657,110.374,295653
+If It Ain't Dutch,Armin van Buuren,26,If It Ain’t Dutch,2016-01-18,edm,0.547,0.968,-3.956,1,0.258,0.00481,0.0714,0.419,0.166,132.106,173500
+Wake Me Up - Radio Edit,Avicii,25,True,2013-01-01,pop,0.532,0.783,-5.697,1,0.0523,0.0038,0.0012,0.161,0.643,124.08,247427
+Livin' On The Edge - Acoustic Version,Aerosmith,25,Gold,2005,latin,0.464,0.867,-5.219,1,0.0326,0.00319,0.00207,0.27,0.39,84.544,337667
+All Day All Night,Bobby Brown,25,Don't Be Cruel,1988-01-01,r&b,0.732,0.54,-10.415,1,0.125,0.0892,0,0.0445,0.799,165.44,280293
+Sunflower - Spider-Man: Into the Spider-Verse,Post Malone,24,Sunflower (Spider-Man: Into the Spider-Verse),2018-10-18,pop,0.753,0.498,-5.61,1,0.0504,0.551,0,0.0706,0.927,89.95,158053
+Rag Doll,Aerosmith,24,Tough Love: Best Of The Ballads,2011-01-01,rock,0.594,0.935,-4.796,1,0.049,0.537,0,0.0836,0.675,93.448,264947
+Livin' On The Edge,Aerosmith,24,Tough Love: Best Of The Ballads,2011-01-01,rock,0.339,0.874,-4.346,1,0.0361,0.0021,0.00697,0.319,0.26,84.493,381240
+Heroes - 1999 Remaster,David Bowie,24,Heroes,1977-10-14,rock,0.478,0.774,-6.977,1,0.0292,2.65e-4,0.585,0.191,0.429,112.577,370373
+Ping Pong [Mix Cut] - Hardwell Remix,Armin van Buuren,24,Hardwell Presents Revealed Vol. 5,2014-06-27,edm,0.578,0.945,-6.418,1,0.0853,0.00241,0.0111,0.141,0.0368,129.593,263033
+Why Are We So Broken (feat. blink-182) - Steve Aoki 182 Bottles Of Beer On The Wall Remix,Steve Aoki,24,Neon Future III (Remixes),2019-02-15,edm,0.604,0.938,-4.29,1,0.0458,3.13e-4,0.0117,0.0621,0.135,127.994,285000
+Stay,David Guetta,24,Guetta Blaster,2004-06-04,edm,0.756,0.689,-7.904,1,0.0609,0.0221,0.523,0.066,0.403,127.979,339653
+Let It Be Me,Steve Aoki,23,Let It Be Me,2019-09-06,pop,0.661,0.758,-5.299,1,0.0864,0.0797,0,0.106,0.387,114.098,224061
+Who Do You Love,The Chainsmokers,23,Who Do You Love,2019-02-07,pop,0.51,0.835,-4.673,1,0.0447,0.00791,0,0.219,0.435,140.024,226747
+I See Fire,Ed Sheeran,23,x (Deluxe Edition),2014-06-21,r&b,0.641,0.176,-11.692,1,0.0349,0.638,5.14e-6,0.252,0.297,76.031,299147
+Everybody Is In The Place [Mix Cut] - I AM Hardwell Intro Edit,Hardwell,23,Hardwell Presents Revealed Vol. 5,2014-06-27,edm,0.544,0.96,-6.382,1,0.0671,1.03e-4,0.855,0.104,0.0394,128.041,331833
+This Feeling (feat. Kelsea Ballerini),The Chainsmokers,22,Sick Boy...This Feeling,2018-09-18,pop,0.539,0.651,-5.304,1,0.0432,0.0651,0,0.0662,0.474,105.159,199227
+Rebel Rebel - 1999 Remaster,David Bowie,22,Diamond Dogs (30th Anniversary),1974-04-24,rock,0.676,0.92,-7.96,1,0.0435,0.00101,8.65e-6,0.248,0.624,126.341,269360
+Sweet Child O' Mine,Guns N' Roses,22,Appetite For Destruction,1987-01-01,rock,0.449,0.901,-7.711,1,0.0526,0.141,0.0675,0.128,0.696,125.148,356400
+The Chain,Fleetwood Mac,21,Rumours,1977-02-04,rock,0.546,0.529,-13.6,1,0.0436,0.0629,5.67e-4,0.0383,0.574,151.727,271000
+Killer Queen - Remastered 2011,Queen,21,Sheer Heart Attack (2011 Remaster),1974-11-08,rock,0.535,0.651,-6.326,1,0.0544,0.391,0,0.133,0.612,117.218,179600
+I'm Not Sorry,Hardwell,21,I'm Not Sorry,2019-03-08,edm,0.649,0.82,-3.812,1,0.0558,0.121,0,0.0771,0.349,128.096,186094
