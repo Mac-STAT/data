@@ -1,0 +1,124 @@
+# Fall 2024
+
+```{r}
+# Leslie's code (this chunk)
+library(tidyverse)
+library(rvest)
+
+# Static course schedule (saved to html)
+schedule <- read_html("registrar_fall_24.html")
+
+# Online course schedule
+schedule2 <- read_html("https://macadmsys.macalester.edu/macssb/customPage/page/classSchedule?term=202510")
+
+css_selectors <- str_c(".TableRowClass .col", 1:6)
+
+get_html_text_from_page <- function(css_selector, page) {
+  page %>%
+    html_elements(css_selector) %>% 
+    html_text()
+}
+
+info <- purrr::map(css_selectors, get_html_text_from_page, page = schedule)
+```
+
+```{r}
+# Alicia's code for 112 activity (this chunk)
+meeting <- str_sub(info[[3]], 10, str_length(info[[3]]))
+tbas <- str_detect(meeting, "TBA")
+meeting <- meeting[tbas == FALSE]
+
+# get days
+days <- str_sub(meeting, 1, 5)
+
+# get times & rooms
+meeting_2 <- str_sub(meeting, 8, str_length(meeting)) 
+time <- str_sub(meeting_2, 1, str_locate(meeting_2, "[A-Z]")[,1] - 1)
+room <- str_sub(meeting_2, str_locate(meeting_2, "[A-Z]")[,1], str_length(meeting_2))
+
+
+# get number, crn, name, instructor
+number <- str_sub(info[[1]], 1, str_length(info[[1]]) - 8)[tbas == FALSE]
+crn <- str_sub(info[[1]], str_length(info[[1]]) - 5, str_length(info[[1]]) - 1)[tbas == FALSE]
+name <- info[[2]][tbas == FALSE]
+instructor <- str_sub(info[[4]], str_length("Instructor: ") + 1, str_length(info[[4]]))[tbas == FALSE]
+
+# get avail_max
+avail <- info[[5]][tbas == FALSE]
+max <- info[[6]][tbas == FALSE]
+avail_max <- paste(avail, max, sep = " / ")
+
+# put into one dataset!
+registrar_fall_24 <- data.frame(
+  number, crn, name, days, time, room, instructor, avail_max
+)
+```
+
+```{r}
+write.csv(registrar_fall_24, "registrar_fall_24.csv", row.names = FALSE)
+```
+
+
+
+# Fall 2023
+
+```{r}
+# Leslie's code (this chunk)
+library(tidyverse)
+library(rvest)
+
+# Static course schedule (saved to html)
+schedule <- read_html("/Users/ajohns24/Google Drive/statistics/data/112/fall_2023_registrar.html")
+
+# Online course schedule
+schedule2 <- read_html("https://macadmsys.macalester.edu/macssb/customPage/page/classSchedule?term=202410")
+
+css_selectors <- str_c(".TableRowClass .col", 1:6)
+
+get_html_text_from_page <- function(css_selector, page) {
+  page %>%
+    html_elements(css_selector) %>% 
+    html_text()
+}
+
+info <- purrr::map(css_selectors, get_html_text_from_page, page = schedule)
+```
+
+```{r}
+# My code (this chunk)
+meeting <- str_sub(info[[3]], 10, str_length(info[[3]]))
+tbas <- str_detect(meeting, "TBA")
+meeting <- meeting[tbas == FALSE]
+
+# get days
+days <- str_sub(meeting, 1, 5)
+
+# get times & rooms
+meeting_2 <- str_sub(meeting, 8, str_length(meeting)) 
+time <- str_sub(meeting_2, 1, str_locate(meeting_2, "[A-Z]")[,1] - 1)
+room <- str_sub(meeting_2, str_locate(meeting_2, "[A-Z]")[,1], str_length(meeting_2))
+
+
+# get number, crn, name, instructor
+number <- str_sub(info[[1]], 1, str_length(info[[1]]) - 8)[tbas == FALSE]
+crn <- str_sub(info[[1]], str_length(info[[1]]) - 5, str_length(info[[1]]) - 1)[tbas == FALSE]
+name <- info[[2]][tbas == FALSE]
+instructor <- str_sub(info[[4]], str_length("Instructor: ") + 1, str_length(info[[4]]))[tbas == FALSE]
+
+# get avail_max
+avail <- info[[5]][tbas == FALSE]
+max <- info[[6]][tbas == FALSE]
+avail_max <- paste(avail, max, sep = " / ")
+
+# put into one dataset!
+fall_23_registrar <- data.frame(
+  number, crn, name, days, time, room, instructor, avail_max
+)
+```
+
+```{r}
+write.csv(fall_23_registrar, "/Users/ajohns24/Google Drive/statistics/data/112/fall_23_registrar.csv", row.names = FALSE)
+```
+
+
+
