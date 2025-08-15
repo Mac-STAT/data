@@ -45,3 +45,13 @@ A repository for sharing datasets we use in our classes and keeping track of the
 | Weather in Canberra, Australia  | [weather_canberra.csv](weather_canberra.csv)             | see the `weatherAUS` data in the `rattle` package                                                    | linear regression                                                    | 253           |
 | Weather in Melbourne, Australia | [weather_melbourne.csv](weather_melbourne.csv)           | see the `weatherAUS` data in the `rattle` package                                                    | linear regression                                                    | 253           |
 | World Bank                      | [worldbank.csv](worldbank.csv)                           | [worldbank_codebook.md](worldbank_codebook.md)                                                       | linear regression, data viz                                          | 155           |
+
+
+\
+\
+\
+
+
+**OTHER DATA REPOSITORIES**
+
+- [SDSS](https://community.amstat.org/statisticaleducationsection/home)
