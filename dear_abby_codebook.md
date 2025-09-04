@@ -13,7 +13,7 @@ A basic sentiment analysis was performed in which each word of the question rece
 - The `afinn` lexicon assigns each word a score between -5 and 5, with negative scores indicating negative sentiment and positive scores indicating positive sentiment. To summarize the sentiment scores over all words in a question, 3 measures were computed:
     - Add up the values for all words for `afinn_overall`---this gives an overall sense of the sentiment for a question.
     - Add up the values for just positive words for `afinn_pos`---this gives a measure of the magnitude of positive sentiment.
-    - Add up the values for just negative words for `afinn_neg`---this gives a measure of the magnitude of positive sentiment.
+    - Add up the values for just negative words for `afinn_neg`---this gives a measure of the magnitude of negative sentiment.
 - The `bing` lexicon categorizes words in a binary way: positive or negative.
     - `bing_pos` gives the fraction of positive words in a question. (1-`bing_pos` gives the fraction of negative words.)
 
