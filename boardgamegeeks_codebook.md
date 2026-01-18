@@ -1,4 +1,4 @@
-# College
+# Board game data
 
 Data from the Board Game Geek database via [Kaggle](https://www.kaggle.com/datasets/threnjen/board-games-database-from-boardgamegeek) (Last updated in 2021)
 
