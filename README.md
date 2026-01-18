@@ -5,6 +5,7 @@ A repository for sharing datasets we use in our classes and keeping track of the
 | Data Set Name                   | File Name                                                | Codebook File                                                                                        | Useful For                                                           | Courses       |
 |-------------|-------------|---------------------|-------------|-------------|
 | Add Health Data                 | [addhealth.csv](addhealth.csv)                                 | [addhealth_codebook.md](addhealth_codebook.md)                                                             | logistic regression                                          | 155           |
+| Arctic pH Data | [arctic_network_environmental_data.csv](arctic_network_environmental_data.csv) | [NASA EarthData](https://www.earthdata.nasa.gov/data/catalog/ornl-cloud-arctic-network-veg-plots-1542-1#overview) | project | 155 |
 | Big Mac Data                    | [bigmac.csv](bigmac.csv)                                 | [bigmac_codebook.md](bigmac_codebook.md)                                                             | transformation of variables                                          | 155           |
 | Bikeshare Data                  | [bikeshare.csv](bikeshare.csv)                           | coming soon                                                                                          | linear regression                                                    | 155, 454      |
 | Bikeshare Data (v2)             | [bike_share.csv](bike_share.csv)                         | coming soon                                                                                          | linear regression                                                    | 253           |
@@ -28,10 +29,11 @@ A repository for sharing datasets we use in our classes and keeping track of the
 | Kiva loans      | [kiva_loans_small.csv](kiva_loans_small.csv)               | [kiva_loans_codebook.xlsx](kiva_loans_codebook.xlsx)                                           | wrangling, joins, dates                                                        | 112           |
 | Macalester Natural Gas Data     | [MacNaturalGas.csv](MacNaturalGas.csv)                   | [MacNaturalGas_codebook.md](MacNaturalGas_codebook.md)                                               | data viz, confounding                                                | 112           |
 | Macalester Registrar Data       | [registrar.csv](registrar.csv)                           | [registrar_codebook.md](registrar_codebook.md)                                                       | strings, regex                                                       | 112           |
+| mammal brain \& body weight     | [mammals.csv](mammals.csv)                               |  [mammals_codebook.md](mammals_codebook.md)                                                              | log transformations                                                           | 155           |
 | Mercury                         | [Mercury.csv](mercury.csv)                               | [MercuryReadme.rtf](MercuryReadme.rtf)                                                               | regression                                                           | 155           |
 | Mushrooms                       | [mushrooms.csv](mushrooms.csv)                           | [mushrooms_codebook.md](mushrooms_codebook.md)                                                       | logistic regression, hypothesis testing                              | 155           |
 | Powerlifting                    | [powerlifting.csv](powerlifting.csv)                     | [powerlifting_codebook.md](powerlifting_codebook.md)                                                 | linear regression                                                    | 155           |
-| Pulse of the Nation             | [pulse_of_the_nation_processed.csv](pulse_of_the_nation_processed.csv) | coming soon                                                                            | classification, regression                                           | 253           |
+| Pulse of the Nation             | [pulse_of_the_nation_processed.csv](pulse_of_the_nation_processed.csv) | [pulse_of_the_nation_codebook.md](pulse_of_the_nation_codebook.md)                                                                            | classification, regression                                           | 253           |
 | Reddit Laughs                   | [reddit-laughs.csv](reddit-laughs.csv)                   | [reddit-laughs_codebook.md](reddit-laughs_codebook.md)                                               | data viz, wrangling                                                  | 112           |
 | Resume Data                     | [resume.csv](resume.csv)                                 | [OpenIntro Codebook](https://www.openintro.org/data/index.php?data=resume)                           | logistic, inference                                                  | 155           |
 | SFO Weather Data                | [sfo_weather.csv](sfo_weather.csv)                       | [sfo_weather_codebook.md](sfo_weather_codebook.md)                                                   | adv ggplot                                                           | 212           |
@@ -45,3 +47,13 @@ A repository for sharing datasets we use in our classes and keeping track of the
 | Weather in Canberra, Australia  | [weather_canberra.csv](weather_canberra.csv)             | see the `weatherAUS` data in the `rattle` package                                                    | linear regression                                                    | 253           |
 | Weather in Melbourne, Australia | [weather_melbourne.csv](weather_melbourne.csv)           | see the `weatherAUS` data in the `rattle` package                                                    | linear regression                                                    | 253           |
 | World Bank                      | [worldbank.csv](worldbank.csv)                           | [worldbank_codebook.md](worldbank_codebook.md)                                                       | linear regression, data viz                                          | 155           |
+
+
+\
+\
+\
+
+
+**OTHER DATA REPOSITORIES**
+
+- [SDSS](https://community.amstat.org/statisticaleducationsection/home)
