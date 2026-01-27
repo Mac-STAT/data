@@ -1,14 +1,14 @@
-year,cafe_mac,fave_temp,hangout,latitude,longitude,birthday,highest_math,breakfast,height_cm,phys_activity,gen_ai_usage,pets_owned,screen_time,hours_hw_study
+﻿year,cafe_mac,fave_temp,hangout,latitude,longitude,birthday,highest_math,breakfast,height_cm,phys_activity,gen_ai_usage,pets_owned,screen_time,hours_hw_study
 first year,Focaccia,20,a beach,45,-93,7/14/08,Pre-calculus,Yes,180,2,1,"cat, dog, bird",6,3
 first year,egg and fried potatoes,50,the mountains,5.47,10.45,1/4/07,calc 1,Yes,165,1,2,none,8+,5
-first year,The day when they made all the random pizzas,21.1111,a forest,37.815686,-122.478234,7/20/07,"Pre calculus, AP statistics",Yes,183.8325,4,3,dog,5-Apr,2-Jan
+first year,The day when they made all the random pizzas,21.1111,a forest,37.815686,-122.478234,7/20/07,"Pre calculus, AP statistics",Yes,183.8325,4,3,dog,4-5,1-2
 senior,Mac and Cheese,76,a forest,40.41852404,-3.706151649,9/4/03,calculus 1,No,181,5,3,dog,4,5
 senior,Ice Cream,23.8889,a beach,10.2976,85.8412,8/31/04,135,Yes,171.45,3,4,"cat, dog",7,2
 sophomore,Burger,23,the mountains,38.904176,-77.051759,11/9/05,Linear Algebra ,No,195,2,3,dog,4,3
 first year,Yogurt,5,the mountains,64.02278974,-21.21218368,8/22/07,Calc 2,Yes,158,3,2,"cat, dog",5,4
 junior,Mac and cheese ,20s,a forest,36.52024532,-81.927813,10/20/04,Calc 2,Yes,185,3,2,dog,,3
-sophomore,Ribs,18,a forest,44.488745,-72.769243,4/29/06,AP Calculus,Yes,188,2,2,dog,5-Apr,6
-first year,pasta,21,the mountains,34.86050928,-111.8020044,1/28/07,calculs,Yes,182.88,4,2,dog,5 hours,3-Feb
+sophomore,Ribs,18,a forest,44.488745,-72.769243,4/29/06,AP Calculus,Yes,188,2,2,dog,4-5,6
+first year,pasta,21,the mountains,34.86050928,-111.8020044,1/28/07,calculs,Yes,182.88,4,2,dog,5 hours,2-3
 sophomore,Black bean burger,23,a beach,45.5146962,-122.6997158,,Calculus 1,No,160,3,2,none,3,3
 first year,Vanilla Soft Serve w/ Oreo Crumbs,22,the mountains,44.66600486,-109.1251006,7/30/07,Pre- Calculus ,No,160,3,1,cat,5,5
 first year,the soft serve,24,a prairie,44.9422269,-93.19914823,5/1/07,AP Precalc and AP stats (tied?),No,178,2,1,cat,6,4
@@ -29,7 +29,7 @@ first year,Mashed potatoes ,21,a forest,47.49,19,2/5/07, Multivariable calculus 
 first year,Strawberry Dragonfruit juice!,27,a beach,18.353568,-64.754958,2/11/07,Precalculus,Yes,177,2,1,"cat, dog",2.5,3
 sophomore,Burger,10,a city,26.08817,119.27661,8/31/06,MATH 279,No,173,2,3,none,8,4
 junior,Tomato soup,24,a beach,26.16323,-81.81103,4/27/04,calc II,Yes,177,3,2,bird,3,3
-first year,Pasta with shrimps,25,a beach,71,37,7/3/05,IB Math AI HL,Yes,169,3,3,none,2,3
+first year,Pasta with shrimps,+25,a beach,71,37,7/3/05,IB Math AI HL,Yes,169,3,3,none,2,3
 first year,espresso muffin,21,a forest,42.21535852,-71.3288749,5/12/06,Multivariable Calculus II,Yes,173,3,2,dog,2,3
 junior,fried cabage ,25,a beach,"25°37'18.5""N"," 100°15'47.2""E",10/5/05,calculus,Yes,170,4,5,cat,8,3
 senior,Fries,24,the desert,55.159711,-6.81018,9/18/03,Calculus ,No,162,2,1,cat,6,2
@@ -47,6 +47,6 @@ first year,Waffle fries,5,the mountains,43.77,11.2577,12/15/06,AP Calculus BC,Ye
 first year,bacon,27,a city,0.31615,32.62492,12/26/05,Calculus 1,Yes,162.56,2,2,none,3,5
 first year,Oatmeal,0,the mountains,38,104,3/3/07,IB HL Analysis ,Yes,168,3,3,"cat, dog",6,2
 sophomore,Sunbutter Sandwhich,24,a beach,-44.700661,169.115247,1/11/06,AP Statistics,Yes,179,5,2,dog,2.5 hours,6 hours
-junior,Dessert,20,the mountains,59.9373,6.9177,11/19/03,Calc 2/ Stat 155,No,185,3,2,"cat, dog",3,6-Mar
+junior,Dessert,20,the mountains,59.9373,6.9177,11/19/03,Calc 2/ Stat 155,No,185,3,2,"cat, dog",3,3-6
 sophomore,Spicy cucumber salad,24,a beach,35,33,9/22/05,IB Maths AA SL,No,179,4,2,"cat, dog",3,4
 sophomore,Cardamom Pear Cake,27,a city,32.03893205,118.7561385,4/23/06,Calc 2,No,180,4,3,dog,7h,1.5h
