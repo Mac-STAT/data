@@ -1,280 +1,404 @@
 response_date,role,on_campus_housing,primary_mode_choice,primary_mode_text,perc_primary_mode,other_modes_choice,other_modes_text,perc_other_modes,dist_1way_miles,gave_suggestion_comment
 2023-04-18T12:46:36Z,Student,Yes,NA,NA,NA,NA,NA,NA,NA,TRUE
-2023-04-18T12:49:13Z,Student,No,carpool or vanpool,NA,80%,"walk, cycle or other non-motorized transportation,bus or other public transit",NA,20%,1,FALSE
-2023-04-18T12:46:16Z,Student,No,"walk, cycle or other non-motorized transportation",NA,Probably about a 50/50 split between walking and taking the bus,bus or other public transit,NA,NA,0.6,TRUE
-2023-04-18T12:48:29Z,Student,No,"walk, cycle or other non-motorized transportation",NA,95 percent,"carpool or vanpool,Not Applicable",NA,NA,0.5,FALSE
+2023-04-18T12:49:13Z,Student,No,car/vanpool,NA,80%,"walk, cycle or other non-motorized transportation,bus or other public transit",NA,20%,1,FALSE
+2023-04-18T12:46:16Z,Student,No,walk/cycle,NA,Probably about a 50/50 split between walking and taking the bus,bus or other public transit,NA,NA,0.6,TRUE
+2023-04-18T12:48:29Z,Student,No,walk/cycle,NA,95 percent,"carpool or vanpool,Not Applicable",NA,NA,0.5,FALSE
 2023-04-18T12:47:03Z,Student,Yes,NA,NA,NA,NA,NA,NA,NA,TRUE
-2023-04-18T12:46:28Z,Student,No,"walk, cycle or other non-motorized transportation",NA,100%,Not Applicable,NA,50%,0.2,FALSE
-2023-04-18T12:53:48Z,Faculty,No,single-occupancy gas-powered vehicle,NA,100,Not Applicable,NA,0,2,FALSE
-2023-04-18T12:54:50Z,Student,No,carpool or vanpool,NA,40,"walk, cycle or other non-motorized transportation,bus or other public transit",NA,NA,0.75,FALSE
-2023-04-18T12:47:04Z,Student,No,"walk, cycle or other non-motorized transportation",NA,75%,"bus or other public transit,carpool or vanpool,single-occupancy gas-powered vehicle",NA,25%,0.5,FALSE
-2023-04-18T12:54:45Z,Staff,No,single-occupancy gas-powered vehicle,NA,40%,Not Applicable,NA,NA,12,TRUE
-2023-04-18T12:54:41Z,Staff,No,single-occupancy gas-powered vehicle,NA,99%,"carpool or vanpool,single-occupancy gas-powered vehicle",NA,NA,8.5,FALSE
-2023-04-18T12:55:20Z,Faculty,No,"walk, cycle or other non-motorized transportation",NA,95%,single-occupancy gas-powered vehicle,NA,NA,0.75,FALSE
-2023-04-18T12:52:55Z,Student,No,"walk, cycle or other non-motorized transportation",NA,99,"walk, cycle or other non-motorized transportation,single-occupancy gas-powered vehicle",NA,1,1,FALSE
-2023-04-18T12:54:51Z,Staff,No,single-occupancy gas-powered vehicle,NA,100%,Not Applicable,NA,0%,24,FALSE
-2023-04-18T12:54:16Z,Staff,No,single-occupancy gas-powered vehicle,NA,90%,bus or other public transit,NA,10%,5,TRUE
-2023-04-18T12:56:27Z,Staff,No,single-occupancy gas-powered vehicle,NA,100%,Not Applicable,NA,0%,18,FALSE
-2023-04-18T12:55:04Z,Staff,No,single-occupancy gas-powered vehicle,NA,Everyday as I live quite far from campus,single-occupancy gas-powered vehicle,NA,NA,12,FALSE
-2023-04-18T12:53:56Z,Staff,No,single-occupancy gas-powered vehicle,NA,100%,Not Applicable,NA,NA,13,TRUE
-2023-04-18T12:54:03Z,Staff,No,single-occupancy gas-powered vehicle,NA,100,Not Applicable,NA,NA,4,TRUE
-2023-04-18T12:56:40Z,Staff,No,Hybrid vehicle,Hybrid,100%,Not Applicable,NA,0%,15,FALSE
-2023-04-18T12:54:15Z,Staff,No,single-occupancy gas-powered vehicle,NA,75%,"walk, cycle or other non-motorized transportation,bus or other public transit",NA,25%,2,TRUE
+2023-04-18T12:46:28Z,Student,No,walk/cycle,NA,100%,Not Applicable,NA,50%,0.2,FALSE
+2023-04-18T12:53:48Z,Faculty,No,"solo gas
+vehicle",NA,100,Not Applicable,NA,0,2,FALSE
+2023-04-18T12:54:50Z,Student,No,car/vanpool,NA,40,"walk, cycle or other non-motorized transportation,bus or other public transit",NA,NA,0.75,FALSE
+2023-04-18T12:47:04Z,Student,No,walk/cycle,NA,75%,"bus or other public transit,carpool or vanpool,single-occupancy gas-powered vehicle",NA,25%,0.5,FALSE
+2023-04-18T12:54:45Z,Staff,No,"solo gas
+vehicle",NA,40%,Not Applicable,NA,NA,12,TRUE
+2023-04-18T12:54:41Z,Staff,No,"solo gas
+vehicle",NA,99%,"carpool or vanpool,single-occupancy gas-powered vehicle",NA,NA,8.5,FALSE
+2023-04-18T12:55:20Z,Faculty,No,walk/cycle,NA,95%,single-occupancy gas-powered vehicle,NA,NA,0.75,FALSE
+2023-04-18T12:52:55Z,Student,No,walk/cycle,NA,99,"walk, cycle or other non-motorized transportation,single-occupancy gas-powered vehicle",NA,1,1,FALSE
+2023-04-18T12:54:51Z,Staff,No,"solo gas
+vehicle",NA,100%,Not Applicable,NA,0%,24,FALSE
+2023-04-18T12:54:16Z,Staff,No,"solo gas
+vehicle",NA,90%,bus or other public transit,NA,10%,5,TRUE
+2023-04-18T12:56:27Z,Staff,No,"solo gas
+vehicle",NA,100%,Not Applicable,NA,0%,18,FALSE
+2023-04-18T12:55:04Z,Staff,No,"solo gas
+vehicle",NA,Everyday as I live quite far from campus,single-occupancy gas-powered vehicle,NA,NA,12,FALSE
+2023-04-18T12:53:56Z,Staff,No,"solo gas
+vehicle",NA,100%,Not Applicable,NA,NA,13,TRUE
+2023-04-18T12:54:03Z,Staff,No,"solo gas
+vehicle",NA,100,Not Applicable,NA,NA,4,TRUE
+2023-04-18T12:56:40Z,Staff,No,hybrid vehicle,Hybrid,100%,Not Applicable,NA,0%,15,FALSE
+2023-04-18T12:54:15Z,Staff,No,"solo gas
+vehicle",NA,75%,"walk, cycle or other non-motorized transportation,bus or other public transit",NA,25%,2,TRUE
 2023-04-18T12:59:17Z,Student,Yes,NA,NA,NA,NA,NA,NA,NA,TRUE
-2023-04-18T12:56:54Z,Staff,No,bus or other public transit,NA,85%,carpool or vanpool,NA,15%,2,TRUE
-2023-04-18T12:55:04Z,Staff,No,single-occupancy gas-powered vehicle,NA,"work from home two days a week, use car the other three days",Not Applicable,NA,not at all,15,FALSE
-2023-04-18T12:58:25Z,Faculty,No,single-occupancy gas-powered vehicle,NA,100,Not Applicable,NA,0,3,TRUE
-2023-04-18T12:57:53Z,Faculty,No,single-occupancy gas-powered vehicle,NA,60-90 minutes over the course of a week.,"walk, cycle or other non-motorized transportation,carpool or vanpool",NA,NA,1,TRUE
-2023-04-18T12:59:02Z,Staff,No,single-occupancy gas-powered vehicle,NA,1,Not Applicable,NA,0,7,TRUE
-2023-04-18T12:55:48Z,Staff,No,single-occupancy zero emissions vehicle (EV),NA,50%,single-occupancy gas-powered vehicle,NA,50%,5,TRUE
-2023-04-18T13:00:50Z,Staff,No,single-occupancy gas-powered vehicle,NA,100,Not Applicable,NA,0,25,FALSE
-2023-04-18T13:01:07Z,Student,No,"walk, cycle or other non-motorized transportation",NA,80%,"bus or other public transit,carpool or vanpool",NA,"10% carpool, 10% bus",0.9,TRUE
+2023-04-18T12:56:54Z,Staff,No,public transit,NA,85%,carpool or vanpool,NA,15%,2,TRUE
+2023-04-18T12:55:04Z,Staff,No,"solo gas
+vehicle",NA,"work from home two days a week, use car the other three days",Not Applicable,NA,not at all,15,FALSE
+2023-04-18T12:58:25Z,Faculty,No,"solo gas
+vehicle",NA,100,Not Applicable,NA,0,3,TRUE
+2023-04-18T12:57:53Z,Faculty,No,"solo gas
+vehicle",NA,60-90 minutes over the course of a week.,"walk, cycle or other non-motorized transportation,carpool or vanpool",NA,NA,1,TRUE
+2023-04-18T12:59:02Z,Staff,No,"solo gas
+vehicle",NA,1,Not Applicable,NA,0,7,TRUE
+2023-04-18T12:55:48Z,Staff,No,EV,NA,50%,single-occupancy gas-powered vehicle,NA,50%,5,TRUE
+2023-04-18T13:00:50Z,Staff,No,"solo gas
+vehicle",NA,100,Not Applicable,NA,0,25,FALSE
+2023-04-18T13:01:07Z,Student,No,walk/cycle,NA,80%,"bus or other public transit,carpool or vanpool",NA,"10% carpool, 10% bus",0.9,TRUE
 2023-04-18T13:00:15Z,Community Member,No,NA,NA,Not often,NA,NA,NA,NA,FALSE
-2023-04-18T12:58:00Z,Staff,No,single-occupancy gas-powered vehicle,NA,25%,Not Applicable,NA,NA,5.1,FALSE
-2023-04-18T12:56:25Z,Staff,No,single-occupancy gas-powered vehicle,NA,100%,Not Applicable,NA,NA,4,FALSE
-2023-04-18T13:01:44Z,Faculty,No,single-occupancy gas-powered vehicle,NA,70%,"walk, cycle or other non-motorized transportation,bus or other public transit",NA,30%,2,TRUE
+2023-04-18T12:58:00Z,Staff,No,"solo gas
+vehicle",NA,25%,Not Applicable,NA,NA,5.1,FALSE
+2023-04-18T12:56:25Z,Staff,No,"solo gas
+vehicle",NA,100%,Not Applicable,NA,NA,4,FALSE
+2023-04-18T13:01:44Z,Faculty,No,"solo gas
+vehicle",NA,70%,"walk, cycle or other non-motorized transportation,bus or other public transit",NA,30%,2,TRUE
 2023-04-18T13:01:43Z,Student,Yes,NA,NA,NA,NA,NA,NA,NA,TRUE
-2023-04-18T13:02:49Z,Faculty,No,"walk, cycle or other non-motorized transportation",NA,99,single-occupancy gas-powered vehicle,NA,1,1.5,TRUE
-2023-04-18T12:54:09Z,Faculty,No,single-occupancy gas-powered vehicle,NA,70%?,"walk, cycle or other non-motorized transportation",NA,30% or more,1,TRUE
-2023-04-18T13:03:21Z,Student,No,bus or other public transit,NA,80%,"walk, cycle or other non-motorized transportation",NA,20%,1,FALSE
-2023-04-18T13:05:30Z,Faculty,No,single-occupancy gas-powered vehicle,NA,100%,Not Applicable,NA,0%,4,TRUE
-2023-04-18T13:03:40Z,Staff,No,single-occupancy gas-powered vehicle,NA,100,Not Applicable,NA,NA,30,FALSE
-2023-04-18T13:01:06Z,Staff,No,"walk, cycle or other non-motorized transportation",NA,70%,single-occupancy gas-powered vehicle,NA,30%,1,FALSE
-2023-04-18T12:59:10Z,Staff,No,single-occupancy gas-powered vehicle,NA,100%,Not Applicable,NA,0%,2,TRUE
-2023-04-18T13:02:26Z,Staff,No,bus or other public transit,NA,90,"walk, cycle or other non-motorized transportation,Not Applicable",NA,10 - to and from the bus stop,6.5,FALSE
-2023-04-18T12:59:36Z,Faculty,No,"walk, cycle or other non-motorized transportation",NA,70,"walk, cycle or other non-motorized transportation,carpool or vanpool,single-occupancy zero emissions vehicle (EV),single-occupancy gas-powered vehicle",NA,30,0.5,TRUE
-2023-04-18T13:03:32Z,Staff,No,"walk, cycle or other non-motorized transportation",NA,70-80%,other,Hybrid vehicle,20-30%,2,FALSE
-2023-04-18T13:07:14Z,Student,No,"walk, cycle or other non-motorized transportation",NA,100%,Not Applicable,NA,0,NA,FALSE
-2023-04-18T13:07:37Z,Staff,No,"walk, cycle or other non-motorized transportation",NA,60%,"bus or other public transit,single-occupancy gas-powered vehicle",NA,40%,2,FALSE
-2023-04-18T12:53:54Z,Faculty,No,"walk, cycle or other non-motorized transportation",NA,60%,single-occupancy gas-powered vehicle,NA,40%,1,TRUE
-2023-04-18T13:03:51Z,Staff,No,single-occupancy gas-powered vehicle,NA,"100%, also work remotely",Not Applicable,NA,NA,17,TRUE
-2023-04-18T13:10:52Z,Faculty,No,"walk, cycle or other non-motorized transportation",NA,99%,single-occupancy gas-powered vehicle,NA,1%,1,TRUE
-2023-04-18T13:08:07Z,Student,No,"walk, cycle or other non-motorized transportation",NA,95%,single-occupancy gas-powered vehicle,NA,5%,0.75,TRUE
-2023-04-18T13:12:03Z,Staff,No,single-occupancy gas-powered vehicle,NA,100,Not Applicable,NA,0,2,FALSE
+2023-04-18T13:02:49Z,Faculty,No,walk/cycle,NA,99,single-occupancy gas-powered vehicle,NA,1,1.5,TRUE
+2023-04-18T12:54:09Z,Faculty,No,"solo gas
+vehicle",NA,70%?,"walk, cycle or other non-motorized transportation",NA,30% or more,1,TRUE
+2023-04-18T13:03:21Z,Student,No,public transit,NA,80%,"walk, cycle or other non-motorized transportation",NA,20%,1,FALSE
+2023-04-18T13:05:30Z,Faculty,No,"solo gas
+vehicle",NA,100%,Not Applicable,NA,0%,4,TRUE
+2023-04-18T13:03:40Z,Staff,No,"solo gas
+vehicle",NA,100,Not Applicable,NA,NA,30,FALSE
+2023-04-18T13:01:06Z,Staff,No,walk/cycle,NA,70%,single-occupancy gas-powered vehicle,NA,30%,1,FALSE
+2023-04-18T12:59:10Z,Staff,No,"solo gas
+vehicle",NA,100%,Not Applicable,NA,0%,2,TRUE
+2023-04-18T13:02:26Z,Staff,No,public transit,NA,90,"walk, cycle or other non-motorized transportation,Not Applicable",NA,10 - to and from the bus stop,6.5,FALSE
+2023-04-18T12:59:36Z,Faculty,No,walk/cycle,NA,70,"walk, cycle or other non-motorized transportation,carpool or vanpool,single-occupancy zero emissions vehicle (EV),single-occupancy gas-powered vehicle",NA,30,0.5,TRUE
+2023-04-18T13:03:32Z,Staff,No,walk/cycle,NA,70-80%,other,Hybrid vehicle,20-30%,2,FALSE
+2023-04-18T13:07:14Z,Student,No,walk/cycle,NA,100%,Not Applicable,NA,0,NA,FALSE
+2023-04-18T13:07:37Z,Staff,No,walk/cycle,NA,60%,"bus or other public transit,single-occupancy gas-powered vehicle",NA,40%,2,FALSE
+2023-04-18T12:53:54Z,Faculty,No,walk/cycle,NA,60%,single-occupancy gas-powered vehicle,NA,40%,1,TRUE
+2023-04-18T13:03:51Z,Staff,No,"solo gas
+vehicle",NA,"100%, also work remotely",Not Applicable,NA,NA,17,TRUE
+2023-04-18T13:10:52Z,Faculty,No,walk/cycle,NA,99%,single-occupancy gas-powered vehicle,NA,1%,1,TRUE
+2023-04-18T13:08:07Z,Student,No,walk/cycle,NA,95%,single-occupancy gas-powered vehicle,NA,5%,0.75,TRUE
+2023-04-18T13:12:03Z,Staff,No,"solo gas
+vehicle",NA,100,Not Applicable,NA,0,2,FALSE
 2023-04-18T13:12:08Z,Student,Yes,NA,NA,NA,NA,NA,NA,NA,TRUE
-2023-04-18T13:01:43Z,Student,No,"walk, cycle or other non-motorized transportation",NA,100%,Not Applicable,NA,NA,0.1,FALSE
-2023-04-18T12:47:22Z,Student,No,"walk, cycle or other non-motorized transportation",NA,90,bus or other public transit,NA,10,1,TRUE
-2023-04-18T13:14:33Z,Staff,No,single-occupancy gas-powered vehicle,NA,50%,"walk, cycle or other non-motorized transportation",NA,50%,1,FALSE
-2023-04-18T12:53:44Z,Staff,No,single-occupancy gas-powered vehicle,NA,100%,Not Applicable,NA,NA,9,TRUE
-2023-04-18T13:08:46Z,Staff,No,single-occupancy gas-powered vehicle,NA,95%,bus or other public transit,NA,5%,9,TRUE
+2023-04-18T13:01:43Z,Student,No,walk/cycle,NA,100%,Not Applicable,NA,NA,0.1,FALSE
+2023-04-18T12:47:22Z,Student,No,walk/cycle,NA,90,bus or other public transit,NA,10,1,TRUE
+2023-04-18T13:14:33Z,Staff,No,"solo gas
+vehicle",NA,50%,"walk, cycle or other non-motorized transportation",NA,50%,1,FALSE
+2023-04-18T12:53:44Z,Staff,No,"solo gas
+vehicle",NA,100%,Not Applicable,NA,NA,9,TRUE
+2023-04-18T13:08:46Z,Staff,No,"solo gas
+vehicle",NA,95%,bus or other public transit,NA,5%,9,TRUE
 2023-04-18T13:13:04Z,Student,Yes,NA,NA,NA,NA,NA,NA,NA,TRUE
 2023-04-18T13:15:50Z,Student,Yes,NA,NA,NA,NA,NA,NA,NA,TRUE
-2023-04-18T13:11:32Z,Staff,No,"walk, cycle or other non-motorized transportation",NA,80%,"bus or other public transit,carpool or vanpool,motorcycle, e-bike, motorized scooter, or moped,single-occupancy gas-powered vehicle",NA,NA,2,FALSE
+2023-04-18T13:11:32Z,Staff,No,walk/cycle,NA,80%,"bus or other public transit,carpool or vanpool,motorcycle, e-bike, motorized scooter, or moped,single-occupancy gas-powered vehicle",NA,NA,2,FALSE
 2023-04-18T13:12:53Z,Student,Yes,NA,NA,NA,NA,NA,NA,NA,TRUE
-2023-04-18T13:13:22Z,Faculty,No,"walk, cycle or other non-motorized transportation",NA,99%,single-occupancy gas-powered vehicle,NA,1%,1,FALSE
-2023-04-18T13:15:02Z,Staff,No,single-occupancy gas-powered vehicle,NA,80,"walk, cycle or other non-motorized transportation",NA,20,1.5,TRUE
+2023-04-18T13:13:22Z,Faculty,No,walk/cycle,NA,99%,single-occupancy gas-powered vehicle,NA,1%,1,FALSE
+2023-04-18T13:15:02Z,Staff,No,"solo gas
+vehicle",NA,80,"walk, cycle or other non-motorized transportation",NA,20,1.5,TRUE
 2023-04-18T13:07:30Z,Student,Yes,NA,NA,NA,NA,NA,NA,NA,TRUE
-2023-04-18T13:19:04Z,Staff,No,single-occupancy gas-powered vehicle,NA,100%,Not Applicable,NA,0,11,TRUE
-2023-04-18T13:19:40Z,Staff,No,single-occupancy gas-powered vehicle,NA,3 days a week,Not Applicable,NA,NA,20,FALSE
-2023-04-18T13:15:02Z,Staff,No,single-occupancy gas-powered vehicle,NA,70%,"motorcycle, e-bike, motorized scooter, or moped",NA,30%,6,TRUE
-2023-04-18T13:18:14Z,Staff,No,single-occupancy gas-powered vehicle,NA,100%,Not Applicable,NA,NA,30,FALSE
+2023-04-18T13:19:04Z,Staff,No,"solo gas
+vehicle",NA,100%,Not Applicable,NA,0,11,TRUE
+2023-04-18T13:19:40Z,Staff,No,"solo gas
+vehicle",NA,3 days a week,Not Applicable,NA,NA,20,FALSE
+2023-04-18T13:15:02Z,Staff,No,"solo gas
+vehicle",NA,70%,"motorcycle, e-bike, motorized scooter, or moped",NA,30%,6,TRUE
+2023-04-18T13:18:14Z,Staff,No,"solo gas
+vehicle",NA,100%,Not Applicable,NA,NA,30,FALSE
 2023-04-18T13:19:18Z,Student,Yes,NA,NA,NA,NA,NA,NA,NA,TRUE
-2023-04-18T13:24:07Z,Student,No,"walk, cycle or other non-motorized transportation",NA,100%,Not Applicable,NA,NA,0.75,FALSE
-2023-04-18T13:20:33Z,Student,No,"walk, cycle or other non-motorized transportation",NA,80,"carpool or vanpool,single-occupancy gas-powered vehicle",NA,20,0.5,TRUE
-2023-04-18T13:24:44Z,Student,No,"walk, cycle or other non-motorized transportation",NA,90%,"bus or other public transit,carpool or vanpool",NA,"Public Transit - 8%, carpool - 2%",0.5,TRUE
+2023-04-18T13:24:07Z,Student,No,walk/cycle,NA,100%,Not Applicable,NA,NA,0.75,FALSE
+2023-04-18T13:20:33Z,Student,No,walk/cycle,NA,80,"carpool or vanpool,single-occupancy gas-powered vehicle",NA,20,0.5,TRUE
+2023-04-18T13:24:44Z,Student,No,walk/cycle,NA,90%,"bus or other public transit,carpool or vanpool",NA,"Public Transit - 8%, carpool - 2%",0.5,TRUE
 2023-04-18T13:19:22Z,Student,Yes,NA,NA,NA,NA,NA,NA,NA,TRUE
-2023-04-18T13:27:04Z,Student,No,"walk, cycle or other non-motorized transportation",NA,I walk 100% of the time to and from campus,Not Applicable,NA,NA,0.5,TRUE
-2023-04-18T13:29:59Z,Staff,No,single-occupancy gas-powered vehicle,NA,100,single-occupancy gas-powered vehicle,NA,NA,2,FALSE
-2023-04-18T13:25:33Z,Staff,No,single-occupancy gas-powered vehicle,NA,30%,"walk, cycle or other non-motorized transportation",NA,NA,1,FALSE
+2023-04-18T13:27:04Z,Student,No,walk/cycle,NA,I walk 100% of the time to and from campus,Not Applicable,NA,NA,0.5,TRUE
+2023-04-18T13:29:59Z,Staff,No,"solo gas
+vehicle",NA,100,single-occupancy gas-powered vehicle,NA,NA,2,FALSE
+2023-04-18T13:25:33Z,Staff,No,"solo gas
+vehicle",NA,30%,"walk, cycle or other non-motorized transportation",NA,NA,1,FALSE
 2023-04-18T13:21:26Z,Staff,No,other,nothing is over 70%. 49%/49% e-bike and Car.,NA,"bus or other public transit,carpool or vanpool,motorcycle, e-bike, motorized scooter, or moped,single-occupancy gas-powered vehicle",NA,explained above,9.5,TRUE
-2023-04-18T13:31:38Z,Staff,No,single-occupancy gas-powered vehicle,NA,95,"walk, cycle or other non-motorized transportation,carpool or vanpool",NA,5,1.5,FALSE
+2023-04-18T13:31:38Z,Staff,No,"solo gas
+vehicle",NA,95,"walk, cycle or other non-motorized transportation,carpool or vanpool",NA,5,1.5,FALSE
 2023-04-18T13:33:49Z,Student,Yes,NA,NA,NA,NA,NA,NA,NA,TRUE
-2023-04-18T13:31:00Z,Student,No,"walk, cycle or other non-motorized transportation",NA,100%,"bus or other public transit,Not Applicable",NA,NA,0.25,FALSE
-2023-04-18T13:26:37Z,Staff,No,"walk, cycle or other non-motorized transportation",NA,95,"bus or other public transit,single-occupancy gas-powered vehicle",NA,5,7,TRUE
-2023-04-18T13:35:45Z,Faculty,No,single-occupancy gas-powered vehicle,NA,95,"walk, cycle or other non-motorized transportation",NA,5%,7,TRUE
-2023-04-18T13:30:07Z,Staff,No,bus or other public transit,NA,95,"walk, cycle or other non-motorized transportation,single-occupancy gas-powered vehicle",NA,3% walk; 2% drive a car,2.5,TRUE
-2023-04-18T13:34:17Z,Staff,No,single-occupancy gas-powered vehicle,NA,80,"bus or other public transit,carpool or vanpool",NA,NA,2.6,FALSE
+2023-04-18T13:31:00Z,Student,No,walk/cycle,NA,100%,"bus or other public transit,Not Applicable",NA,NA,0.25,FALSE
+2023-04-18T13:26:37Z,Staff,No,walk/cycle,NA,95,"bus or other public transit,single-occupancy gas-powered vehicle",NA,5,7,TRUE
+2023-04-18T13:35:45Z,Faculty,No,"solo gas
+vehicle",NA,95,"walk, cycle or other non-motorized transportation",NA,5%,7,TRUE
+2023-04-18T13:30:07Z,Staff,No,public transit,NA,95,"walk, cycle or other non-motorized transportation,single-occupancy gas-powered vehicle",NA,3% walk; 2% drive a car,2.5,TRUE
+2023-04-18T13:34:17Z,Staff,No,"solo gas
+vehicle",NA,80,"bus or other public transit,carpool or vanpool",NA,NA,2.6,FALSE
 2023-04-18T13:38:27Z,Student,Yes,NA,NA,NA,NA,NA,NA,NA,TRUE
-2023-04-18T13:37:47Z,Student,No,"walk, cycle or other non-motorized transportation",NA,100,Not Applicable,NA,NA,0.8,TRUE
-2023-04-18T13:23:31Z,Student,No,"walk, cycle or other non-motorized transportation",NA,none,"bus or other public transit,carpool or vanpool",NA,40% using friend's car,1,TRUE
-2023-04-18T13:38:29Z,Student,No,"walk, cycle or other non-motorized transportation",NA,100,Not Applicable,NA,NA,0.5,FALSE
-2023-04-18T13:35:16Z,Student,No,"walk, cycle or other non-motorized transportation",NA,95,carpool or vanpool,NA,5,1,FALSE
-2023-04-18T13:42:41Z,Staff,No,"walk, cycle or other non-motorized transportation",NA,80%,single-occupancy gas-powered vehicle,NA,20%,0.6,FALSE
-2023-04-18T13:36:01Z,Staff,No,single-occupancy zero emissions vehicle (EV),NA,95%,"walk, cycle or other non-motorized transportation,single-occupancy gas-powered vehicle",NA,5%,1.5,TRUE
-2023-04-18T13:45:05Z,Faculty,No,carpool or vanpool,NA,95%,bus or other public transit,NA,5%,5,FALSE
+2023-04-18T13:37:47Z,Student,No,walk/cycle,NA,100,Not Applicable,NA,NA,0.8,TRUE
+2023-04-18T13:23:31Z,Student,No,walk/cycle,NA,none,"bus or other public transit,carpool or vanpool",NA,40% using friend's car,1,TRUE
+2023-04-18T13:38:29Z,Student,No,walk/cycle,NA,100,Not Applicable,NA,NA,0.5,FALSE
+2023-04-18T13:35:16Z,Student,No,walk/cycle,NA,95,carpool or vanpool,NA,5,1,FALSE
+2023-04-18T13:42:41Z,Staff,No,walk/cycle,NA,80%,single-occupancy gas-powered vehicle,NA,20%,0.6,FALSE
+2023-04-18T13:36:01Z,Staff,No,EV,NA,95%,"walk, cycle or other non-motorized transportation,single-occupancy gas-powered vehicle",NA,5%,1.5,TRUE
+2023-04-18T13:45:05Z,Faculty,No,car/vanpool,NA,95%,bus or other public transit,NA,5%,5,FALSE
 2023-04-18T13:50:44Z,Student,Yes,NA,NA,NA,NA,NA,NA,NA,TRUE
-2023-04-18T13:12:43Z,Student,No,"walk, cycle or other non-motorized transportation",NA,20,"walk, cycle or other non-motorized transportation",NA,20,1,TRUE
+2023-04-18T13:12:43Z,Student,No,walk/cycle,NA,20,"walk, cycle or other non-motorized transportation",NA,20,1,TRUE
 2023-04-18T13:47:13Z,Student,Yes,NA,NA,NA,NA,NA,NA,NA,TRUE
-2023-04-18T13:24:00Z,Staff,No,single-occupancy gas-powered vehicle,NA,80%,"walk, cycle or other non-motorized transportation,bus or other public transit",NA,20%,14,TRUE
-2023-04-18T13:39:23Z,Student,No,single-occupancy gas-powered vehicle,NA,95% (academic year 2022-2023; my habits were different in previous academic years),"walk, cycle or other non-motorized transportation,bus or other public transit",NA,5%,0.3,TRUE
-2023-04-18T13:54:34Z,Staff,No,"walk, cycle or other non-motorized transportation",NA,12,"bus or other public transit,carpool or vanpool,single-occupancy gas-powered vehicle",NA,NA,12,FALSE
-2023-04-18T13:49:51Z,Staff,No,single-occupancy zero emissions vehicle (EV),NA,90%,"walk, cycle or other non-motorized transportation",NA,5%,5,FALSE
-2023-04-18T13:55:12Z,Staff,No,carpool or vanpool,NA,each day,bus or other public transit,NA,very little,3,TRUE
+2023-04-18T13:24:00Z,Staff,No,"solo gas
+vehicle",NA,80%,"walk, cycle or other non-motorized transportation,bus or other public transit",NA,20%,14,TRUE
+2023-04-18T13:39:23Z,Student,No,"solo gas
+vehicle",NA,95% (academic year 2022-2023; my habits were different in previous academic years),"walk, cycle or other non-motorized transportation,bus or other public transit",NA,5%,0.3,TRUE
+2023-04-18T13:54:34Z,Staff,No,walk/cycle,NA,12,"bus or other public transit,carpool or vanpool,single-occupancy gas-powered vehicle",NA,NA,12,FALSE
+2023-04-18T13:49:51Z,Staff,No,EV,NA,90%,"walk, cycle or other non-motorized transportation",NA,5%,5,FALSE
+2023-04-18T13:55:12Z,Staff,No,car/vanpool,NA,each day,bus or other public transit,NA,very little,3,TRUE
 2023-04-18T14:02:09Z,Student,Yes,NA,NA,NA,NA,NA,NA,NA,TRUE
-2023-04-18T13:53:40Z,Staff,No,single-occupancy gas-powered vehicle,NA,75,"walk, cycle or other non-motorized transportation,bus or other public transit",NA,25,2,TRUE
-2023-04-18T14:04:22Z,Student,No,"walk, cycle or other non-motorized transportation",NA,20,bus or other public transit,NA,0,0.5,FALSE
-2023-04-18T14:04:22Z,Staff,No,single-occupancy gas-powered vehicle,NA,15 minutes,Not Applicable,NA,NA,5,FALSE
+2023-04-18T13:53:40Z,Staff,No,"solo gas
+vehicle",NA,75,"walk, cycle or other non-motorized transportation,bus or other public transit",NA,25,2,TRUE
+2023-04-18T14:04:22Z,Student,No,walk/cycle,NA,20,bus or other public transit,NA,0,0.5,FALSE
+2023-04-18T14:04:22Z,Staff,No,"solo gas
+vehicle",NA,15 minutes,Not Applicable,NA,NA,5,FALSE
 2023-04-18T14:05:22Z,Student,Yes,NA,NA,NA,NA,NA,NA,NA,TRUE
-2023-04-18T14:07:02Z,Faculty,No,single-occupancy gas-powered vehicle,NA,95%,"walk, cycle or other non-motorized transportation,carpool or vanpool",NA,5%,1.5,FALSE
-2023-04-18T14:07:45Z,Staff,No,single-occupancy gas-powered vehicle,NA,100%,Not Applicable,NA,NA,3,FALSE
-2023-04-18T13:54:10Z,Staff,No,single-occupancy gas-powered vehicle,NA,100%,Not Applicable,NA,0%,25,TRUE
-2023-04-18T13:58:30Z,Staff,No,"walk, cycle or other non-motorized transportation",NA,95%,"bus or other public transit,carpool or vanpool,single-occupancy gas-powered vehicle",NA,5% or less,0.6,TRUE
-2023-04-18T14:07:54Z,Student,No,"walk, cycle or other non-motorized transportation",NA,85%,single-occupancy gas-powered vehicle,NA,15,0.5,TRUE
-2023-04-18T14:09:58Z,Staff,No,single-occupancy zero emissions vehicle (EV),NA,80%,"walk, cycle or other non-motorized transportation",NA,20%,1,FALSE
+2023-04-18T14:07:02Z,Faculty,No,"solo gas
+vehicle",NA,95%,"walk, cycle or other non-motorized transportation,carpool or vanpool",NA,5%,1.5,FALSE
+2023-04-18T14:07:45Z,Staff,No,"solo gas
+vehicle",NA,100%,Not Applicable,NA,NA,3,FALSE
+2023-04-18T13:54:10Z,Staff,No,"solo gas
+vehicle",NA,100%,Not Applicable,NA,0%,25,TRUE
+2023-04-18T13:58:30Z,Staff,No,walk/cycle,NA,95%,"bus or other public transit,carpool or vanpool,single-occupancy gas-powered vehicle",NA,5% or less,0.6,TRUE
+2023-04-18T14:07:54Z,Student,No,walk/cycle,NA,85%,single-occupancy gas-powered vehicle,NA,15,0.5,TRUE
+2023-04-18T14:09:58Z,Staff,No,EV,NA,80%,"walk, cycle or other non-motorized transportation",NA,20%,1,FALSE
 2023-04-18T12:46:30Z,Student,Yes,NA,NA,NA,NA,NA,NA,NA,TRUE
-2023-04-18T14:13:17Z,Staff,No,single-occupancy gas-powered vehicle,NA,90,bus or other public transit,NA,10,5,FALSE
+2023-04-18T14:13:17Z,Staff,No,"solo gas
+vehicle",NA,90,bus or other public transit,NA,10,5,FALSE
 2023-04-18T14:17:48Z,Student,Yes,NA,NA,NA,NA,NA,NA,NA,TRUE
-2023-04-18T14:00:15Z,Staff,No,single-occupancy gas-powered vehicle,NA,90,"walk, cycle or other non-motorized transportation",NA,10,2,TRUE
-2023-04-18T14:12:10Z,Staff,No,single-occupancy gas-powered vehicle,NA,None,single-occupancy gas-powered vehicle,NA,NA,11.5,FALSE
+2023-04-18T14:00:15Z,Staff,No,"solo gas
+vehicle",NA,90,"walk, cycle or other non-motorized transportation",NA,10,2,TRUE
+2023-04-18T14:12:10Z,Staff,No,"solo gas
+vehicle",NA,None,single-occupancy gas-powered vehicle,NA,NA,11.5,FALSE
 2023-04-18T14:24:37Z,Student,Yes,NA,NA,NA,NA,NA,NA,NA,TRUE
 2023-04-18T14:24:39Z,Alum,No,NA,NA,50%,NA,NA,NA,NA,TRUE
 2023-04-18T14:26:31Z,Student,Yes,NA,NA,NA,NA,NA,NA,NA,TRUE
-2023-04-18T14:21:19Z,Student,No,"walk, cycle or other non-motorized transportation",NA,100%,Not Applicable,NA,NA,0.4,FALSE
-2023-04-18T14:28:46Z,Staff,No,single-occupancy zero emissions vehicle (EV),NA,90,single-occupancy gas-powered vehicle,NA,10,20,TRUE
-2023-04-18T14:36:03Z,Faculty,No,single-occupancy gas-powered vehicle,NA,90,"walk, cycle or other non-motorized transportation,carpool or vanpool",NA,10,1,FALSE
-2023-04-18T14:35:11Z,Faculty,No,single-occupancy zero emissions vehicle (EV),NA,75,"walk, cycle or other non-motorized transportation,single-occupancy gas-powered vehicle",NA,25,8,TRUE
-2023-04-18T14:20:01Z,Staff,No,bus or other public transit,NA,70%,"carpool or vanpool,single-occupancy gas-powered vehicle",NA,30%,4,TRUE
+2023-04-18T14:21:19Z,Student,No,walk/cycle,NA,100%,Not Applicable,NA,NA,0.4,FALSE
+2023-04-18T14:28:46Z,Staff,No,EV,NA,90,single-occupancy gas-powered vehicle,NA,10,20,TRUE
+2023-04-18T14:36:03Z,Faculty,No,"solo gas
+vehicle",NA,90,"walk, cycle or other non-motorized transportation,carpool or vanpool",NA,10,1,FALSE
+2023-04-18T14:35:11Z,Faculty,No,EV,NA,75,"walk, cycle or other non-motorized transportation,single-occupancy gas-powered vehicle",NA,25,8,TRUE
+2023-04-18T14:20:01Z,Staff,No,public transit,NA,70%,"carpool or vanpool,single-occupancy gas-powered vehicle",NA,30%,4,TRUE
 2023-04-18T14:33:29Z,Student,Yes,NA,NA,NA,NA,NA,NA,NA,TRUE
-2023-04-18T14:27:23Z,Staff,No,single-occupancy gas-powered vehicle,NA,75%,"walk, cycle or other non-motorized transportation",NA,25%,1,FALSE
-2023-04-18T14:54:51Z,Staff,No,single-occupancy gas-powered vehicle,NA,95,bus or other public transit,NA,5,6,TRUE
-2023-04-18T14:54:40Z,Staff,No,single-occupancy gas-powered vehicle,NA,100,Not Applicable,NA,0,12,TRUE
-2023-04-18T14:55:35Z,Student,No,"walk, cycle or other non-motorized transportation",NA,100,Not Applicable,NA,0,0.2,FALSE
-2023-04-18T15:05:21Z,Faculty,No,"walk, cycle or other non-motorized transportation",NA,100,Not Applicable,NA,NA,0.1,FALSE
-2023-04-18T15:05:19Z,Staff,No,single-occupancy gas-powered vehicle,NA,80-90%,"walk, cycle or other non-motorized transportation,carpool or vanpool",NA,10-20%,2,FALSE
+2023-04-18T14:27:23Z,Staff,No,"solo gas
+vehicle",NA,75%,"walk, cycle or other non-motorized transportation",NA,25%,1,FALSE
+2023-04-18T14:54:51Z,Staff,No,"solo gas
+vehicle",NA,95,bus or other public transit,NA,5,6,TRUE
+2023-04-18T14:54:40Z,Staff,No,"solo gas
+vehicle",NA,100,Not Applicable,NA,0,12,TRUE
+2023-04-18T14:55:35Z,Student,No,walk/cycle,NA,100,Not Applicable,NA,0,0.2,FALSE
+2023-04-18T15:05:21Z,Faculty,No,walk/cycle,NA,100,Not Applicable,NA,NA,0.1,FALSE
+2023-04-18T15:05:19Z,Staff,No,"solo gas
+vehicle",NA,80-90%,"walk, cycle or other non-motorized transportation,carpool or vanpool",NA,10-20%,2,FALSE
 2023-04-18T15:05:45Z,Student,Yes,NA,NA,NA,NA,NA,NA,NA,TRUE
-2023-04-18T15:05:41Z,Staff,No,single-occupancy gas-powered vehicle,NA,95,"walk, cycle or other non-motorized transportation,bus or other public transit",NA,5,7,FALSE
-2023-04-18T14:38:44Z,Faculty,No,"walk, cycle or other non-motorized transportation",NA,99,single-occupancy gas-powered vehicle,NA,1,1,TRUE
-2023-04-18T15:23:59Z,Student,No,"walk, cycle or other non-motorized transportation",NA,80%,carpool or vanpool,NA,20%,0.5,FALSE
+2023-04-18T15:05:41Z,Staff,No,"solo gas
+vehicle",NA,95,"walk, cycle or other non-motorized transportation,bus or other public transit",NA,5,7,FALSE
+2023-04-18T14:38:44Z,Faculty,No,walk/cycle,NA,99,single-occupancy gas-powered vehicle,NA,1,1,TRUE
+2023-04-18T15:23:59Z,Student,No,walk/cycle,NA,80%,carpool or vanpool,NA,20%,0.5,FALSE
 2023-04-18T15:31:35Z,Student,Yes,NA,NA,NA,NA,NA,NA,NA,TRUE
-2023-04-18T15:35:27Z,Student,No,carpool or vanpool,NA,"90% of the time in the winter, maybe 10% of the time when the roads aren't covered in 8 inches of ice","walk, cycle or other non-motorized transportation",NA,inverse of my above answer,0.5,TRUE
-2023-04-18T15:41:56Z,Staff,No,single-occupancy gas-powered vehicle,NA,70,"carpool or vanpool,other",Work from home when possible,30,5,FALSE
-2023-04-18T15:44:22Z,Faculty,No,single-occupancy gas-powered vehicle,NA,100%,Not Applicable,NA,NA,4.3,FALSE
-2023-04-18T15:40:14Z,Faculty,No,single-occupancy gas-powered vehicle,NA,about 100% of the time,"walk, cycle or other non-motorized transportation",NA,sometimes when the weather is nice enough.,0.8,TRUE
-2023-04-18T15:55:01Z,Staff,No,"walk, cycle or other non-motorized transportation",NA,50%,single-occupancy gas-powered vehicle,NA,50%,0.5,FALSE
-2023-04-18T16:16:28Z,Staff,No,single-occupancy gas-powered vehicle,NA,100,Not Applicable,NA,NA,10,FALSE
-2023-04-18T16:20:33Z,Student,No,"walk, cycle or other non-motorized transportation",NA,95%,"bus or other public transit,carpool or vanpool",NA,5%,0.5,FALSE
+2023-04-18T15:35:27Z,Student,No,car/vanpool,NA,"90% of the time in the winter, maybe 10% of the time when the roads aren't covered in 8 inches of ice","walk, cycle or other non-motorized transportation",NA,inverse of my above answer,0.5,TRUE
+2023-04-18T15:41:56Z,Staff,No,"solo gas
+vehicle",NA,70,"carpool or vanpool,other",Work from home when possible,30,5,FALSE
+2023-04-18T15:44:22Z,Faculty,No,"solo gas
+vehicle",NA,100%,Not Applicable,NA,NA,4.3,FALSE
+2023-04-18T15:40:14Z,Faculty,No,"solo gas
+vehicle",NA,about 100% of the time,"walk, cycle or other non-motorized transportation",NA,sometimes when the weather is nice enough.,0.8,TRUE
+2023-04-18T15:55:01Z,Staff,No,walk/cycle,NA,50%,single-occupancy gas-powered vehicle,NA,50%,0.5,FALSE
+2023-04-18T16:16:28Z,Staff,No,"solo gas
+vehicle",NA,100,Not Applicable,NA,NA,10,FALSE
+2023-04-18T16:20:33Z,Student,No,walk/cycle,NA,95%,"bus or other public transit,carpool or vanpool",NA,5%,0.5,FALSE
 2023-04-18T16:29:48Z,Student,No,other,Currently studying abroad,N/A,"walk, cycle or other non-motorized transportation",NA,NA,NA,FALSE
-2023-04-18T16:51:26Z,Student,No,"walk, cycle or other non-motorized transportation",NA,95%,carpool or vanpool,NA,5%,0.5,TRUE
-2023-04-18T16:56:19Z,Staff,No,Remote work,remote work and single-occupancy gas-powered vehicle,100,Not Applicable,NA,NA,20,FALSE
-2023-04-18T17:26:38Z,Faculty,No,single-occupancy gas-powered vehicle,NA,100,bus or other public transit,NA,20,10,TRUE
-2023-04-18T17:33:41Z,Faculty,No,single-occupancy gas-powered vehicle,NA,100%,Not Applicable,NA,NA,5,FALSE
-2023-04-18T17:50:07Z,Faculty,No,single-occupancy gas-powered vehicle,NA,90,"walk, cycle or other non-motorized transportation",NA,NA,3,TRUE
-2023-04-18T18:02:07Z,Student,No,single-occupancy gas-powered vehicle,NA,60,bus or other public transit,NA,40,3.5,TRUE
-2023-04-18T18:18:52Z,Staff,No,single-occupancy gas-powered vehicle,NA,100%,Not Applicable,NA,0%--no practical options at present.,16,TRUE
-2023-04-18T18:23:25Z,Student,No,"walk, cycle or other non-motorized transportation",NA,80% when the weather is nice,"carpool or vanpool,single-occupancy gas-powered vehicle",NA,"20%, more often when it is too cold or rainy to walk",0.3,TRUE
-2023-04-18T18:31:11Z,Student,No,"walk, cycle or other non-motorized transportation",NA,100%,Not Applicable,NA,NA,0.25,TRUE
-2023-04-18T18:46:42Z,Student,No,"walk, cycle or other non-motorized transportation",NA,90,carpool or vanpool,NA,10,0.5,TRUE
+2023-04-18T16:51:26Z,Student,No,walk/cycle,NA,95%,carpool or vanpool,NA,5%,0.5,TRUE
+2023-04-18T16:56:19Z,Staff,No,remote work,remote work and single-occupancy gas-powered vehicle,100,Not Applicable,NA,NA,20,FALSE
+2023-04-18T17:26:38Z,Faculty,No,"solo gas
+vehicle",NA,100,bus or other public transit,NA,20,10,TRUE
+2023-04-18T17:33:41Z,Faculty,No,"solo gas
+vehicle",NA,100%,Not Applicable,NA,NA,5,FALSE
+2023-04-18T17:50:07Z,Faculty,No,"solo gas
+vehicle",NA,90,"walk, cycle or other non-motorized transportation",NA,NA,3,TRUE
+2023-04-18T18:02:07Z,Student,No,"solo gas
+vehicle",NA,60,bus or other public transit,NA,40,3.5,TRUE
+2023-04-18T18:18:52Z,Staff,No,"solo gas
+vehicle",NA,100%,Not Applicable,NA,0%--no practical options at present.,16,TRUE
+2023-04-18T18:23:25Z,Student,No,walk/cycle,NA,80% when the weather is nice,"carpool or vanpool,single-occupancy gas-powered vehicle",NA,"20%, more often when it is too cold or rainy to walk",0.3,TRUE
+2023-04-18T18:31:11Z,Student,No,walk/cycle,NA,100%,Not Applicable,NA,NA,0.25,TRUE
+2023-04-18T18:46:42Z,Student,No,walk/cycle,NA,90,carpool or vanpool,NA,10,0.5,TRUE
 2023-04-18T14:55:09Z,Student,Yes,NA,NA,NA,NA,NA,NA,NA,TRUE
 2023-04-18T18:57:05Z,Student,Yes,NA,NA,NA,NA,NA,NA,NA,TRUE
-2023-04-18T19:20:52Z,Faculty,No,single-occupancy gas-powered vehicle,NA,70,"walk, cycle or other non-motorized transportation",NA,30,1,FALSE
-2023-04-18T16:24:42Z,Faculty,No,single-occupancy gas-powered vehicle,NA,10%,single-occupancy zero emissions vehicle (EV),NA,NA,20,FALSE
-2023-04-18T19:40:33Z,Faculty,No,"walk, cycle or other non-motorized transportation",NA,100%,Not Applicable,NA,NA,0.5,TRUE
-2023-04-18T20:04:08Z,Student,No,single-occupancy gas-powered vehicle,NA,75%,"walk, cycle or other non-motorized transportation,carpool or vanpool",NA,25%,1,TRUE
-2023-04-18T20:24:27Z,Faculty,No,"walk, cycle or other non-motorized transportation",NA,90,single-occupancy zero emissions vehicle (EV),NA,10,0.8,TRUE
-2023-04-18T20:43:41Z,Student,No,"walk, cycle or other non-motorized transportation",NA,90%,Not Applicable,NA,NA,0.6,FALSE
+2023-04-18T19:20:52Z,Faculty,No,"solo gas
+vehicle",NA,70,"walk, cycle or other non-motorized transportation",NA,30,1,FALSE
+2023-04-18T16:24:42Z,Faculty,No,"solo gas
+vehicle",NA,10%,single-occupancy zero emissions vehicle (EV),NA,NA,20,FALSE
+2023-04-18T19:40:33Z,Faculty,No,walk/cycle,NA,100%,Not Applicable,NA,NA,0.5,TRUE
+2023-04-18T20:04:08Z,Student,No,"solo gas
+vehicle",NA,75%,"walk, cycle or other non-motorized transportation,carpool or vanpool",NA,25%,1,TRUE
+2023-04-18T20:24:27Z,Faculty,No,walk/cycle,NA,90,single-occupancy zero emissions vehicle (EV),NA,10,0.8,TRUE
+2023-04-18T20:43:41Z,Student,No,walk/cycle,NA,90%,Not Applicable,NA,NA,0.6,FALSE
 2023-04-18T20:51:28Z,Student,Yes,NA,NA,NA,NA,NA,NA,NA,TRUE
 2023-04-18T21:14:05Z,Student,Yes,NA,NA,NA,NA,NA,NA,NA,TRUE
-2023-04-18T21:25:30Z,Faculty,No,"walk, cycle or other non-motorized transportation",NA,100%,Not Applicable,NA,NA,1,FALSE
+2023-04-18T21:25:30Z,Faculty,No,walk/cycle,NA,100%,Not Applicable,NA,NA,1,FALSE
 2023-04-18T21:25:39Z,Student,Yes,NA,NA,NA,NA,NA,NA,NA,TRUE
-2023-04-18T21:46:23Z,Faculty,No,Hybrid vehicle,hybrid vehicle,All of the time - no other good option from my location,Not Applicable,NA,NA,11,TRUE
+2023-04-18T21:46:23Z,Faculty,No,hybrid vehicle,hybrid vehicle,All of the time - no other good option from my location,Not Applicable,NA,NA,11,TRUE
 2023-04-18T18:21:06Z,Student,Yes,NA,NA,NA,NA,NA,NA,NA,TRUE
-2023-04-18T20:54:17Z,Student,No,"walk, cycle or other non-motorized transportation",NA,75%,"carpool or vanpool,single-occupancy gas-powered vehicle",NA,25%,1,TRUE
-2023-04-19T00:03:13Z,Staff,No,single-occupancy gas-powered vehicle,NA,20 min,bus or other public transit,NA,NA,2,TRUE
-2023-04-19T00:30:17Z,Student,No,"walk, cycle or other non-motorized transportation",NA,I only walk 100% of the time,Not Applicable,NA,0%,0.4,FALSE
-2023-04-19T05:36:07Z,Staff,No,single-occupancy gas-powered vehicle,NA,90,bus or other public transit,NA,10,15,TRUE
-2023-04-19T06:03:45Z,Staff,No,single-occupancy gas-powered vehicle,NA,60,"motorcycle, e-bike, motorized scooter, or moped",NA,40,6,FALSE
-2023-04-18T12:47:33Z,Student,No,bus or other public transit,NA,70,"walk, cycle or other non-motorized transportation,carpool or vanpool,single-occupancy gas-powered vehicle",NA,30,2,FALSE
-2023-04-19T06:25:27Z,Faculty,No,single-occupancy gas-powered vehicle,NA,100,Not Applicable,NA,NA,75,FALSE
-2023-04-19T06:34:00Z,Staff,No,single-occupancy gas-powered vehicle,NA,100%,Not Applicable,NA,0%,15,FALSE
-2023-04-19T07:10:48Z,Faculty,No,"walk, cycle or other non-motorized transportation",NA,75%,single-occupancy gas-powered vehicle,NA,25%,0.5,FALSE
-2023-04-19T07:14:16Z,Staff,No,single-occupancy gas-powered vehicle,NA,40 minutes total,Not Applicable,NA,zero,14,FALSE
+2023-04-18T20:54:17Z,Student,No,walk/cycle,NA,75%,"carpool or vanpool,single-occupancy gas-powered vehicle",NA,25%,1,TRUE
+2023-04-19T00:03:13Z,Staff,No,"solo gas
+vehicle",NA,20 min,bus or other public transit,NA,NA,2,TRUE
+2023-04-19T00:30:17Z,Student,No,walk/cycle,NA,I only walk 100% of the time,Not Applicable,NA,0%,0.4,FALSE
+2023-04-19T05:36:07Z,Staff,No,"solo gas
+vehicle",NA,90,bus or other public transit,NA,10,15,TRUE
+2023-04-19T06:03:45Z,Staff,No,"solo gas
+vehicle",NA,60,"motorcycle, e-bike, motorized scooter, or moped",NA,40,6,FALSE
+2023-04-18T12:47:33Z,Student,No,public transit,NA,70,"walk, cycle or other non-motorized transportation,carpool or vanpool,single-occupancy gas-powered vehicle",NA,30,2,FALSE
+2023-04-19T06:25:27Z,Faculty,No,"solo gas
+vehicle",NA,100,Not Applicable,NA,NA,75,FALSE
+2023-04-19T06:34:00Z,Staff,No,"solo gas
+vehicle",NA,100%,Not Applicable,NA,0%,15,FALSE
+2023-04-19T07:10:48Z,Faculty,No,walk/cycle,NA,75%,single-occupancy gas-powered vehicle,NA,25%,0.5,FALSE
+2023-04-19T07:14:16Z,Staff,No,"solo gas
+vehicle",NA,40 minutes total,Not Applicable,NA,zero,14,FALSE
 2023-04-19T07:17:19Z,Student,Yes,NA,NA,NA,NA,NA,NA,NA,TRUE
-2023-04-19T07:36:11Z,Staff,No,single-occupancy gas-powered vehicle,NA,100,Not Applicable,NA,NA,11,FALSE
-2023-04-19T07:34:48Z,Student,No,"walk, cycle or other non-motorized transportation",NA,95%,single-occupancy gas-powered vehicle,NA,5%,0.1,FALSE
-2023-04-19T07:41:05Z,Staff,No,single-occupancy gas-powered vehicle,NA,100,other,none,NA,9,FALSE
-2023-04-19T07:36:41Z,Staff,No,single-occupancy gas-powered vehicle,NA,85%,carpool or vanpool,NA,15%,20,FALSE
-2023-04-19T07:29:31Z,Staff,No,single-occupancy gas-powered vehicle,NA,"90 % I am less than 7 min away, I use around 1 tank of gas a month.","walk, cycle or other non-motorized transportation",NA,10%,2.7,TRUE
-2023-04-19T07:27:32Z,Staff,No,single-occupancy zero emissions vehicle (EV),NA,70,"walk, cycle or other non-motorized transportation,motorcycle, e-bike, motorized scooter, or moped",NA,30,1.5,TRUE
-2023-04-19T07:49:08Z,Staff,Yes,single-occupancy gas-powered vehicle,NA,NA,"walk, cycle or other non-motorized transportation,carpool or vanpool",NA,30%,5,TRUE
-2023-04-19T08:10:25Z,Staff,No,single-occupancy gas-powered vehicle,NA,100%,Not Applicable,NA,NA,9,TRUE
+2023-04-19T07:36:11Z,Staff,No,"solo gas
+vehicle",NA,100,Not Applicable,NA,NA,11,FALSE
+2023-04-19T07:34:48Z,Student,No,walk/cycle,NA,95%,single-occupancy gas-powered vehicle,NA,5%,0.1,FALSE
+2023-04-19T07:41:05Z,Staff,No,"solo gas
+vehicle",NA,100,other,none,NA,9,FALSE
+2023-04-19T07:36:41Z,Staff,No,"solo gas
+vehicle",NA,85%,carpool or vanpool,NA,15%,20,FALSE
+2023-04-19T07:29:31Z,Staff,No,"solo gas
+vehicle",NA,"90 % I am less than 7 min away, I use around 1 tank of gas a month.","walk, cycle or other non-motorized transportation",NA,10%,2.7,TRUE
+2023-04-19T07:27:32Z,Staff,No,EV,NA,70,"walk, cycle or other non-motorized transportation,motorcycle, e-bike, motorized scooter, or moped",NA,30,1.5,TRUE
+2023-04-19T07:49:08Z,Staff,Yes,"solo gas
+vehicle",NA,NA,"walk, cycle or other non-motorized transportation,carpool or vanpool",NA,30%,5,TRUE
+2023-04-19T08:10:25Z,Staff,No,"solo gas
+vehicle",NA,100%,Not Applicable,NA,NA,9,TRUE
 2023-04-18T13:54:44Z,Alum,No,NA,NA,I take the metro transit buses to and from work Tuesday-Thursday every week,NA,NA,NA,NA,TRUE
 2023-04-19T08:22:51Z,Student,Yes,NA,NA,NA,NA,NA,NA,NA,TRUE
-2023-04-19T08:28:24Z,Staff,No,single-occupancy gas-powered vehicle,NA,3 days a week,Not Applicable,NA,NA,3,FALSE
-2023-04-19T08:31:16Z,Staff,No,Hybrid vehicle,Hybrid vehicle,90,"walk, cycle or other non-motorized transportation",NA,10,5,TRUE
-2023-04-19T08:48:20Z,Faculty,No,"walk, cycle or other non-motorized transportation",NA,more than 50%,single-occupancy zero emissions vehicle (EV),NA,50%,1,TRUE
-2023-04-19T09:16:38Z,Faculty,No,single-occupancy gas-powered vehicle,NA,currently less than 1 x per week; prior semester approx 3 x per week,Not Applicable,NA,NA,6,FALSE
-2023-04-19T08:59:14Z,Staff,No,single-occupancy gas-powered vehicle,NA,100,Not Applicable,NA,5,8,FALSE
-2023-04-19T09:42:11Z,Student,No,"walk, cycle or other non-motorized transportation",NA,100%,Not Applicable,NA,NA,0.5,FALSE
-2023-04-19T09:43:05Z,Staff,No,single-occupancy gas-powered vehicle,NA,100,Not Applicable,NA,NA,18,FALSE
-2023-04-19T09:48:18Z,Student,No,"walk, cycle or other non-motorized transportation",NA,100%,Not Applicable,NA,NA,0.5,TRUE
-2023-04-19T09:50:23Z,Staff,No,single-occupancy gas-powered vehicle,NA,100,Not Applicable,NA,NA,7,FALSE
-2023-04-19T09:42:08Z,Staff,No,single-occupancy gas-powered vehicle,NA,65-75%,"walk, cycle or other non-motorized transportation",NA,25%,5,TRUE
-2023-04-19T09:53:20Z,Staff,No,single-occupancy gas-powered vehicle,NA,90%,"walk, cycle or other non-motorized transportation",NA,10%,2,FALSE
-2023-04-19T10:03:58Z,Student,No,"walk, cycle or other non-motorized transportation",NA,100,"walk, cycle or other non-motorized transportation,bus or other public transit",NA,.5%,0.4,TRUE
-2023-04-19T10:02:37Z,Student,No,"walk, cycle or other non-motorized transportation",NA,10%,single-occupancy gas-powered vehicle,NA,"Use a car for some off campus commuting, often use bus.",0.2,TRUE
-2023-04-19T09:59:30Z,Staff,No,single-occupancy gas-powered vehicle,NA,100,Not Applicable,NA,NA,5.7,TRUE
-2023-04-19T10:11:11Z,Staff,No,single-occupancy gas-powered vehicle,NA,90%,bus or other public transit,NA,10%,2.3,FALSE
+2023-04-19T08:28:24Z,Staff,No,"solo gas
+vehicle",NA,3 days a week,Not Applicable,NA,NA,3,FALSE
+2023-04-19T08:31:16Z,Staff,No,hybrid vehicle,Hybrid vehicle,90,"walk, cycle or other non-motorized transportation",NA,10,5,TRUE
+2023-04-19T08:48:20Z,Faculty,No,walk/cycle,NA,more than 50%,single-occupancy zero emissions vehicle (EV),NA,50%,1,TRUE
+2023-04-19T09:16:38Z,Faculty,No,"solo gas
+vehicle",NA,currently less than 1 x per week; prior semester approx 3 x per week,Not Applicable,NA,NA,6,FALSE
+2023-04-19T08:59:14Z,Staff,No,"solo gas
+vehicle",NA,100,Not Applicable,NA,5,8,FALSE
+2023-04-19T09:42:11Z,Student,No,walk/cycle,NA,100%,Not Applicable,NA,NA,0.5,FALSE
+2023-04-19T09:43:05Z,Staff,No,"solo gas
+vehicle",NA,100,Not Applicable,NA,NA,18,FALSE
+2023-04-19T09:48:18Z,Student,No,walk/cycle,NA,100%,Not Applicable,NA,NA,0.5,TRUE
+2023-04-19T09:50:23Z,Staff,No,"solo gas
+vehicle",NA,100,Not Applicable,NA,NA,7,FALSE
+2023-04-19T09:42:08Z,Staff,No,"solo gas
+vehicle",NA,65-75%,"walk, cycle or other non-motorized transportation",NA,25%,5,TRUE
+2023-04-19T09:53:20Z,Staff,No,"solo gas
+vehicle",NA,90%,"walk, cycle or other non-motorized transportation",NA,10%,2,FALSE
+2023-04-19T10:03:58Z,Student,No,walk/cycle,NA,100,"walk, cycle or other non-motorized transportation,bus or other public transit",NA,.5%,0.4,TRUE
+2023-04-19T10:02:37Z,Student,No,walk/cycle,NA,10%,single-occupancy gas-powered vehicle,NA,"Use a car for some off campus commuting, often use bus.",0.2,TRUE
+2023-04-19T09:59:30Z,Staff,No,"solo gas
+vehicle",NA,100,Not Applicable,NA,NA,5.7,TRUE
+2023-04-19T10:11:11Z,Staff,No,"solo gas
+vehicle",NA,90%,bus or other public transit,NA,10%,2.3,FALSE
 2023-04-19T10:14:05Z,Student,Yes,NA,NA,NA,NA,NA,NA,NA,TRUE
-2023-04-19T10:26:54Z,Faculty,No,"walk, cycle or other non-motorized transportation",NA,60%,"bus or other public transit,carpool or vanpool,single-occupancy gas-powered vehicle",NA,NA,9,TRUE
-2023-04-19T10:24:19Z,Staff,No,single-occupancy gas-powered vehicle,NA,I am a hybrid worker so I only come in when needed.  THIS needs to be pushed more on this campus.,Not Applicable,NA,NA,12,TRUE
-2023-04-19T10:59:52Z,Staff,No,single-occupancy gas-powered vehicle,NA,100%,Not Applicable,NA,NA,90,FALSE
+2023-04-19T10:26:54Z,Faculty,No,walk/cycle,NA,60%,"bus or other public transit,carpool or vanpool,single-occupancy gas-powered vehicle",NA,NA,9,TRUE
+2023-04-19T10:24:19Z,Staff,No,"solo gas
+vehicle",NA,I am a hybrid worker so I only come in when needed.  THIS needs to be pushed more on this campus.,Not Applicable,NA,NA,12,TRUE
+2023-04-19T10:59:52Z,Staff,No,"solo gas
+vehicle",NA,100%,Not Applicable,NA,NA,90,FALSE
 2023-04-19T11:15:16Z,Student,Yes,NA,NA,NA,NA,NA,NA,NA,TRUE
-2023-04-19T11:33:16Z,Faculty,No,single-occupancy zero emissions vehicle (EV),NA,100%,Not Applicable,NA,0,15,TRUE
-2023-04-19T11:58:49Z,Staff,No,single-occupancy gas-powered vehicle,NA,100%,Not Applicable,NA,0%,12,TRUE
+2023-04-19T11:33:16Z,Faculty,No,EV,NA,100%,Not Applicable,NA,0,15,TRUE
+2023-04-19T11:58:49Z,Staff,No,"solo gas
+vehicle",NA,100%,Not Applicable,NA,0%,12,TRUE
 2023-04-19T12:06:36Z,Student,Yes,NA,NA,NA,NA,NA,NA,NA,TRUE
-2023-04-19T12:44:28Z,Staff,No,single-occupancy gas-powered vehicle,NA,50%,bus or other public transit,NA,50%,7,FALSE
-2023-04-19T12:53:19Z,Faculty,No,Hybrid vehicle,single-occupancy hybrid vehicle,80%,"walk, cycle or other non-motorized transportation",NA,20%,3,TRUE
-2023-04-19T13:02:19Z,Staff,No,single-occupancy gas-powered vehicle,NA,"100%, 3 days a week",Not Applicable,NA,NA,15,TRUE
-2023-04-19T13:10:11Z,Staff,No,single-occupancy gas-powered vehicle,NA,90% approximately,carpool or vanpool,NA,10%,11,TRUE
-2023-04-19T13:13:46Z,Staff,No,single-occupancy gas-powered vehicle,NA,Less than 10 minutes,"walk, cycle or other non-motorized transportation,bus or other public transit,carpool or vanpool",NA,NA,3,TRUE
-2023-04-19T13:09:05Z,Staff,No,single-occupancy gas-powered vehicle,NA,100,Not Applicable,NA,0,2,TRUE
-2023-04-19T13:37:11Z,Staff,No,single-occupancy gas-powered vehicle,NA,100%$,Not Applicable,NA,0%,22,FALSE
-2023-04-19T12:02:09Z,Staff,No,carpool or vanpool,NA,100,Not Applicable,NA,NA,1,FALSE
-2023-04-19T13:30:50Z,Faculty,No,single-occupancy gas-powered vehicle,NA,90%,"walk, cycle or other non-motorized transportation",NA,10% (I biked more before getting pregnant and not at all after),4,TRUE
-2023-04-19T14:55:07Z,Student,No,carpool or vanpool,NA,90%,"walk, cycle or other non-motorized transportation,single-occupancy gas-powered vehicle",NA,10%,1,FALSE
-2023-04-19T15:49:11Z,Staff,No,Remote work,I am full time WFH but I bike or drive when i come to work.,I come to campus once or twice a week,"walk, cycle or other non-motorized transportation,carpool or vanpool",NA,NA,3.5,FALSE
-2023-04-19T16:27:45Z,Staff,No,single-occupancy gas-powered vehicle,NA,100%,Not Applicable,NA,0,5,FALSE
-2023-04-19T18:54:42Z,Student,No,"walk, cycle or other non-motorized transportation",NA,95%,"carpool or vanpool,single-occupancy gas-powered vehicle",NA,5%,0.5,TRUE
-2023-04-19T21:37:27Z,Student,No,single-occupancy gas-powered vehicle,NA,"70%, mostly when it gets cold. sometimes I walk in the winter. i bike when it's warmer","walk, cycle or other non-motorized transportation",NA,30%,0.75,TRUE
-2023-04-20T01:22:11Z,Student,No,"walk, cycle or other non-motorized transportation",NA,0,"walk, cycle or other non-motorized transportation",NA,NA,0.5,FALSE
-2023-04-20T06:32:11Z,Staff,No,single-occupancy gas-powered vehicle,NA,100,single-occupancy gas-powered vehicle,NA,0,20,FALSE
-2023-04-20T07:19:07Z,Staff,No,single-occupancy gas-powered vehicle,NA,95%,"walk, cycle or other non-motorized transportation",NA,5%,12,TRUE
-2023-04-20T07:36:28Z,Faculty,No,"walk, cycle or other non-motorized transportation",NA,95%,single-occupancy gas-powered vehicle,NA,5%,0.25,FALSE
-2023-04-20T08:37:22Z,Student,No,single-occupancy gas-powered vehicle,NA,80%,"walk, cycle or other non-motorized transportation",NA,20%,0.2,FALSE
-2023-04-20T08:47:59Z,Faculty,No,single-occupancy gas-powered vehicle,NA,"100% of the time, but that is two days a week",Not Applicable,NA,NA,17,TRUE
-2023-04-20T09:00:19Z,Faculty,No,single-occupancy gas-powered vehicle,NA,80,"walk, cycle or other non-motorized transportation",NA,20,3,FALSE
-2023-04-20T09:10:17Z,Student,No,bus or other public transit,NA,95%,"walk, cycle or other non-motorized transportation,carpool or vanpool",NA,5%,2,FALSE
-2023-04-20T09:09:16Z,Faculty,No,single-occupancy gas-powered vehicle,NA,100%,Not Applicable,NA,0,8,FALSE
-2023-04-20T09:36:56Z,Faculty,No,single-occupancy zero emissions vehicle (EV),NA,100%,Not Applicable,NA,0%,17,TRUE
+2023-04-19T12:44:28Z,Staff,No,"solo gas
+vehicle",NA,50%,bus or other public transit,NA,50%,7,FALSE
+2023-04-19T12:53:19Z,Faculty,No,hybrid vehicle,single-occupancy hybrid vehicle,80%,"walk, cycle or other non-motorized transportation",NA,20%,3,TRUE
+2023-04-19T13:02:19Z,Staff,No,"solo gas
+vehicle",NA,"100%, 3 days a week",Not Applicable,NA,NA,15,TRUE
+2023-04-19T13:10:11Z,Staff,No,"solo gas
+vehicle",NA,90% approximately,carpool or vanpool,NA,10%,11,TRUE
+2023-04-19T13:13:46Z,Staff,No,"solo gas
+vehicle",NA,Less than 10 minutes,"walk, cycle or other non-motorized transportation,bus or other public transit,carpool or vanpool",NA,NA,3,TRUE
+2023-04-19T13:09:05Z,Staff,No,"solo gas
+vehicle",NA,100,Not Applicable,NA,0,2,TRUE
+2023-04-19T13:37:11Z,Staff,No,"solo gas
+vehicle",NA,100%$,Not Applicable,NA,0%,22,FALSE
+2023-04-19T12:02:09Z,Staff,No,car/vanpool,NA,100,Not Applicable,NA,NA,1,FALSE
+2023-04-19T13:30:50Z,Faculty,No,"solo gas
+vehicle",NA,90%,"walk, cycle or other non-motorized transportation",NA,10% (I biked more before getting pregnant and not at all after),4,TRUE
+2023-04-19T14:55:07Z,Student,No,car/vanpool,NA,90%,"walk, cycle or other non-motorized transportation,single-occupancy gas-powered vehicle",NA,10%,1,FALSE
+2023-04-19T15:49:11Z,Staff,No,remote work,I am full time WFH but I bike or drive when i come to work.,I come to campus once or twice a week,"walk, cycle or other non-motorized transportation,carpool or vanpool",NA,NA,3.5,FALSE
+2023-04-19T16:27:45Z,Staff,No,"solo gas
+vehicle",NA,100%,Not Applicable,NA,0,5,FALSE
+2023-04-19T18:54:42Z,Student,No,walk/cycle,NA,95%,"carpool or vanpool,single-occupancy gas-powered vehicle",NA,5%,0.5,TRUE
+2023-04-19T21:37:27Z,Student,No,"solo gas
+vehicle",NA,"70%, mostly when it gets cold. sometimes I walk in the winter. i bike when it's warmer","walk, cycle or other non-motorized transportation",NA,30%,0.75,TRUE
+2023-04-20T01:22:11Z,Student,No,walk/cycle,NA,0,"walk, cycle or other non-motorized transportation",NA,NA,0.5,FALSE
+2023-04-20T06:32:11Z,Staff,No,"solo gas
+vehicle",NA,100,single-occupancy gas-powered vehicle,NA,0,20,FALSE
+2023-04-20T07:19:07Z,Staff,No,"solo gas
+vehicle",NA,95%,"walk, cycle or other non-motorized transportation",NA,5%,12,TRUE
+2023-04-20T07:36:28Z,Faculty,No,walk/cycle,NA,95%,single-occupancy gas-powered vehicle,NA,5%,0.25,FALSE
+2023-04-20T08:37:22Z,Student,No,"solo gas
+vehicle",NA,80%,"walk, cycle or other non-motorized transportation",NA,20%,0.2,FALSE
+2023-04-20T08:47:59Z,Faculty,No,"solo gas
+vehicle",NA,"100% of the time, but that is two days a week",Not Applicable,NA,NA,17,TRUE
+2023-04-20T09:00:19Z,Faculty,No,"solo gas
+vehicle",NA,80,"walk, cycle or other non-motorized transportation",NA,20,3,FALSE
+2023-04-20T09:10:17Z,Student,No,public transit,NA,95%,"walk, cycle or other non-motorized transportation,carpool or vanpool",NA,5%,2,FALSE
+2023-04-20T09:09:16Z,Faculty,No,"solo gas
+vehicle",NA,100%,Not Applicable,NA,0,8,FALSE
+2023-04-20T09:36:56Z,Faculty,No,EV,NA,100%,Not Applicable,NA,0%,17,TRUE
 2023-04-20T10:50:39Z,Student,Yes,NA,NA,NA,NA,NA,NA,NA,TRUE
-2023-04-20T11:47:31Z,Faculty,No,single-occupancy gas-powered vehicle,NA,100,Not Applicable,NA,NA,3.8,TRUE
+2023-04-20T11:47:31Z,Faculty,No,"solo gas
+vehicle",NA,100,Not Applicable,NA,NA,3.8,TRUE
 2023-04-20T12:22:01Z,Student,Yes,NA,NA,NA,NA,NA,NA,NA,TRUE
 2023-04-19T14:38:12Z,Community Member,No,NA,NA,100,NA,NA,NA,NA,FALSE
-2023-04-20T15:13:35Z,Student,No,"walk, cycle or other non-motorized transportation",NA,33%,bus or other public transit,NA,33%,0.1,TRUE
+2023-04-20T15:13:35Z,Student,No,walk/cycle,NA,33%,bus or other public transit,NA,33%,0.1,TRUE
 2023-04-20T19:09:00Z,Student,Yes,NA,NA,NA,NA,NA,NA,NA,TRUE
-2023-04-21T06:00:42Z,Staff,No,single-occupancy gas-powered vehicle,NA,100,Not Applicable,NA,0,1.5,FALSE
-2023-04-21T07:48:26Z,Staff,No,single-occupancy gas-powered vehicle,NA,10,"motorcycle, e-bike, motorized scooter, or moped",NA,10,5,TRUE
-2023-04-21T09:49:29Z,Student,No,"walk, cycle or other non-motorized transportation",NA,90,single-occupancy gas-powered vehicle,NA,10,1,FALSE
+2023-04-21T06:00:42Z,Staff,No,"solo gas
+vehicle",NA,100,Not Applicable,NA,0,1.5,FALSE
+2023-04-21T07:48:26Z,Staff,No,"solo gas
+vehicle",NA,10,"motorcycle, e-bike, motorized scooter, or moped",NA,10,5,TRUE
+2023-04-21T09:49:29Z,Student,No,walk/cycle,NA,90,single-occupancy gas-powered vehicle,NA,10,1,FALSE
 2023-04-21T09:53:40Z,Student,Yes,NA,NA,NA,NA,NA,NA,NA,TRUE
 2023-04-21T09:56:19Z,Student,Yes,NA,NA,NA,NA,NA,NA,NA,TRUE
-2023-04-21T10:12:08Z,Staff,No,single-occupancy gas-powered vehicle,NA,90%,carpool or vanpool,NA,10%,10,TRUE
-2023-04-21T10:00:53Z,Staff,No,"walk, cycle or other non-motorized transportation",NA,"During the spring, summer, and fall, I bike to work 95% of the time. During the winter, I drive.",single-occupancy gas-powered vehicle,NA,Depends on the season (see previous explanation).,3.5,TRUE
-2023-04-21T09:58:48Z,Staff,No,single-occupancy gas-powered vehicle,NA,100 %,Not Applicable,NA,NA,6,TRUE
+2023-04-21T10:12:08Z,Staff,No,"solo gas
+vehicle",NA,90%,carpool or vanpool,NA,10%,10,TRUE
+2023-04-21T10:00:53Z,Staff,No,walk/cycle,NA,"During the spring, summer, and fall, I bike to work 95% of the time. During the winter, I drive.",single-occupancy gas-powered vehicle,NA,Depends on the season (see previous explanation).,3.5,TRUE
+2023-04-21T09:58:48Z,Staff,No,"solo gas
+vehicle",NA,100 %,Not Applicable,NA,NA,6,TRUE
 2023-04-21T15:50:45Z,Student,Yes,NA,NA,NA,NA,NA,NA,NA,TRUE
-2023-04-23T05:20:17Z,Staff,No,single-occupancy gas-powered vehicle,NA,60%,carpool or vanpool,NA,5,20,FALSE
-2023-04-24T06:26:19Z,Staff,No,single-occupancy gas-powered vehicle,NA,100%,Not Applicable,NA,NA,16,TRUE
-2023-04-24T09:49:55Z,Faculty,No,"walk, cycle or other non-motorized transportation",NA,95%,single-occupancy gas-powered vehicle,NA,less than 5%,0.5,FALSE
-2023-04-24T09:53:34Z,Staff,No,"walk, cycle or other non-motorized transportation",NA,70%,"motorcycle, e-bike, motorized scooter, or moped,single-occupancy gas-powered vehicle",NA,30%,2,FALSE
-2023-04-24T10:28:49Z,Staff,No,single-occupancy gas-powered vehicle,NA,90%,bus or other public transit,NA,10%,3,TRUE
-2023-04-24T10:51:28Z,Staff,No,single-occupancy gas-powered vehicle,NA,90%,"walk, cycle or other non-motorized transportation,bus or other public transit",NA,NA,NA,TRUE
-2023-04-24T13:07:18Z,Staff,No,"walk, cycle or other non-motorized transportation",NA,100,Not Applicable,NA,NA,0.25,FALSE
-2023-04-24T13:09:21Z,Student,No,bus or other public transit,NA,80%,"walk, cycle or other non-motorized transportation",NA,15%,1,FALSE
-2023-04-24T15:43:09Z,Faculty,No,single-occupancy gas-powered vehicle,NA,100,Not Applicable,NA,0,6,TRUE
-2023-04-24T19:57:18Z,Staff,No,single-occupancy gas-powered vehicle,NA,90%,"walk, cycle or other non-motorized transportation,bus or other public transit",NA,10%,1.1,TRUE
-2023-04-25T14:25:45Z,Staff,No,single-occupancy gas-powered vehicle,NA,100,Not Applicable,NA,NA,20,FALSE
-2023-04-25T20:34:12Z,Student,No,"walk, cycle or other non-motorized transportation",NA,90%,bus or other public transit,NA,10%,0.5,TRUE
+2023-04-23T05:20:17Z,Staff,No,"solo gas
+vehicle",NA,60%,carpool or vanpool,NA,5,20,FALSE
+2023-04-24T06:26:19Z,Staff,No,"solo gas
+vehicle",NA,100%,Not Applicable,NA,NA,16,TRUE
+2023-04-24T09:49:55Z,Faculty,No,walk/cycle,NA,95%,single-occupancy gas-powered vehicle,NA,less than 5%,0.5,FALSE
+2023-04-24T09:53:34Z,Staff,No,walk/cycle,NA,70%,"motorcycle, e-bike, motorized scooter, or moped,single-occupancy gas-powered vehicle",NA,30%,2,FALSE
+2023-04-24T10:28:49Z,Staff,No,"solo gas
+vehicle",NA,90%,bus or other public transit,NA,10%,3,TRUE
+2023-04-24T10:51:28Z,Staff,No,"solo gas
+vehicle",NA,90%,"walk, cycle or other non-motorized transportation,bus or other public transit",NA,NA,NA,TRUE
+2023-04-24T13:07:18Z,Staff,No,walk/cycle,NA,100,Not Applicable,NA,NA,0.25,FALSE
+2023-04-24T13:09:21Z,Student,No,public transit,NA,80%,"walk, cycle or other non-motorized transportation",NA,15%,1,FALSE
+2023-04-24T15:43:09Z,Faculty,No,"solo gas
+vehicle",NA,100,Not Applicable,NA,0,6,TRUE
+2023-04-24T19:57:18Z,Staff,No,"solo gas
+vehicle",NA,90%,"walk, cycle or other non-motorized transportation,bus or other public transit",NA,10%,1.1,TRUE
+2023-04-25T14:25:45Z,Staff,No,"solo gas
+vehicle",NA,100,Not Applicable,NA,NA,20,FALSE
+2023-04-25T20:34:12Z,Student,No,walk/cycle,NA,90%,bus or other public transit,NA,10%,0.5,TRUE
 2023-04-25T22:59:00Z,Student,Yes,NA,NA,NA,NA,NA,NA,NA,TRUE
-2023-04-26T06:07:54Z,Staff,No,single-occupancy gas-powered vehicle,NA,100%,Not Applicable,NA,NA,7,FALSE
-2023-04-26T06:49:40Z,Staff,No,single-occupancy gas-powered vehicle,NA,0,Not Applicable,NA,NA,4,FALSE
-2023-04-26T09:18:05Z,Staff,No,"walk, cycle or other non-motorized transportation",NA,90,single-occupancy gas-powered vehicle,NA,10,1,TRUE
-2023-04-26T10:23:17Z,Staff,No,bus or other public transit,NA,70%,"carpool or vanpool,single-occupancy zero emissions vehicle (EV)",NA,"Carpool 20%, Electric vehicle (evie carshare) 10%",7,TRUE
-2023-04-27T16:48:00Z,Student,No,"walk, cycle or other non-motorized transportation",NA,90,single-occupancy gas-powered vehicle,NA,10,0.1,TRUE
-2023-05-01T09:12:12Z,Staff,No,carpool or vanpool,NA,90,"walk, cycle or other non-motorized transportation,bus or other public transit,single-occupancy gas-powered vehicle",NA,10,20,TRUE
-2023-05-05T06:32:48Z,Faculty,No,single-occupancy gas-powered vehicle,NA,100,Not Applicable,NA,0,93,TRUE
-2023-05-04T15:24:32Z,Staff,No,single-occupancy gas-powered vehicle,NA,95%,"walk, cycle or other non-motorized transportation",NA,5%,1,FALSE
-2023-05-06T11:32:07Z,Student,No,"walk, cycle or other non-motorized transportation",NA,75%,bus or other public transit,NA,25%,0.5,FALSE
-2023-04-18T14:47:07Z,Staff,No,single-occupancy gas-powered vehicle,NA,100,Not Applicable,NA,0,8.5,FALSE
-2023-05-08T13:49:19Z,Staff,No,single-occupancy gas-powered vehicle,NA,100,Not Applicable,NA,0,2,FALSE
-2023-05-09T13:06:23Z,Staff,No,single-occupancy gas-powered vehicle,NA,100% of time when I commute to campus (typically 3 days/week),Not Applicable,NA,NA,9,FALSE
+2023-04-26T06:07:54Z,Staff,No,"solo gas
+vehicle",NA,100%,Not Applicable,NA,NA,7,FALSE
+2023-04-26T06:49:40Z,Staff,No,"solo gas
+vehicle",NA,0,Not Applicable,NA,NA,4,FALSE
+2023-04-26T09:18:05Z,Staff,No,walk/cycle,NA,90,single-occupancy gas-powered vehicle,NA,10,1,TRUE
+2023-04-26T10:23:17Z,Staff,No,public transit,NA,70%,"carpool or vanpool,single-occupancy zero emissions vehicle (EV)",NA,"Carpool 20%, Electric vehicle (evie carshare) 10%",7,TRUE
+2023-04-27T16:48:00Z,Student,No,walk/cycle,NA,90,single-occupancy gas-powered vehicle,NA,10,0.1,TRUE
+2023-05-01T09:12:12Z,Staff,No,car/vanpool,NA,90,"walk, cycle or other non-motorized transportation,bus or other public transit,single-occupancy gas-powered vehicle",NA,10,20,TRUE
+2023-05-05T06:32:48Z,Faculty,No,"solo gas
+vehicle",NA,100,Not Applicable,NA,0,93,TRUE
+2023-05-04T15:24:32Z,Staff,No,"solo gas
+vehicle",NA,95%,"walk, cycle or other non-motorized transportation",NA,5%,1,FALSE
+2023-05-06T11:32:07Z,Student,No,walk/cycle,NA,75%,bus or other public transit,NA,25%,0.5,FALSE
+2023-04-18T14:47:07Z,Staff,No,"solo gas
+vehicle",NA,100,Not Applicable,NA,0,8.5,FALSE
+2023-05-08T13:49:19Z,Staff,No,"solo gas
+vehicle",NA,100,Not Applicable,NA,0,2,FALSE
+2023-05-09T13:06:23Z,Staff,No,"solo gas
+vehicle",NA,100% of time when I commute to campus (typically 3 days/week),Not Applicable,NA,NA,9,FALSE
 2023-05-17T11:52:40Z,Student,Yes,NA,NA,NA,NA,NA,NA,NA,TRUE
-2023-04-19T10:34:01Z,Staff,No,single-occupancy gas-powered vehicle,NA,NA,NA,NA,NA,NA,FALSE
+2023-04-19T10:34:01Z,Staff,No,"solo gas
+vehicle",NA,NA,NA,NA,NA,NA,FALSE
