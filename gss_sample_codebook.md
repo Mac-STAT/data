@@ -1,9 +1,7 @@
 
 This is a sample from the General Social Survey focused on 1998 and 2018. To account for complex survey weights, this dataset has been resampled so that it can be treated as a simple random sample. 
 
-Source: gssr package
-
-Healy K (2024). _gssr: General Social Survey data for use in R_. R
+Data Source: Healy K (2024). _gssr: General Social Survey data for use in R_. R
   package version 0.8.0, <http://kjhealy.github.io/gssr>.
 
 
