@@ -56,6 +56,8 @@ A repository for sharing datasets we use in our classes and keeping track of the
 \
 
 
-**OTHER DATA REPOSITORIES**
+**OTHER PLACES TO LOOK FOR DATA**
 
 - [SDSS](https://community.amstat.org/statisticaleducationsection/home)
+- [USPROC](https://www.causeweb.org/usproc/projects/winners)
+- [Stat2 book data](https://cran.r-project.org/web/packages/Stat2Data/index.html)
