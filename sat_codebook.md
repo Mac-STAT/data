@@ -1,9 +1,9 @@
 # State-level SAT Scores
-Source: From Deborah Lynn Guber (1999) "Getting What You Pay For: The Debate Over Equity in Public School Expenditures" Journal of Statistics Education 7(2) available from <http://www.amstat.org/publications/jse/secure/v7n2/datasets.guber.cfm> 
+Source: From Deborah Lynn Guber (1999) "Getting What You Pay For: The Debate Over Equity in Public School Expenditures" Journal of Statistics Education 7(2) available from <https://doi.org/10.1080/10691898.1999.12131274>
 
-Variables 
+# Variables 
 
-`State`  Name of state (in quotation marks) 
+`State` - Name of state (in quotation marks) 
 
 `expend` - Expenditure per pupil in average daily attendance in public elementary and sec- ondary schools, 1994-95 (in thousands of dollars) 
 
