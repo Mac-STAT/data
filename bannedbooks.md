@@ -1,10 +1,10 @@
 # Banned Books
 
-Abby Loe downloaded a longitudinal dataset from [Paul Roback's **Beyond MLR** Github Website](https://github.com/proback/BeyondMLR/tree/master/data) in 2026.
+Abby Loe downloaded a longitudinal dataset from [Paul Roback's *Beyond MLR* Github Website](https://github.com/proback/BeyondMLR/tree/master/data) in 2026.
 
 The original dataset had multiple observations per book, over a ten year period, starting January 2000, and ending in November of 2010.
 
-Data were grouped by book, and `slice_sample`d at one observation per book.
+Data were grouped by book, and `slice_sample`d at one observation per book. Texas had over ten times as many challenges during this period, so it was removed from the original dataset.
 
 
 ## Variables
